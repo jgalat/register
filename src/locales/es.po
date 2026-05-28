@@ -5,623 +5,623 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: es_US\n"
+"Language: es\n"
 "Project-Id-Version: reserve-register\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-05-28 14:04\n"
+"PO-Revision-Date: 2026-05-28 14:30\n"
 "Last-Translator: \n"
-"Language-Team: Spanish, United States\n"
+"Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: reserve-register\n"
 "X-Crowdin-Project-ID: 901379\n"
-"X-Crowdin-Language: es-US\n"
+"X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/src/locales/en.po\n"
 "X-Crowdin-File-ID: 7\n"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:54
 msgid " auctioned"
-msgstr ""
+msgstr " subastado"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/redeem/index.tsx:37
 msgid "- Redeem {0}"
-msgstr ""
+msgstr "- Redeem {0}"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:65
 msgid "(in their Github repository)"
-msgstr ""
+msgstr "(en su repositorio de Github)"
 
 #. placeholder {0}: !!holders ? `Mint ${formatCurrency(holders, 1)}% Est. APY` : 'Mint'
 #. placeholder {0}: CHAIN_TAGS[chainId]
 #: src/views/yield-dtf/deploy/components/TokenParameters.tsx:42
 #: src/views/yield-dtf/overview/components/hero/overview-actions.tsx:123
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #. placeholder {1}: currentPrice === 'USD' ? 'Price' : 'Exchange Rate'
 #: src/views/yield-dtf/overview/components/charts/price-chart.tsx:132
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/overview/components/charts/apy-chart.tsx:294
 msgid "{0} APY"
-msgstr ""
+msgstr "{0} APY"
 
 #. placeholder {0}: settleable?.length ?? 0
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:74
 msgid "{0} auctions"
-msgstr ""
+msgstr "Subastas {0}"
 
 #. placeholder {0}: expanded ? '-' : '+'
 #: src/views/yield-dtf/overview/components/hero/token-mandate.tsx:25
 msgid "{0} Description"
-msgstr ""
+msgstr "Descripción {0}"
 
 #. placeholder {0}: formatCurrency(revenueData?.pendingToMelt ?? 0)
 #. placeholder {1}: rToken?.symbol ?? 'rToken'
 #: src/views/yield-dtf/auctions/auctions-sidebar/MeltingBox.tsx:42
 msgid "{0} of {1}"
-msgstr ""
+msgstr "{0} de {1}"
 
 #: src/views/yield-dtf/issuance/components/wrapping/CollateralItem.tsx:332
 msgid "{fromToken} amount"
-msgstr ""
+msgstr "Cantidad {fromToken}"
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:66
 msgid "{pauseLabel} not paused"
-msgstr ""
+msgstr "{pauseLabel} no pausado"
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:66
 msgid "{pauseLabel} paused"
-msgstr ""
+msgstr "{pauseLabel} pausado"
 
 #: src/components/rtoken-setup/basket/UnitBasket.tsx:134
 msgid "{unit} Token distribution"
-msgstr ""
+msgstr "Distribución de Token {unit}"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:101
 msgid "% Acceptable"
-msgstr ""
+msgstr "% Aceptable"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:85
 msgid "% Revenue share"
-msgstr ""
+msgstr "Porcentaje de ingresos"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:125
 msgid "% Revenue to RSR Stakers"
-msgstr ""
+msgstr "Porcentaje de Ingresos RSR"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:116
 msgid "% Revenue to RToken Holders"
-msgstr ""
+msgstr "% Ingresos a Titulares de Token"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:30
 msgid "% to external address"
-msgstr ""
+msgstr "% a la dirección externa"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:116
 msgid "+ Mint {0}"
-msgstr ""
+msgstr "+ menta {0}"
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:33
 msgid "15 params"
-msgstr ""
+msgstr "15 params"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:45
 msgid "3.4.0 Upgrade spells"
-msgstr ""
+msgstr "3.4.0 hechizos de mejora"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:34
 msgid "A Brief DTF Introduction"
-msgstr ""
+msgstr "Una breve introducción del DTF"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:56
 msgid "A good explainer for how Gnosis auctions work can be found"
-msgstr ""
+msgstr "Un buen explicador sobre cómo funcionan las subastas de Gnosis"
 
 #: src/utils/index.ts:127
 msgid "A year ago"
-msgstr ""
+msgstr "Hace un año"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:129
 msgid "ABC Labs requires additional information beyond what is available on the blockchain to give users relevant data to make informed decisions. As a user, please evaluate any new DTF carefully before holding, staking RSR, or vote locking tokens on them."
-msgstr ""
+msgstr "ABC Labs requiere información adicional más allá de lo que está disponible en la cadena de bloques para dar a los usuarios datos relevantes para tomar decisiones informadas. Como usuario, por favor evalúe cuidadosamente cualquier DTF nuevo antes de mantener, apostar RSR o votar fichas de bloqueo en ellos."
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:142
 msgid "ABC Labs uses industry standard anonymized analytics tools to understand usage and improve the user experience. ABC Labs does not collect any information about users or their financial activity."
-msgstr ""
+msgstr "ABC Labs utiliza herramientas de análisis anonimizadas estándar de la industria para entender el uso y mejorar la experiencia del usuario. ABC Labs no recopila ninguna información sobre los usuarios o su actividad financiera."
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:99
 msgid "Above minimum trade volume"
-msgstr ""
+msgstr "Sobre volumen mínimo de comercio"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:58
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:90
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:55
 msgid "Abstain"
-msgstr ""
+msgstr "Abstén"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:144
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:22
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:130
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:163
 msgid "Add new address"
-msgstr ""
+msgstr "Añadir nueva dirección"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:165
 msgid "Add to backup basket"
-msgstr ""
+msgstr "Añadir a la cesta de respaldo"
 
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:122
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:210
 msgid "Add to basket"
-msgstr ""
+msgstr "Añadir a la cesta"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:163
 msgid "Add to primary basket"
-msgstr ""
+msgstr "Añadir a la cesta principal"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:26
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:89
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:30
 msgid "Advanced config:"
-msgstr ""
+msgstr "Configuración avanzada:"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:57
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:54
 msgid "Against"
-msgstr ""
+msgstr "Contra"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:39
 msgid "Alexios is standard token-voting adopted from Compound Governor Bravo, with adjustments accounting for RSR being staked across multiple RTokens."
-msgstr ""
+msgstr "Alexios es el token de votación estándar adoptado por el Gobernador Compuesto Bravo, con ajustes que representan la RSR en múltiples RTokens."
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:126
 msgid "All time"
-msgstr ""
+msgstr "Todo el tiempo"
 
 #: src/views/tokens/Tokens.tsx:24
 msgid "All unlisted RTokens"
-msgstr ""
+msgstr "Todos los RTokens no listados"
 
 #: src/components/transactions/table/index.tsx:77
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:76
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:39
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:108
 msgid "Amount"
-msgstr ""
+msgstr "Cantidad"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:92
 msgid "Annualized TVL Fee"
-msgstr ""
+msgstr "Tarifa Anualizada de TVL"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:74
 msgid "Anyone can click the button above to check and trigger an auction for any revenue that has accrued or for rebalances that need to happen. Please note that for RTokens with many collateral types in the basket, this may be an expensive transaction to execute."
-msgstr ""
+msgstr "Cualquiera puede hacer clic en el botón de arriba para comprobar y activar una subasta para cualquier ingreso que haya acumulado o para los reequilibros que necesitan ocurrir. Tenga en cuenta que para RTokens con muchos tipos de colateral en la cesta, esta puede ser una transacción costosa a ejecutar."
 
 #: src/components/transaction-modal/ApprovalStatus.tsx:29
 msgid "Approve in wallet"
-msgstr ""
+msgstr "Aprobar en la cartera"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:96
 msgid "As RSR"
-msgstr ""
+msgstr "Como RSR"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:89
 msgid "As RToken"
-msgstr ""
+msgstr "Como RToken"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:22
 msgid "Asset Registry"
-msgstr ""
+msgstr "Registro de activos"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:59
 msgid "Auction Launcher"
-msgstr ""
+msgstr "Lanzador de Subastas"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/AvailableRevenueAuctions.tsx:37
 msgid "Auctionable revenue"
-msgstr ""
+msgstr "Ingresos subastables"
 
 #: src/components/layout/navigation/index.tsx:79
 #: src/components/layout/navigation/TokenNavigation.tsx:180
 #: src/views/index-dtf/components/navigation/index.tsx:130
 #: src/views/yield-dtf/auctions/auctions-sidebar/index.tsx:16
 msgid "Auctions"
-msgstr ""
+msgstr "Subastas"
 
 #: src/views/yield-dtf/issuance/components/balances/index.tsx:17
 msgid "Available collateral"
-msgstr ""
+msgstr "Colateral disponible"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:38
 msgid "Back to Governance"
-msgstr ""
+msgstr "Volver a la gobernanza"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:43
 msgid "Back to settings"
-msgstr ""
+msgstr "Volver a la configuración"
 
 #: src/views/yield-dtf/overview/components/backing/backing-overview.tsx:77
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:85
 msgid "Backing"
-msgstr ""
+msgstr "Atrás"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:162
 #: src/views/yield-dtf/overview/components/backing/index.tsx:85
 msgid "Backing & Risk"
-msgstr ""
+msgstr "Respaldo y Riesgo"
 
 #: src/views/discover/components/yield/components/MobileCollateralInfo.tsx:28
 #: src/views/discover/components/yield/components/TokenStats.tsx:58
 msgid "Backing + Overcollaterization:"
-msgstr ""
+msgstr "Recogida + Overcollaterization:"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:83
 msgid "Backing + Staked"
-msgstr ""
+msgstr "Recogida + Partida"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:47
 msgid "Backing buffer"
-msgstr ""
+msgstr "Búfer de bloqueo"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:89
 msgid "Backing buffer - percentage value that describes how much additional collateral tokens to keep in the BackingManager before forwarding tokens to the RevenueTraders. The RevenueTraders here refers to the RToken and RSR traders. Why this matters? It allows collateral tokens to be periodically converted into the RToken, which is a more efficient form of revenue production than trading each individual collateral for the desired RToken. It also provides a buffer to prevent RSR seizure after trading slippage. For more info on the BackingManager and Trader types see the \"Revenue distribution to RToken holders\" and \"Summary of revenue distribution\" in our documentation."
-msgstr ""
+msgstr "Búfer de respaldo - valor porcentual que describe cuántas fichas colaterales adicionales mantener en el BackingManager antes de reenviar fichas a los RevenueTraders. Los RevenueTraders aquí se refiere a los traders RToken y RSR. ¿Por qué es importante? Permite que las fichas colaterales se conviertan periódicamente en el token RToken, que es una forma más eficiente de producción de ingresos que el comercio de cada garantía individual por el RToken deseado. También proporciona un búfer para prevenir la incautación RSR después del deslizamiento de la operación. Para más información sobre los tipos de BackingManager y Trader vea la \"distribución de ingresos a los poseedores de RToken\" y \"Resumen de la distribución de ingresos\" en nuestra documentación."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:87
 msgid "Backing buffer (%)"
-msgstr ""
+msgstr "Búfer de bloqueo (%)"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:198
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:16
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:14
 msgid "Backing config"
-msgstr ""
+msgstr "Config de respaldo"
 
 #: src/views/yield-dtf/deploy/components/BackingManager.tsx:14
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:23
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:17
 msgid "Backing Manager"
-msgstr ""
+msgstr "Gestor de Backing"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:15
 msgid "Backing Parameters"
-msgstr ""
+msgstr "Parámetros de respaldo"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:115
 msgid "Backup basket"
-msgstr ""
+msgstr "Cesta de copia de seguridad"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:79
 msgid "Backup configuration tracks primary basket changes to update its values. This may not be desired on a proposal, you can choose to propose new changes."
-msgstr ""
+msgstr "La configuración de copia de seguridad rastrea los cambios primarios de la cesta para actualizar sus valores. Esto puede no ser deseado en una propuesta, puede elegir proponer nuevos cambios."
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:22
 msgid "Backups"
-msgstr ""
+msgstr "Copias de seguridad"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:74
 msgid "Balance: "
-msgstr ""
+msgstr "Saldo: "
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:19
 #: src/views/yield-dtf/deploy/components/TokenParameters.tsx:123
 msgid "Basics"
-msgstr ""
+msgstr "Básicos"
 
 #: src/components/rtoken-setup/basket/UnitBasket.tsx:107
 #: src/views/yield-dtf/settings/components/basket-info.tsx:21
 msgid "Basket"
-msgstr ""
+msgstr "Cesta"
 
 #: src/views/explorer/components/tokens/index.tsx:160
 msgid "Basket APY"
-msgstr ""
+msgstr "Basket APY"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:120
 msgid "Basket Governance"
-msgstr ""
+msgstr "Gobernanza de la cesta"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:18
 msgid "Basket Handler"
-msgstr ""
+msgstr "Manejo de cesta"
 
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:89
 msgid "Basket is not ready"
-msgstr ""
+msgstr "La cesta no está lista"
 
 #: src/components/rtoken-setup/basket/UnitBasket.tsx:128
 msgid "Basket scale for this unit of account. This is used to initially calculate how much of each token is required for minting."
-msgstr ""
+msgstr "Escala de la cesta para esta unidad de cuenta. Esto se utiliza inicialmente para calcular cuánto de cada token es necesario para la minting."
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:19
 msgid "Basket warmup period"
-msgstr ""
+msgstr "Periodo warmup del carrito"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:37
 msgid "Batch auction length"
-msgstr ""
+msgstr "Longitud de la subasta"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:61
 msgid "Batch Auction length - defines how long Gnosis EasyAuction auctions should be. Gnosis EasyAuction is a platform enabling fair price discovery for tokens through the use of batch auctions."
-msgstr ""
+msgstr "Longitud de las subastas - define cuánto debe ser la subasta de Gnosis EasyAuction. Gnosis EasyAuction es una plataforma que permite descubrir precios justos para los tokens a través del uso de subastas por lotes."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:59
 msgid "Batch Auction length (s)"
-msgstr ""
+msgstr "Longitud de subastas (s)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:22
 msgid "Batch trade"
-msgstr ""
+msgstr "Trampa"
 
 #: src/views/tokens/Tokens.tsx:27
 msgid "Be aware that anyone can create an RToken that ends up on this list. We don't apply any standards beyond what can be done with the Reserve Protocol."
-msgstr ""
+msgstr "Ten en cuenta que cualquiera puede crear un RToken que acabe en esta lista. No aplicamos ningún estándar más allá de lo que se puede hacer con el Protocolo de Reserva."
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:33
 msgid "Begin governance setup"
-msgstr ""
+msgstr "Configuración de gobernanza"
 
 #. placeholder {0}: formatCurrency(Number(amount))
 #. placeholder {1}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:96
 msgid "Begin minting {0} {1}"
-msgstr ""
+msgstr "Comenzar a mintar {0} {1}"
 
 #. placeholder {0}: formatCurrency(Number(amount))
 #. placeholder {1}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:99
 msgid "Begin redemption of {0} {1}"
-msgstr ""
+msgstr "Comenzar la canje de {0} {1}"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:122
 msgid "Below minimum trade volume"
-msgstr ""
+msgstr "Bajo volumen mínimo de comercio"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:35
 msgid "Bought"
-msgstr ""
+msgstr "Comprado"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:68
 msgid "Brand Manager"
-msgstr ""
+msgstr "Gestor de marca"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:21
 msgid "Broker"
-msgstr ""
+msgstr "Broker"
 
 #: src/views/discover/components/yield/components/CompareTokensTitle.tsx:34
 msgid "Browse RTokens"
-msgstr ""
+msgstr "Ver RTokens"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:35
 msgid "Buying"
-msgstr ""
+msgstr "Comprando"
 
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:39
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: src/components/transactions/table/index.tsx:52
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:32
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:80
 msgid "Cancel Issue"
-msgstr ""
+msgstr "Cancelar asunto"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-cancel-button.tsx:135
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalCancel.tsx:48
 msgid "Cancel proposal"
-msgstr ""
+msgstr "Cancelar propuesta"
 
 #: src/views/yield-dtf/staking/components/withdraw/cooldown-unstake.tsx:70
 msgid "Cancel unstake"
-msgstr ""
+msgstr "Cancelar no participar"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:77
 msgid "Cast Spell 1"
-msgstr ""
+msgstr "Emitir hechizo 1"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:88
 msgid "Cast Spell 2"
-msgstr ""
+msgstr "Emitir hechizo 2"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:32
 msgid "Casting 3.4.0 upgrade spell"
-msgstr ""
+msgstr "Elegir hechizo de mejora 3.4.0"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:113
 msgid "Chain"
-msgstr ""
+msgstr "Cadena"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:104
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:116
 msgid "Change"
-msgstr ""
+msgstr "Cambiar"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:76
 msgid "Change backup basket"
-msgstr ""
+msgstr "Cambiar cesta de copia de seguridad"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:113
 msgid "Change distribution"
-msgstr ""
+msgstr "Cambiar distribución"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:120
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:141
 msgid "Change diversity factor"
-msgstr ""
+msgstr "Cambiar factor de diversidad"
 
 #: src/views/yield-dtf/governance/views/proposal/components/PreviewBox.tsx:36
 msgid "Change in:"
-msgstr ""
+msgstr "Cambiar en:"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:46
 msgid "Change primary basket"
-msgstr ""
+msgstr "Cambiar cesta primaria"
 
 #: src/views/yield-dtf/auctions/components/AuctionsHeader.tsx:43
 msgid "Check for auctions"
-msgstr ""
+msgstr "Buscar subastas"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:51
 msgid "Choose between our Alexios Governor and anything between one-person rule to arbitrary DAO structure under your defined Ethereum address."
-msgstr ""
+msgstr "Elija entre nuestro Gobernador Alexios y cualquier cosa entre la regla de una persona a la estructura arbitraria de DAO bajo su dirección Ethereum definida."
 
 #: src/views/yield-dtf/issuance/components/redeem/RedeemNonceModal.tsx:41
 msgid "Choose Redemption Basket"
-msgstr ""
+msgstr "Elegir cesta de canje"
 
 #: src/components/transactions/table/index.tsx:51
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:31
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:79
 msgid "Claim"
-msgstr ""
+msgstr "Claim"
 
 #. placeholder {0}: formatCurrency(claimAmount)
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:78
 msgid "Claim ${0}"
-msgstr ""
+msgstr "Claim ${0}"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimAllRewardsButton.tsx:43
 msgid "Claim rewards across all traders"
-msgstr ""
+msgstr "Reclamar recompensas en todos los comerciantes"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/index.tsx:19
 msgid "Claimable emissions"
-msgstr ""
+msgstr "Emisiones reclamables"
 
 #: src/views/yield-dtf/issuance/components/issue/CollateralDistribution.tsx:37
 msgid "Collateral distribution"
-msgstr ""
+msgstr "Distribución colateral"
 
 #: src/views/yield-dtf/overview/components/backing/collateral-exposure.tsx:216
 msgid "Collateral Exposure"
-msgstr ""
+msgstr "Exposición colateral"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:116
 msgid "Collateral Plugins"
-msgstr ""
+msgstr "Plugins colaterales"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:33
 msgid "Collateral token"
-msgstr ""
+msgstr "Token collateral"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:141
 msgid "Collateral(s)"
-msgstr ""
+msgstr "Collateral(s)"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:34
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:37
 msgid "Community Discord"
-msgstr ""
+msgstr "Discord de la comunidad"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:22
 msgid "Compare RTokens"
-msgstr ""
+msgstr "Comparar fichas"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:57
 msgid "Configure your vote"
-msgstr ""
+msgstr "Configurar tu voto"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalOverview.tsx:39
 msgid "Confirm & prepare proposal"
-msgstr ""
+msgstr "Confirmar y preparar la propuesta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:121
 msgid "Confirm & Submit"
-msgstr ""
+msgstr "Confirmar y enviar"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalOverview.tsx:28
 msgid "Confirm changes made"
-msgstr ""
+msgstr "Confirmar cambios realizados"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:38
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:38
 msgid "Confirm delegate"
-msgstr ""
+msgstr "Confirmar delegado"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:149
 msgid "Confirming..."
-msgstr ""
+msgstr "Confirmando..."
 
 #: src/components/account/index.tsx:95
 msgid "Connect"
-msgstr ""
+msgstr "Conectar"
 
 #: src/components/ui/transaction-button.tsx:57
 #: src/components/ui/transaction.tsx:44
 msgid "Connect Wallet"
-msgstr ""
+msgstr "Conectar cartera"
 
 #: src/views/yield-dtf/staking/components/stake/delegate-stake.tsx:45
 msgid "Connect your wallet"
-msgstr ""
+msgstr "Conecte su cartera"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:201
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:17
 msgid "Contract Addresses"
-msgstr ""
+msgstr "Direcciones de Contrato"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgradesPreview.tsx:34
 msgid "Contract upgrades"
-msgstr ""
+msgstr "Mejoras del contrato"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalDetailNavigation.tsx:6
 msgid "Contracts"
-msgstr ""
+msgstr "Contratos"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:111
 msgid "Controls changes to the basket of an Index DTF"
-msgstr ""
+msgstr "Controla los cambios en la cesta de un índice DTF"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:113
 msgid "Controls fees, voting parameters, and anything other than basket changes for an Index DTF"
-msgstr ""
+msgstr "Controla las tasas, los parámetros de votación y cualquier otra cosa que no sea la cesta de cambios para un índice DTF"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:114
 msgid "Controls settings of the vlDAO including vote lock duration and approving revenue tokens"
-msgstr ""
+msgstr "Controla la configuración de la vlDAO incluyendo la duración del bloqueo de voto y la aprobación de los tokens de ingresos"
 
 #: src/components/ui/copy-value.tsx:56
 #: src/components/ui/copy.tsx:20
 msgid "Copied to clipboard!"
-msgstr ""
+msgstr "¡Copiado al portapapeles!"
 
 #: src/components/ui/copy-value.tsx:55
 #: src/components/ui/copy.tsx:19
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Copiar al portapapeles"
 
 #: src/components/layout/header/components/app-navigation.tsx:114
 msgid "Create a new overcollateralized Yield DTF"
-msgstr ""
+msgstr "Crear un nuevo DTF de Yield sobre-colateralizado"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:17
 msgid "Create a new Yield DTF"
-msgstr ""
+msgstr "Crear un nuevo DTF Yield"
 
 #: src/components/layout/header/components/app-navigation.tsx:81
 msgid "Create New DTF"
-msgstr ""
+msgstr "Crear nuevo DTF"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:191
 msgid "Create proposal"
-msgstr ""
+msgstr "Crear propuesta"
 
 #: src/views/explorer/components/governance/index.tsx:70
 msgid "Created At"
-msgstr ""
+msgstr "Creado el"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:107
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:136
@@ -631,383 +631,383 @@ msgstr ""
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:77
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:87
 msgid "Current"
-msgstr ""
+msgstr "Actual"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:109
 msgid "Current holder"
-msgstr ""
+msgstr "Titular actual"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:99
 msgid "Current status:"
-msgstr ""
+msgstr "Estado actual:"
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:42
 msgid "Customize"
-msgstr ""
+msgstr "Personalizar"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:123
 msgid "DAO Governance"
-msgstr ""
+msgstr "Gobernanza de DAO"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:50
 msgid "Decimals"
-msgstr ""
+msgstr "Decimales"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:56
 msgid "Default delay"
-msgstr ""
+msgstr "Retraso por defecto"
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:44
 msgid "DeFi protocols oftentimes have incentives for liquidity that are paid in their token or a combination of tokens. By providing liquidity for trading or lending or other activities on these protocols, you can earn rewards that are sometimes quite high! Note that there are always risks (smart contract risks, impermanent loss risks, etc), in providing liquidity on these protocols so please make sure you understand things before blindly diving in."
-msgstr ""
+msgstr "Los protocolos DeFi a menudo tienen incentivos para la liquidez que se paga en su token o una combinación de tokens. Proporcionando liquidez para operar o prestar u otras actividades en estos protocolos, ¡puedes ganar recompensas que a veces son bastante altas! Tenga en cuenta que siempre hay riesgos (riesgos de contratos inteligentes, riesgos impermanentes de pérdida, etc.), en proporcionar liquidez en estos protocolos así que por favor asegúrese de entender las cosas antes de bucear ciegamente."
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:20
 msgid "DeFi yield opportunities for DTFs in Aerodrome, Convex, Beefy, Yearn & Others"
-msgstr ""
+msgstr "Oportunidades de rendimiento DeFi para DTFs en aerodromo, Convex, Beefy, Yearn y otros"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:169
 msgid "Define what portion of the revenue goes to the RToken holders versus RSR stakers. It can also be configured to send a portion of the revenue of an RToken to any arbitrary Ethereum address (wallet or smart contract).<0/><1/>"
-msgstr ""
+msgstr "Define qué parte de los ingresos se destina a los titulares de RToken frente a los actores de RSR. También puede configurarse para enviar una porción de los ingresos de un RToken a cualquier dirección arbitraria de Ethereum (cartera o contrato inteligente).<0/><1/>"
 
 #. placeholder {0}: timebased ? 'hours' : 'blocks'
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:73
 msgid "Delay (in number of {0}) since the proposal starts until voting ends."
-msgstr ""
+msgstr "Retraso (en número {0}) desde que la propuesta comienza hasta que termine la votación."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:32
 msgid "Delay in seconds"
-msgstr ""
+msgstr "Retraso en segundos"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:64
 msgid "Delay in Seconds"
-msgstr ""
+msgstr "Retraso en segundos"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:71
 msgid "Delegate"
-msgstr ""
+msgstr "Delegado"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:42
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:42
 msgid "Delegate to"
-msgstr ""
+msgstr "Delegar a"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:35
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:35
 msgid "Delegate votes"
-msgstr ""
+msgstr "Votos deselegados"
 
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:23
 msgid "Delegate voting power"
-msgstr ""
+msgstr "Poder de voto deselegante"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-vote-button.tsx:19
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVote.tsx:151
 msgid "Delegate voting power for future votes"
-msgstr ""
+msgstr "Delegar poder de voto para futuros votos"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:87
 msgid "Delegated to self"
-msgstr ""
+msgstr "Delegado a sí mismo"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:90
 msgid "Delegated to: "
-msgstr ""
+msgstr "Delegado a: "
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:97
 msgid "Deploy Governance"
-msgstr ""
+msgstr "Desplegar gobernanza"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:144
 msgid "Deploy RToken"
-msgstr ""
+msgstr "Desplegar RToken"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:43
 msgid "Deploy transaction submitted"
-msgstr ""
+msgstr "Desplegar transacción enviada"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:36
 msgid "Deploy your own RToken"
-msgstr ""
+msgstr "Despliega tu propio RToken"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:38
 msgid "Deployer"
-msgstr ""
+msgstr "Desplegador"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:37
 msgid "Deployer Share"
-msgstr ""
+msgstr "Compartir Deployer"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:20
 msgid "Deploying through this UI doesn't require deep technical knowledge as long as you don't need novel collateral plugins for your baskets. However, we encourage you to talk to someone proficient in the protocol and read the docs to learn more before confirming any transactions."
-msgstr ""
+msgstr "Desplegar a través de esta interfaz de usuario no requiere un profundo conocimiento técnico siempre y cuando no necesite nuevos complementos colaterales para sus cestas. Sin embargo, le animamos a que hable con alguien competente en el protocolo y lea los documentos para aprender más antes de confirmar cualquier transacción."
 
 #: src/components/transactions/table/index.tsx:56
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:36
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:84
 msgid "Deposit"
-msgstr ""
+msgstr "Depósito"
 
 #: src/views/explorer/components/governance/index.tsx:49
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:68
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: src/components/layout/navigation/index.tsx:83
 #: src/components/layout/navigation/TokenNavigation.tsx:190
 #: src/views/index-dtf/components/navigation/index.tsx:135
 msgid "Details + Roles"
-msgstr ""
+msgstr "Detalles + roles"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:71
 msgid "Discard"
-msgstr ""
+msgstr "Descartar"
 
 #: src/components/layout/header/components/app-navigation.tsx:57
 msgid "Discover DTFs"
-msgstr ""
+msgstr "Descubre DTFs"
 
 #: src/components/layout/header/components/app-navigation.tsx:140
 msgid "Discussions of ecosystem ideas"
-msgstr ""
+msgstr "Discusiones de las ideas de los ecosistemas"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:112
 #: src/components/rtoken-setup/components/RolesEdit.tsx:51
 msgid "Dismiss"
-msgstr ""
+msgstr "Descartar"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/wrapping/DisplayMode.tsx:19
 msgid "Display only {0} related collaterals"
-msgstr ""
+msgstr "Mostrar solo colaterales relacionados con {0}"
 
 #: src/views/index-dtf/settings/components/distribute-fees.tsx:47
 msgid "Distribute Fees"
-msgstr ""
+msgstr "Distribuir tarifas"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:147
 msgid "Distributed revenue does not add up to 100%"
-msgstr ""
+msgstr "Los ingresos distribuidos no suman hasta el 100%"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:25
 msgid "Distributor"
-msgstr ""
+msgstr "Distribuidor"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:26
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:128
 msgid "Diversity factor"
-msgstr ""
+msgstr "Factor de diversidad"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:30
 msgid "Diversity Factor"
-msgstr ""
+msgstr "Factor de diversidad"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:205
 msgid "Documentation"
-msgstr ""
+msgstr "Documentación"
 
 #: src/components/layout/header/components/app-navigation.tsx:88
 msgid "DTF Explorer"
-msgstr ""
+msgstr "Explorador DTF"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:56
 msgid "DTFs live on blockchain networks including Ethereum, Base, Binance Smart Chain, enabling worldwide transactions within seconds. Each DTF is 100% backed by other assets on the same blockchain. Users can redeem their DTF tokens for the underlying backing assets at any time without anyone else’s involvement."
-msgstr ""
+msgstr "Los DTFs viven en redes de blockchain que incluyen Ethereum, Base, Binance Smart Chain, permitiendo transacciones mundiales en segundos. Cada DTF está 100% respaldado por otros activos en la misma cadena de bloques. Los usuarios pueden canjear sus fichas DTF por los activos de respaldo subyacentes en cualquier momento sin el reconocimiento de nadie."
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:23
 #: src/components/rtoken-setup/token/OtherForm.tsx:37
 msgid "Duration in seconds"
-msgstr ""
+msgstr "Duración en segundos"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:60
 #: src/components/rtoken-setup/token/BackingForm.tsx:74
 msgid "Duration in Seconds"
-msgstr ""
+msgstr "Duración en segundos"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:42
 msgid "Dutch auction length"
-msgstr ""
+msgstr "Longitud de subastas holandesas"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:73
 msgid "Dutch Auction length (s)"
-msgstr ""
+msgstr "Longitud de subastas holandesas"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:33
 msgid "Dutch trade"
-msgstr ""
+msgstr "Comercio holandés"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:39
 msgid "Each target unit of your primary basket will have defined emergency collateral to replace with in case of default."
-msgstr ""
+msgstr "Cada unidad de destino de su cesta primaria tendrá un colateral de emergencia definido para reemplazar con en caso de valor predeterminado."
 
 #: src/views/yield-dtf/auctions/components/About.tsx:48
 msgid "Each type of trade can currently happen in only one way; the protocol launches a Gnosis EasyAuction. The Reserve Protocol is designed to make it easy to add other trading methods, but no other methods are currently supported."
-msgstr ""
+msgstr "Cada tipo de comercio puede ocurrir actualmente de una sola manera; el protocolo lanza una subasta de Gnosis EasyAuction. El Protocolo de Reserva está diseñado para facilitar la adición de otros métodos de negociación, pero actualmente no se admite ningún otro método."
 
 #: src/components/layout/navigation/TokenNavigation.tsx:163
 msgid "Earn"
-msgstr ""
+msgstr "Gana"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:117
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:196
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:21
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:21
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:12
 msgid "Emergency basket"
-msgstr ""
+msgstr "Cesta de Emergencia"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:16
 msgid "Emergency Collateral"
-msgstr ""
+msgstr "Collateral de Emergencia"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:36
 msgid "Empty backup basket"
-msgstr ""
+msgstr "Vaciar cesta de respaldo"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:54
 msgid "Empty Basket"
-msgstr ""
+msgstr "Cesta vacía"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:52
 msgid "Ended at"
-msgstr ""
+msgstr "Terminado el"
 
 #: src/views/yield-dtf/auctions/batch/components/FinalizedAuctions.tsx:19
 #: src/views/yield-dtf/auctions/dutch/components/EndedDutchAuctions.tsx:19
 msgid "Ended auctions"
-msgstr ""
+msgstr "Subastas terminadas"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:52
 msgid "Ends at"
-msgstr ""
+msgstr "Termina en"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:44
 msgid "Ensure that the asset(s) you are unregistering do not have pending revenue that can be"
-msgstr ""
+msgstr "Asegúrate de que el activo(s) que estás desregistrando no tiene ingresos pendientes que pueden ser"
 
 #: src/views/discover/components/yield/components/TokenActions.tsx:67
 msgid "Est. APY"
-msgstr ""
+msgstr "Est. APY"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:105
 msgid "Est. APY:"
-msgstr ""
+msgstr "Est. APY:"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:61
 msgid "Est. Staking APY"
-msgstr ""
+msgstr "Est. Staking APY"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:168
 msgid "Estimated basket APY"
-msgstr ""
+msgstr "APY estimado de la cesta"
 
 #: src/views/yield-dtf/staking/components/gas-estimate.tsx:18
 msgid "Estimated gas cost"
-msgstr ""
+msgstr "Coste estimado de gas"
 
 #: src/components/transaction-modal/EstimatedGasInfo.tsx:14
 #: src/components/ui/transaction-button.tsx:39
 msgid "Estimated gas cost:"
-msgstr ""
+msgstr "Coste estimado de gas:"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:49
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:49
 msgid "ETH address"
-msgstr ""
+msgstr "Dirección ETH"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:48
 msgid "Executable code"
-msgstr ""
+msgstr "Código ejecutable"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-execute-button.tsx:40
 #: src/views/index-dtf/governance/views/proposal/components/proposal-execute-button.tsx:64
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalExecute.tsx:30
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalExecute.tsx:42
 msgid "Execute proposal"
-msgstr ""
+msgstr "Ejecutar propuesta"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:86
 #: src/views/yield-dtf/settings/components/governance-info.tsx:50
 msgid "Execution Delay"
-msgstr ""
+msgstr "Retraso de ejecución"
 
 #: src/components/rtoken-setup/components/BackButton.tsx:28
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:45
 msgid "Exit Deployer"
-msgstr ""
+msgstr "Salir del Desplegador"
 
 #: src/views/discover/components/yield/discover-yield-dtf.tsx:20
 msgid "Explore"
-msgstr ""
+msgstr "Explorar"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/overview/components/rtoken-earn.tsx:39
 msgid "Explore yield opportunities for {0}"
-msgstr ""
+msgstr "Explorar oportunidades de rendimiento para {0}"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:88
 msgid "Extra collateral to keep"
-msgstr ""
+msgstr "Colateral extra para mantener"
 
 #: src/views/explorer/components/tokens/index.tsx:190
 msgid "Featured RTokens"
-msgstr ""
+msgstr "Fichas Destacadas"
 
 #: src/components/layout/header/components/app-navigation.tsx:120
 msgid "Feedback"
-msgstr ""
+msgstr "Comentarios"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:86
 msgid "Fees & Revenue Distribution"
-msgstr ""
+msgstr "Cuotas e ingresos distribuidos"
 
 #: src/components/layout/header/components/app-navigation.tsx:122
 msgid "File issues or upvote existing ones"
-msgstr ""
+msgstr "Archivar problemas o votar los ya existentes"
 
 #: src/views/yield-dtf/auctions/dutch/components/AuctionTimeIndicators.tsx:32
 msgid "Final price in:"
-msgstr ""
+msgstr "Precio final en:"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:32
 msgid "Fixed Platform Share"
-msgstr ""
+msgstr "Base de Plataforma Fija"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:56
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:53
 msgid "For"
-msgstr ""
+msgstr "Para"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:98
 msgid "Freeze State"
-msgstr ""
+msgstr "Estado de congelación"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:108
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:151
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:100
 msgid "Frozen"
-msgstr ""
+msgstr "Frozen"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:70
 msgid "Full exposure view"
-msgstr ""
+msgstr "Vista de exposición completa"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:24
 msgid "Furnace"
-msgstr ""
+msgstr "Horno"
 
 #: src/components/layout/header/components/app-navigation.tsx:94
 msgid "Get an overview of everything going on"
-msgstr ""
+msgstr "Obtén una visión general de todo lo que está pasando"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:50
 msgid "Go to the RToken Deployer"
-msgstr ""
+msgstr "Ir al Desplegador de RToken"
 
 #: src/components/layout/navigation/index.tsx:80
 #: src/components/layout/navigation/TokenNavigation.tsx:185
@@ -1018,373 +1018,373 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:18
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:16
 msgid "Governance"
-msgstr ""
+msgstr "Gobernanza"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:29
 msgid "Governance Details"
-msgstr ""
+msgstr "Detalles de gobernanza"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:162
 msgid "Governance format"
-msgstr ""
+msgstr "Formato de gobernanza"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:192
 msgid "Governance forum"
-msgstr ""
+msgstr "Foro de gobernanza"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:65
 msgid "Governance gets deployed & your RToken is now usable (if unpaused)"
-msgstr ""
+msgstr "Gobernanza se despliega y tu token ahora es utilizable (si no está pausado)"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:51
 msgid "Governance parameters"
-msgstr ""
+msgstr "Parámetros de gobernanza"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRolesPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/RolesProposal.tsx:42
 msgid "Governance roles"
-msgstr ""
+msgstr "Roles de gobernanza"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:43
 msgid "Governance Share"
-msgstr ""
+msgstr "Gobernanza compartida"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:70
 msgid "Governor address"
-msgstr ""
+msgstr "Dirección del Gobernador"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:46
 msgid "Governor Address"
-msgstr ""
+msgstr "Dirección del Gobernador"
 
 #: src/views/yield-dtf/overview/components/hero/token-mandate.tsx:41
 msgid "Governor mandate"
-msgstr ""
+msgstr "Mandato de Gobernador"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:50
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:180
 msgid "Guardian"
-msgstr ""
+msgstr "Guardián"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:96
 msgid "Guardian address"
-msgstr ""
+msgstr "Dirección guardiana"
 
 #: src/components/transactions/table/index.tsx:91
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:164
 #: src/views/yield-dtf/overview/components/historical-metrics.tsx:13
 msgid "Historical metrics"
-msgstr ""
+msgstr "Métricas históricas"
 
 #: src/views/explorer/components/tokens/index.tsx:164
 msgid "Holders APY"
-msgstr ""
+msgstr "Titulares APY"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:122
 msgid "If a DTF is listed on this app, it doesn't mean that ABC Labs endorses the safety or risk levels of the DTF or that ABC Labs was involved in the creation of or is in anyway responsible for the DTF."
-msgstr ""
+msgstr "Si un DTF está listado en esta aplicación, no significa que ABC Labs respalde los niveles de seguridad o riesgo del DTF o que ABC Labs haya participado en la creación o sea responsable del DTF."
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:44
 msgid "If your token is paused and you have the correct role, you can unpause it here."
-msgstr ""
+msgstr "Si tu token está en pausa y tienes el rol correcto, puedes pausarlo aquí."
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:49
 msgid "Immediate"
-msgstr ""
+msgstr "Inmediato"
 
 #: src/views/yield-dtf/staking/components/withdraw/index.tsx:16
 msgid "In Withdraw Process"
-msgstr ""
+msgstr "En el proceso de Retirar"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:25
 msgid "Including off-chain in-app transactions of RToken in the Reserve App."
-msgstr ""
+msgstr "Incluye transacciones fuera de la cadena en la aplicación de RToken en la aplicación de reserva."
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:121
 msgid "Initial RToken state after deployment"
-msgstr ""
+msgstr "Estado inicial de RToken después del despliegue"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:55
 msgid "Input delay"
-msgstr ""
+msgstr "Retraso de entrada"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:87
 msgid "Input delay in hours"
-msgstr ""
+msgstr "Retraso de entrada en horas"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:104
 msgid "Input plugin address (not ERC-20 address)"
-msgstr ""
+msgstr "Dirección del plugin de entrada (no dirección ERC)"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:101
 msgid "Input proposal threshold"
-msgstr ""
+msgstr "Umbral de propuesta de entrada"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:54
 msgid "Input proposal title"
-msgstr ""
+msgstr "Título de la propuesta de entrada"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:114
 msgid "Input quorum percent"
-msgstr ""
+msgstr "Porcentaje de quórum de entrada"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:62
 msgid "Input RFC link"
-msgstr ""
+msgstr "Input RFC link"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:127
 msgid "Input RSR stakers revenue distribution"
-msgstr ""
+msgstr "Input RSR stakers distribuye ingresos"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:97
 msgid "Input the guardian ethereum address"
-msgstr ""
+msgstr "Introduzca la dirección de ethereum guardian"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:77
 msgid "Input the owner ethereum address"
-msgstr ""
+msgstr "Introduzca la dirección de ethereum del propietario"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:29
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:31
 msgid "Input ticker"
-msgstr ""
+msgstr "Marcador de entrada"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:118
 msgid "Input token holders revenue distribution"
-msgstr ""
+msgstr "Distribución de ingresos de los titulares de fichas de entrada"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:20
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:21
 msgid "Input token name"
-msgstr ""
+msgstr "Input token name"
 
 #: src/views/tokens/components/TableFilters.tsx:25
 msgid "Input token name or symbol"
-msgstr ""
+msgstr "Nombre o símbolo de entrada"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:71
 msgid "Input voting period"
-msgstr ""
+msgstr "Periodo de votación de entrada"
 
 #: src/views/explorer/components/transactions/Filters.tsx:22
 msgid "Input wallet"
-msgstr ""
+msgstr "Input wallet"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:51
 msgid "Input withdrawal leak %"
-msgstr ""
+msgstr "Fuente de retirada de entrada %"
 
 #: src/views/discover/components/yield/components/CompareTokensTitle.tsx:37
 msgid "Inspect collateral backing, mint, stake, redeem & explore additional earn opportunities across DeFi"
-msgstr ""
+msgstr "Inspeccionar respaldo colateral, mint, stake, canjear y explorar oportunidades de ganancias adicionales a través de DeFi"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:161
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:18
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:15
 msgid "Intro"
-msgstr ""
+msgstr "Introducción"
 
 #: src/components/rtoken-setup/atoms.ts:137
 msgid "Invalid ({targetUnit}) backup diversity factor"
-msgstr ""
+msgstr "Factor de diversidad de copia de seguridad no válido ({targetUnit})"
 
 #: src/components/rtoken-setup/atoms.ts:122
 msgid "Invalid ({targetUnit}) basket distribution"
-msgstr ""
+msgstr "Distribución no válida ({targetUnit}) de cesta"
 
 #: src/components/rtoken-setup/atoms.ts:126
 msgid "Invalid ({targetUnit}) basket scale"
-msgstr ""
+msgstr "Escala de cesta no válida ({targetUnit})"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:89
 #: src/components/rtoken-setup/components/RolesEdit.tsx:38
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:51
 msgid "Invalid address"
-msgstr ""
+msgstr "Dirección inválida"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:34
 msgid "Invalid asset"
-msgstr ""
+msgstr "Invalid asset"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:81
 msgid "Invalid collateral"
-msgstr ""
+msgstr "Colateral inválido"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:149
 msgid "Invalid destination address"
-msgstr ""
+msgstr "Dirección de destino no válida"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:90
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:106
 msgid "Invalid ethereum address"
-msgstr ""
+msgstr "Dirección ethereum inválida"
 
 #: src/components/field/index.tsx:37
 msgid "Invalid maximum range"
-msgstr ""
+msgstr "Rango máximo inválido"
 
 #: src/components/field/index.tsx:39
 msgid "Invalid minimum range "
-msgstr ""
+msgstr "Rango mínimo no válido "
 
 #: src/components/field/index.tsx:35
 msgid "Invalid number"
-msgstr ""
+msgstr "Número no válido"
 
 #: src/components/field/index.tsx:41
 msgid "Invalid value"
-msgstr ""
+msgstr "Valor inválido"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:128
 msgid "Issuance amount - allows the issuer to limit the amount of RTokens issued per hour. This matters in the event of an exploit where an attacker tries to issue more RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be issued."
-msgstr ""
+msgstr "Cantidad de emisión - permite al emisor limitar la cantidad de RTokens emitidos por hora. Esto es importante en caso de una explotación en la que un atacante intente emitir más RTokens. Esto compra tiempo para los usuarios con permisos de pausa o congelación para reducir la cantidad de RTokens que pueden ser emitidos."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:115
 msgid "Issuance rate - allows the issuer to limit the amount of RTokens issued per hour based on a percentage of the current RToken market cap. This matters in the event of an exploit where an attacker tries to issue more RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be issued."
-msgstr ""
+msgstr "Tasa de emisión - permite al emisor limitar la cantidad de RTokens emitidos por hora basándose en un porcentaje del límite actual del mercado RToken. Esto es importante en caso de una explotación en la que un atacante intente emitir más RTokens. Esto compra tiempo para los usuarios con permisos de pausa o congelación para reducir la cantidad de RTokens que pueden ser emitidos."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:126
 #: src/components/rtoken-setup/token/BackingForm.tsx:127
 #: src/views/yield-dtf/settings/components/backing-info.tsx:61
 msgid "Issuance throttle amount"
-msgstr ""
+msgstr "Monto del acelerador de emisión"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:55
 msgid "Issuance throttle rate"
-msgstr ""
+msgstr "Tasa de bloqueo de emisión"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:114
 msgid "Issuance throttle Rate"
-msgstr ""
+msgstr "Tasa de bloqueo de emisión"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:113
 msgid "Issuance throttle rate (%)"
-msgstr ""
+msgstr "Tasa de aceleración de emisión (%)"
 
 #: src/components/transactions/table/index.tsx:49
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:29
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:77
 msgid "Issue"
-msgstr ""
+msgstr "Problema"
 
 #: src/components/layout/header/components/app-navigation.tsx:146
 msgid "Join the conversation or ask questions"
-msgstr ""
+msgstr "Únete a la conversación o haz preguntas"
 
 #: src/views/yield-dtf/settings/components/setting-item.tsx:60
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:67
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:71
 msgid "Long Freeze"
-msgstr ""
+msgstr "Congelación larga"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:18
 msgid "Long freeze duration"
-msgstr ""
+msgstr "Duración de congelación larga"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:38
 msgid "Long freeze duration - freeze an RToken's system for a longer period of time. A long-freezer has 6 charges before losing the ability to freeze any more"
-msgstr ""
+msgstr "Duración de la congelación larga - congela un sistema de RToken por un período de tiempo más largo. Un congelador largo tiene 6 cargas antes de perder la capacidad de congelar más"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:36
 msgid "Long freeze duration (s)"
-msgstr ""
+msgstr "Duración de congelación larga (s)"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:132
 msgid "Made your own collateral?"
-msgstr ""
+msgstr "¿Hizo su propia garantía?"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:16
 msgid "Main"
-msgstr ""
+msgstr "Principal"
 
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:23
 msgid "Make proposed changes to the backing basket, emergency collateral, governance params, etc. Changes in multiple areas can be batched into a single proposal although to make voting on issues simpler it may make sense to separate things if unrelated."
-msgstr ""
+msgstr "Realizar cambios propuestos en la cesta de respaldo, garantías de emergencia, parámetros de gobernanza, etc. Los cambios en múltiples áreas se pueden convertir en una sola propuesta, aunque para simplificar la votación sobre cuestiones puede tener sentido separar cosas si no están relacionadas."
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:37
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:32
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:49
 #: src/views/yield-dtf/settings/components/basic-info.tsx:20
 msgid "Mandate"
-msgstr ""
+msgstr "Mandate"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:45
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:58
 msgid "Mandate cannot be longer than 256 characters"
-msgstr ""
+msgstr "Mandate no puede tener más de 256 caracteres"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:42
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:55
 msgid "Mandate is required"
-msgstr ""
+msgstr "Mandate es requerido"
 
 #: src/views/discover/components/yield/components/TokenStats.tsx:26
 msgid "Market cap:"
-msgstr ""
+msgstr "Límite de mercado:"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:51
 msgid "Max trade slippage"
-msgstr ""
+msgstr "Máximo deslizamiento de comercio"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:102
 msgid "Max trade slippage — maximum deviation from oracle prices that any trade can clear at. Why this matters? Acts as a form of slippage protection."
-msgstr ""
+msgstr "Deslizamiento máximo - Desviación máxima de los precios del oráculo que cualquier comercio puede despejar. ¿Por qué esto importa? Actúa como una forma de protección del deslizamiento."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:100
 msgid "Max trade slippage (%)"
-msgstr ""
+msgstr "Máximo deslizamiento de comercio (%)"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:104
 msgid "Maximum trade for RToken"
-msgstr ""
+msgstr "Operación máxima por RToken"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:105
 msgid "Maximum trade volume - maximum sized trade for any trade involving RToken, in terms of the unit of account eg. USD."
-msgstr ""
+msgstr "Volumen máximo de operación - tamaño máximo para cualquier operación con RToken, en términos de la unidad de cuenta por ejemplo USD."
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:24
 msgid "Mechanics"
-msgstr ""
+msgstr "Mecánica"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:46
 msgid "Meditate peacefully on the stability of a future asset backed reserve currency while your RToken deploys 🧘‍♂️"
-msgstr ""
+msgstr "Meditar pacíficamente sobre la estabilidad de una futura moneda de reserva respaldada por activos mientras RToken despliegue 🧘‍♂️"
 
 #: src/components/transactions/table/index.tsx:48
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:28
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:76
 msgid "Melt"
-msgstr ""
+msgstr "Piña"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/MeltingBox.tsx:39
 msgid "Melting"
-msgstr ""
+msgstr "Fundición"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:91
 msgid "Minimum trade in USD terms"
-msgstr ""
+msgstr "Intercambio mínimo en USD"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:117
 msgid "Minimum trade size"
-msgstr ""
+msgstr "Tamaño mínimo de la operación"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:30
 msgid "Minimum trade volume"
-msgstr ""
+msgstr "Volumen mínimo de operaciones"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:92
 msgid "Minimum trade volume - minimum sized trade that can be performed, in terms of the unit of account eg. USD."
-msgstr ""
+msgstr "Volumen mínimo - Operación de tamaño mínimo que se puede realizar, en términos de la unidad de cuenta por ejemplo USD."
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:90
 msgid "Minimum trade volume ($)"
-msgstr ""
+msgstr "Volumen mínimo de operación ($)"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:170
 #: src/components/transactions/table/index.tsx:45
@@ -1392,61 +1392,61 @@ msgstr ""
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:96
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:73
 msgid "Mint"
-msgstr ""
+msgstr "Moneda"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:144
 msgid "Mint - Global throttle"
-msgstr ""
+msgstr "Mina - Acelerador global"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:101
 msgid "Mint {0}"
-msgstr ""
+msgstr "Moneda {0}"
 
 #: src/components/layout/navigation/index.tsx:77
 #: src/views/index-dtf/components/navigation/index.tsx:120
 msgid "Mint + Redeem"
-msgstr ""
+msgstr "Moneda + Canjear"
 
 #: src/views/yield-dtf/issuance/components/issue/IssueInput.tsx:16
 msgid "Mint amount"
-msgstr ""
+msgstr "Monto de menta"
 
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:112
 msgid "Mint disabled"
-msgstr ""
+msgstr "Moneda desactivada"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:145
 msgid "Mintable now"
-msgstr ""
+msgstr "Mintable ahora"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:103
 msgid "Minting Fee"
-msgstr ""
+msgstr "Tarifa de Minting"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:16
 msgid "Minting requires a deposit of the defined collateral tokens in equal value amounts to the RToken smart contracts."
-msgstr ""
+msgstr "La minting requiere un depósito de las fichas colaterales definidas en cantidades iguales a los contratos inteligentes de RToken."
 
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:114
 msgid "Missing collateral"
-msgstr ""
+msgstr "Falta garantía"
 
 #: src/components/tables/ListedTokensTable.tsx:41
 #: src/views/explorer/components/tokens/index.tsx:152
 #: src/views/tokens/components/UnlistedTokensTable.tsx:84
 msgid "Mkt Cap"
-msgstr ""
+msgstr "Mkt Cap"
 
 #: src/utils/index.ts:129
 msgid "mth"
-msgstr ""
+msgstr "milésimo"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:15
 #: src/views/yield-dtf/settings/components/basic-info.tsx:15
 #: src/views/yield-dtf/settings/components/governance-info.tsx:30
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: src/components/account/index.tsx:38
 #: src/components/tables/ListedTokensTable.tsx:59
@@ -1454,247 +1454,247 @@ msgstr ""
 #: src/views/tokens/components/TableFilters.tsx:41
 #: src/views/tokens/components/UnlistedTokensTable.tsx:109
 msgid "Network"
-msgstr ""
+msgstr "Red"
 
 #: src/views/explorer/components/filters/ChainFilter.tsx:22
 msgid "Networks"
-msgstr ""
+msgstr "Redes"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:90
 msgid "New backup configuration"
-msgstr ""
+msgstr "Nueva configuración de respaldo"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:39
 msgid "New primary basket"
-msgstr ""
+msgstr "Nueva cesta primaria"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:28
 msgid "Next steps"
-msgstr ""
+msgstr "Siguientes pasos"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:37
 msgid "No actionable revenue available"
-msgstr ""
+msgstr "No hay ingresos disponibles"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterEdit.tsx:34
 msgid "No assets to unregister..."
-msgstr ""
+msgstr "No hay recursos para desregistrarse..."
 
 #: src/components/charts/area/AreaChart.tsx:132
 msgid "No data"
-msgstr ""
+msgstr "Sin datos"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:85
 msgid "No emergency collateral for target"
-msgstr ""
+msgstr "No hay garantías de emergencia para el objetivo"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:57
 msgid "No emergency collateral for this target unit"
-msgstr ""
+msgstr "No hay garantía de emergencia para esta unidad objetivo"
 
 #: src/views/yield-dtf/auctions/components/EndedAuctionsSkeleton.tsx:7
 msgid "No ended auctions"
-msgstr ""
+msgstr "No hay subastas terminadas"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:95
 msgid "No holders for this role..."
-msgstr ""
+msgstr "No hay poseedores para este rol..."
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:150
 msgid "No plugins available"
-msgstr ""
+msgstr "No hay plugins disponibles"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:199
 msgid "No proposals created..."
-msgstr ""
+msgstr "No se han creado propuestas..."
 
 #: src/components/transactions/table/index.tsx:152
 msgid "No transactions"
-msgstr ""
+msgstr "No hay transacciones"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:148
 msgid "No voters at this moment..."
-msgstr ""
+msgstr "No hay votantes en este momento..."
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-detail-votes.tsx:49
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:135
 msgid "No votes"
-msgstr ""
+msgstr "Sin votos"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:122
 msgid "Non-Basket Governance"
-msgstr ""
+msgstr "Gobernanza sin cesta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:66
 msgid "None"
-msgstr ""
+msgstr "Ninguna"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:22
 msgid "Not available"
-msgstr ""
+msgstr "No disponible"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:100
 msgid "Not frozen"
-msgstr ""
+msgstr "No congelado"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:127
 msgid "Not ready to set up governance?"
-msgstr ""
+msgstr "¿No está listo para establecer la gobernanza?"
 
 #: src/views/yield-dtf/auctions/batch/components/OngoingAuctions.tsx:19
 msgid "Ongoing auctions"
-msgstr ""
+msgstr "Subastas en curso"
 
 #: src/views/yield-dtf/auctions/dutch/components/OngoingDutchAuctions.tsx:13
 msgid "Ongoing dutch auctions"
-msgstr ""
+msgstr "Subastas en dúo en curso"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:146
 msgid "Only the guardian address or governance will be able to unpause"
-msgstr ""
+msgstr "Sólo la dirección o la gobernanza del guardián serán capaces de pausar"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:24
 msgid "Other"
-msgstr ""
+msgstr "Otro"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:199
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:17
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:15
 msgid "Other config"
-msgstr ""
+msgstr "Otra configuración"
 
 #: src/views/yield-dtf/deploy/components/OtherSetup.tsx:13
 msgid "Other parameters"
-msgstr ""
+msgstr "Otros parámetros"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:11
 msgid "Other Parameters"
-msgstr ""
+msgstr "Otros parámetros"
 
 #: src/views/yield-dtf/overview/components/backing/risks.tsx:109
 msgid "Other Risks"
-msgstr ""
+msgstr "Otros Riesgos"
 
 #: src/components/layout/navigation/index.tsx:76
 #: src/components/layout/navigation/TokenNavigation.tsx:158
 #: src/views/index-dtf/components/navigation/index.tsx:115
 msgid "Overview"
-msgstr ""
+msgstr "Resumen"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:174
 msgid "Owner"
-msgstr ""
+msgstr "Propietario"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:76
 msgid "Owner address"
-msgstr ""
+msgstr "Dirección del propietario"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:32
 msgid "Owner Address"
-msgstr ""
+msgstr "Dirección del propietario"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:113
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: src/components/layout/header/components/app-navigation.tsx:76
 msgid "Participate & Earn"
-msgstr ""
+msgstr "Participa y Gana"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:127
 msgid "Pause status"
-msgstr ""
+msgstr "Pausar estado"
 
 #: src/views/discover/components/yield/components/TokenStats.tsx:46
 msgid "Peg:"
-msgstr ""
+msgstr "Peg:"
 
 #: src/views/yield-dtf/auctions/dutch/components/PendingToSettleAuctions.tsx:24
 msgid "Pending auctions to settle"
-msgstr ""
+msgstr "Subastas pendientes de liquidar"
 
 #: src/components/transaction-modal/index.tsx:154
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:25
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:25
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:57
 msgid "Pending, sign in wallet"
-msgstr ""
+msgstr "Pendiente, iniciar sesión en cartera"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:46
 msgid "Period in seconds"
-msgstr ""
+msgstr "Período en segundos"
 
 #: src/components/transactions/table/index.tsx:91
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:131
 msgid "Platform"
-msgstr ""
+msgstr "Plataforma"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:178
 msgid "Platform exposure"
-msgstr ""
+msgstr "Exposición de la plataforma"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:50
 msgid "Please carefully evaluate the RToken before choosing to stake your RSR here. If any of the various collaterals of this RToken default, then the staked RSR will be the first funds that get auctioned off to make up the difference for RToken holders."
-msgstr ""
+msgstr "Por favor, evalúe cuidadosamente el RToken antes de elegir apostar su RSR aquí. Si alguno de los varios colaterales de este RToken por defecto, entonces el RSR apostado será los primeros fondos que se subasten para compensar la diferencia entre los poseedores de RToken."
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:24
 msgid "Please complete the required governance configuration to complete deployment."
-msgstr ""
+msgstr "Por favor, complete la configuración de gobernanza necesaria para completar el despliegue."
 
 #: src/views/portfolio/components/Portfolio.tsx:123
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:74
 msgid "Please connect your wallet"
-msgstr ""
+msgstr "Por favor, conecte su cartera"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:52
 msgid "Please don't close this window to avoid issues finding your way back here."
-msgstr ""
+msgstr "Por favor, no cierre esta ventana para evitar problemas encontrando su camino de vuelta aquí."
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:149
 msgid "Please keep in mind that interactions with the Ethereum or Base blockchains are pseudonymous and publicly available."
-msgstr ""
+msgstr "Por favor, ten en cuenta que las interacciones con los blockchains de Ethereum o Base son pseudónimos y están disponibles públicamente."
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:22
 msgid "Please read more about how Register manage tokens on our repository"
-msgstr ""
+msgstr "Por favor, lea más acerca de cómo administrar tokens de registro en nuestro repositorio"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:72
 msgid "Please select an asset to claim"
-msgstr ""
+msgstr "Por favor, seleccione un recurso para reclamar"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:28
 msgid "Please sign the transaction in your wallet to continue with the deployment process."
-msgstr ""
+msgstr "Por favor, firma la transacción en tu cartera para continuar con el proceso de implementación."
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:60
 msgid "Please sign the transaction in your wallet to continue with the governance process."
-msgstr ""
+msgstr "Por favor, firma la transacción en tu cartera para continuar con el proceso de gobernanza."
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:28
 msgid "Please sign the transaction in your wallet to continue with the government configuration process."
-msgstr ""
+msgstr "Por favor, firme la transacción en su cartera para continuar con el proceso de configuración del gobierno."
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:43
 msgid "Please wait while the simulation executes"
-msgstr ""
+msgstr "Por favor espere mientras se ejecuta la simulación"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:62
 msgid "Pool"
-msgstr ""
+msgstr "Herramienta"
 
 #: src/views/portfolio/components/Portfolio.tsx:114
 msgid "Portfolio"
-msgstr ""
+msgstr "Portafolio"
 
 #: src/components/transaction-modal/index.tsx:154
 msgid "Preparing transaction"
-msgstr ""
+msgstr "Preparando transacción"
 
 #: src/components/tables/ListedTokensTable.tsx:37
 #: src/views/explorer/components/tokens/index.tsx:148
 #: src/views/tokens/components/UnlistedTokensTable.tsx:80
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:195
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:20
@@ -1702,269 +1702,269 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:64
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:11
 msgid "Primary basket"
-msgstr ""
+msgstr "Cesta primaria"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:199
 #: src/views/yield-dtf/settings/components/basket-info.tsx:15
 msgid "Primary Basket"
-msgstr ""
+msgstr "Cesta primaria"
 
 #: src/components/rtoken-setup/atoms.ts:113
 msgid "Primary basket not defined"
-msgstr ""
+msgstr "Cesta primaria no definida"
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:95
 msgid "Proceed in wallet"
-msgstr ""
+msgstr "Proceder en la cartera"
 
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:76
 msgid "Processing..."
-msgstr ""
+msgstr "Procesando..."
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:102
 msgid "Project"
-msgstr ""
+msgstr "Projekt"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:86
 msgid "Proposal execution delay (hours)"
-msgstr ""
+msgstr "Retraso de ejecución de la propuesta (horas)"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:70
 #: src/views/yield-dtf/settings/components/governance-info.tsx:54
 msgid "Proposal Threshold"
-msgstr ""
+msgstr "Umbral de propuesta"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:100
 msgid "Proposal Threshold (%)"
-msgstr ""
+msgstr "Umbral de propuesta (%)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:49
 msgid "Proposal Title"
-msgstr ""
+msgstr "Título de propuesta"
 
 #: src/views/explorer/components/governance/index.tsx:97
 #: src/views/index-dtf/governance/components/governance-stats.tsx:74
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:122
 msgid "Proposals"
-msgstr ""
+msgstr "Propuestas"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:130
 msgid "Proposals voted"
-msgstr ""
+msgstr "Propuestas votadas"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:20
 msgid "Propose changes to ${0}"
-msgstr ""
+msgstr "Proponer cambios a ${0}"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:55
 msgid "Propose how the basket should be distributed going forward. "
-msgstr ""
+msgstr "Proponer cómo debe distribuirse la cesta hacia adelante. "
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:86
 msgid "Propose new backup configuration"
-msgstr ""
+msgstr "Proponer nueva configuración de respaldo"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:66
 msgid "Propose new basket"
-msgstr ""
+msgstr "Proponer nueva cesta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:92
 msgid "Proposed"
-msgstr ""
+msgstr "Propuesto"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:107
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:93
 msgid "Proposed by"
-msgstr ""
+msgstr "Propuesto por"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:51
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:44
 msgid "Protocol Docs"
-msgstr ""
+msgstr "Protocol Docs"
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:15
 msgid "Provide liquidity across DeFi & earn more with your DTFs"
-msgstr ""
+msgstr "Proporcione liquidez a través de DeFi y gane más con sus DTFs"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-queue-button.tsx:78
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalQueue.tsx:31
 msgid "Queue proposal"
-msgstr ""
+msgstr "Propuesta de cola"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:58
 msgid "Quorum"
-msgstr ""
+msgstr "Quorum"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:113
 msgid "Quorum (%)"
-msgstr ""
+msgstr "Quorum (%)"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:112
 msgid "Quorum?:"
-msgstr ""
+msgstr "Quorum?:"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:183
 msgid "Read more about revenue distribution"
-msgstr ""
+msgstr "Leer más sobre la distribución de ingresos"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:108
 msgid "Receiving eth address"
-msgstr ""
+msgstr "Dirección de recepción"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:183
 msgid "Recent proposals"
-msgstr ""
+msgstr "Propuestas recientes"
 
 #: src/views/tokens/components/TableFilters.tsx:70
 msgid "Record limit"
-msgstr ""
+msgstr "Límite de registros"
 
 #: src/components/transactions/table/index.tsx:46
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:26
 #: src/views/yield-dtf/issuance/components/redeem/RedeemInput.tsx:15
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:74
 msgid "Redeem"
-msgstr ""
+msgstr "Redeem"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:164
 msgid "Redeem - Global throttle"
-msgstr ""
+msgstr "Canjear - Acelerador global"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:95
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:96
 msgid "Redeem {0}"
-msgstr ""
+msgstr "Redeem {0}"
 
 #: src/views/yield-dtf/issuance/components/redeem/RedeemInput.tsx:16
 msgid "Redeem amount"
-msgstr ""
+msgstr "Importe del canje"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:165
 msgid "Redeemable now"
-msgstr ""
+msgstr "Canjeable ahora"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:154
 msgid "Redemption amount - allows the issuer to limit the amount of RTokens redeemed per hour. This matters in the event of an exploit where an attacker tries to redeem RTokens.This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be redeemed."
-msgstr ""
+msgstr "Cantidad de canje - permite al emisor limitar la cantidad de RTokens canjeados por hora. Esto importa en caso de que un atacante intente canjear RTokens. su compra tiempo para los usuarios con permisos de pausa o congelación para reducir la cantidad de RTokens que pueden ser canjeados."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:141
 msgid "Redemption rate - allows the issuer to limit the amount of RTokens redeemed per hour based on a percentage of the current RToken market cap. This matters in the event of an exploit where an attacker tries to redeem RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be redeemed."
-msgstr ""
+msgstr "Tasa de canje - permite al emisor limitar la cantidad de RTokens canjeados por hora basándose en un porcentaje del límite actual de mercado de RToken. Esto importa en caso de que un atacante intente canjear RTokens. Esto compra tiempo para los usuarios con permisos de pausa o congelación para reducir la cantidad de RTokens que pueden ser canjeados."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:152
 #: src/components/rtoken-setup/token/BackingForm.tsx:153
 #: src/views/yield-dtf/settings/components/backing-info.tsx:75
 msgid "Redemption throttle amount"
-msgstr ""
+msgstr "Cantidad de acelerador de canje"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:69
 msgid "Redemption throttle rate"
-msgstr ""
+msgstr "Tasa de acelerador de canje"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:140
 msgid "Redemption throttle Rate"
-msgstr ""
+msgstr "Tasa de acelerador de canje"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:139
 msgid "Redemption throttle rate (%)"
-msgstr ""
+msgstr "Tasa de acelerador de Redención (%)"
 
 #: src/views/index-dtf/deploy/steps/confirm-deploy/simple/index.tsx:54
 msgid "Refresh quote"
-msgstr ""
+msgstr "Actualizar cotización"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterProposal.tsx:31
 msgid "Register Assets"
-msgstr ""
+msgstr "Registrar Activos"
 
 #: src/views/tokens/Tokens.tsx:14
 msgid "Register listed RTokens"
-msgstr ""
+msgstr "Registrar RTokens listados"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:21
 msgid "Register Listing"
-msgstr ""
+msgstr "Registrar lista"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRegisterPreview.tsx:32
 msgid "Registering assets"
-msgstr ""
+msgstr "Registrando activos"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterProposal.tsx:41
 msgid "Registration of an asset plugin enables the RToken to price an underlying ERC20 token. Where an asset plugin for the underlying token already exists, the existing asset plugin is replaced with the new one."
-msgstr ""
+msgstr "El registro de un plugin de activos permite al token RToken cotizar un token ERC20 subyacente. Donde ya existe un plugin de activos para el token subyacente, el plugin de activos existente es reemplazado por el nuevo."
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:13
 msgid "Regular minting "
-msgstr ""
+msgstr "Minting regular "
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:29
 msgid "Related Contracts"
-msgstr ""
+msgstr "Contratos relacionados"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:121
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:22
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:130
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:17
 msgid "Required setup:"
-msgstr ""
+msgstr "Configuración necesaria:"
 
 #: src/views/yield-dtf/issuance/components/balances/CollateralBalance.tsx:53
 msgid "Required:"
-msgstr ""
+msgstr "Requerido:"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:101
 msgid "Reserve aims to help people around the world maintain their spending power by allowing anyone to create asset-backed currencies with tokenized assets on the Ethereum blockchain in customizable and novel ways."
-msgstr ""
+msgstr "La reserva tiene como objetivo ayudar a la gente de todo el mundo a mantener su poder de gasto al permitir que cualquiera cree monedas respaldadas por activos con tokenizados en el blockchain de Ethereum de maneras personalizables y novedosas."
 
 #: src/components/layout/header/components/app-navigation.tsx:126
 msgid "Reserve Blog"
-msgstr ""
+msgstr "Reservar Blog"
 
 #: src/components/layout/header/components/app-navigation.tsx:98
 msgid "Reserve Bridge"
-msgstr ""
+msgstr "Ponente de reserva"
 
 #: src/components/layout/header/components/app-navigation.tsx:144
 msgid "Reserve Discord"
-msgstr ""
+msgstr "Reservar Discord"
 
 #: src/components/layout/header/components/app-navigation.tsx:132
 msgid "Reserve Docs"
-msgstr ""
+msgstr "Reservar documentos"
 
 #: src/components/layout/header/components/app-navigation.tsx:138
 msgid "Reserve Forum"
-msgstr ""
+msgstr "Reservar foro"
 
 #: src/views/yield-dtf/overview/components/backing/risks.tsx:38
 msgid "Reserve Protocol Smart-Contract Risk"
-msgstr ""
+msgstr "Riesgo de contrato inteligente de reserva"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:22
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:104
 msgid "Revenue distribution"
-msgstr ""
+msgstr "Distribución de ingresos"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:109
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:14
 msgid "Revenue Distribution"
-msgstr ""
+msgstr "Distribución de Ingresos"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:197
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:19
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:13
 msgid "Revenue share"
-msgstr ""
+msgstr "Porcentaje de ingresos"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:108
 msgid "Revenue split"
-msgstr ""
+msgstr "Dividir ingresos"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:50
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:28
@@ -1972,32 +1972,32 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:47
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:140
 msgid "Revert"
-msgstr ""
+msgstr "Revertir"
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:90
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:63
 msgid "Review stake"
-msgstr ""
+msgstr "Revisar la estaca"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:26
 msgid "Reward ratio"
-msgstr ""
+msgstr "Ratio de recompensa"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:79
 msgid "Reward ratio - amount of the current reward amount that should be handed out in a single block. The default corresponds to a half life of approximately 15 days."
-msgstr ""
+msgstr "Ratio de recompensa - cantidad de la cantidad de recompensa actual que debe repartirse en un solo bloque. El valor por defecto corresponde a una vida media de aproximadamente 15 días."
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:77
 msgid "Reward ratio (decimals)"
-msgstr ""
+msgstr "Ratio de recompensa (decimales)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:58
 msgid "RFC"
-msgstr ""
+msgstr "RFC"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:48
 msgid "Risk evaluation"
-msgstr ""
+msgstr "Evaluación de riesgo"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:175
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:181
@@ -2005,381 +2005,381 @@ msgstr ""
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:69
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:82
 msgid "Role held by:"
-msgstr ""
+msgstr "Rol sostenido por:"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:68
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:37
 #: src/views/yield-dtf/settings/components/listing-info.tsx:47
 msgid "Roles"
-msgstr ""
+msgstr "Roles"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:193
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:9
 #: src/views/yield-dtf/settings/components/rtoken-management.tsx:43
 msgid "Roles & Controls"
-msgstr ""
+msgstr "Funciones y controles"
 
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:24
 msgid "RSR available to withdraw"
-msgstr ""
+msgstr "RSR disponible para retirar"
 
 #: src/views/yield-dtf/overview/components/charts/staking-chart.tsx:97
 msgid "RSR Staked"
-msgstr ""
+msgstr "RSR tomado"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:23
 msgid "RSR Stakers"
-msgstr ""
+msgstr "Intereses RSR"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:20
 msgid "RSR Trader"
-msgstr ""
+msgstr "Comerciante RSR"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:22
 msgid "RToken Address"
-msgstr ""
+msgstr "Dirección RToken"
 
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:50
 msgid "RToken Deployment Transaction succeeded"
-msgstr ""
+msgstr "Transacción de despliegue de RToken exitosa"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:15
 msgid "RToken Details"
-msgstr ""
+msgstr "Detalles de RToken"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:17
 msgid "RToken holders"
-msgstr ""
+msgstr "Titulares de RToken"
 
 #: src/views/yield-dtf/issuance/components/balances/index.tsx:40
 msgid "RToken in Wallet"
-msgstr ""
+msgstr "Token en la cartera"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:38
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:50
 msgid "RToken mandate"
-msgstr ""
+msgstr "RToken mandate"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:34
 msgid "RToken Maximum trade volume"
-msgstr ""
+msgstr "Volumen máximo RToken"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:103
 msgid "RToken Maximum trade volume ($)"
-msgstr ""
+msgstr "Volumen máximo RToken ($)"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:19
 msgid "RToken Trader"
-msgstr ""
+msgstr "Comerciante RToken"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:140
 msgid "RToken will be fully functional"
-msgstr ""
+msgstr "RToken será completamente funcional"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:137
 msgid "RToken will be left in pause state"
-msgstr ""
+msgstr "El token se dejará en pausa"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:91
 msgid "RToken will be ready to use after this TX if you choose to unpause."
-msgstr ""
+msgstr "RToken estará listo para ser usado después de este TX si decide pausar."
 
 #: src/views/yield-dtf/overview/components/backing/index.tsx:89
 msgid "RTokens are 100% backed by a diversified set of underlying collateral tokens..."
-msgstr ""
+msgstr "RTokens están 100% respaldados por un conjunto diversificado de tokens colaterales subyacentes..."
 
 #: src/views/tokens/Tokens.tsx:17
 msgid "RTokens in this list is not an endorsement or audited by us. It's simply RTokens that have gone through our listing process and don't seem like clear scams."
-msgstr ""
+msgstr "RTokens en esta lista no es un respaldo o una auditoría por nuestra parte. Es simplemente RTokens que han pasado por nuestro proceso de listado y no parecen estafas claras."
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:120
 #: src/components/rtoken-setup/components/RolesEdit.tsx:48
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:47
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:31
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: src/views/tokens/components/TableFilters.tsx:19
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: src/views/index-dtf/governance/views/propose/index.tsx:51
 msgid "Select proposal type"
-msgstr ""
+msgstr "Seleccionar tipo de propuesta"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:31
 msgid "Selling"
-msgstr ""
+msgstr "Vender"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:78
 msgid "Settle all"
-msgstr ""
+msgstr "Saltar todo"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:71
 msgid "Settleable auctions"
-msgstr ""
+msgstr "Subastas ajustables"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:21
 msgid "Setup Governance"
-msgstr ""
+msgstr "Establecer Gobernanza"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:41
 msgid "Shared externally"
-msgstr ""
+msgstr "Compartido externamente"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:36
 msgid "Shared with RSR Stakers"
-msgstr ""
+msgstr "Compartido con RSR Stakers"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:33
 msgid "Shared with RToken Holders"
-msgstr ""
+msgstr "Compartido con los Titulares de RToken"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:36
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:39
 msgid "Short Freeze"
-msgstr ""
+msgstr "Congelación corta"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:13
 msgid "Short freeze duration"
-msgstr ""
+msgstr "Duración de la congelación corta"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:22
 msgid "Short freeze duration (s)"
-msgstr ""
+msgstr "Duración de congelación corta (s)"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:24
 msgid "Short freezers have the responsibility of freezing an RToken if anything dangerous or suspicious is happening. This is a one-shot freeze and the role will be revoked after a single use. This field determines how long the RToken will remain frozen until the freeze expires or is extended by another actor."
-msgstr ""
+msgstr "Los congeladores cortos tienen la responsabilidad de congelar un RToken si ocurre algo peligroso o sospechoso. Se trata de un congelamiento de un solo disparo y el rol se revocará después de un solo uso. Este campo determina cuánto tiempo permanecerá congelado el RToken hasta que la congelación expire o se extienda por otro actor."
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:105
 msgid "Signature"
-msgstr ""
+msgstr "Firma"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:51
 msgid "Signing Tx 1"
-msgstr ""
+msgstr "Firmando Tx 1"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:55
 msgid "Signing Tx 2"
-msgstr ""
+msgstr "Firmando Tx 2"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:56
 msgid "Simulate proposal"
-msgstr ""
+msgstr "Simular propuesta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:91
 msgid "Simulate Proposal"
-msgstr ""
+msgstr "Simular propuesta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:32
 msgid "Simulation successful ✓"
-msgstr ""
+msgstr "Simulación exitosa ✓"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:33
 msgid "Simulation unsuccessful ✘"
-msgstr ""
+msgstr "Simulación fallida?"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/UnavailableRevenueAuctions.tsx:128
 msgid "Small revenue auctions"
-msgstr ""
+msgstr "Subastas de pequeños ingresos"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:34
 msgid "Snapshot Delay"
-msgstr ""
+msgstr "Retardo de instantánea"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:31
 msgid "Sold"
-msgstr ""
+msgstr "Vendido"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:26
 msgid "Some collateral tokens from protocols like Aave and Convex differ technically from other collateral tokens. To ensure proper handling, they must be wrapped in a contract for effective monitoring. Once wrapped, the collateral remains the same but has a new interface for price and appreciation tracking."
-msgstr ""
+msgstr "Algunas fichas colaterales de protocolos como Aave y Convex difieren técnicamente de otras fichas colaterales. Para garantizar un manejo adecuado, deben incluirse en un contrato para un control efectivo. Una vez envuelto, la garantía sigue siendo la misma, pero tiene una nueva interfaz para el seguimiento de precios y apreciación."
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:37
 msgid "Spell 1"
-msgstr ""
+msgstr "Spell 1"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:37
 msgid "Spell 2"
-msgstr ""
+msgstr "Spell 2"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:44
 msgid "St Token Ticker"
-msgstr ""
+msgstr "Ticker de St Token"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:175
 #: src/components/transactions/table/index.tsx:53
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:33
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:81
 msgid "Stake"
-msgstr ""
+msgstr "Tomar"
 
 #: src/components/layout/navigation/index.tsx:78
 msgid "Stake + Unstake"
-msgstr ""
+msgstr "Tomar + Desestacionar"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:49
 msgid "Stake pool"
-msgstr ""
+msgstr "Piscina"
 
 #: src/views/yield-dtf/overview/components/hero/token-stats.tsx:52
 msgid "Stake pool USD value:"
-msgstr ""
+msgstr "Valor de la piscina USD:"
 
 #: src/views/yield-dtf/staking/components/stake/stake-button.tsx:30
 msgid "Stake RSR"
-msgstr ""
+msgstr "Tomar RSR"
 
 #: src/views/tokens/components/UnlistedTokensTable.tsx:105
 msgid "Staked"
-msgstr ""
+msgstr "Llevado"
 
 #: src/views/explorer/components/tokens/index.tsx:156
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:105
 msgid "Staked RSR"
-msgstr ""
+msgstr "RSR tomado"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:197
 msgid "Staked RSR Overcollateralisation"
-msgstr ""
+msgstr "Sobrecolateralización RSR tomada"
 
 #: src/views/explorer/components/tokens/index.tsx:168
 msgid "Stakers APY"
-msgstr ""
+msgstr "APY de los participantes"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:12
 msgid "Staking RSR"
-msgstr ""
+msgstr "Tomando RSR"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:40
 msgid "Staking token"
-msgstr ""
+msgstr "Token de toma"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:46
 msgid "Staking yield share ends"
-msgstr ""
+msgstr "Fin de acción de rendimiento de toma"
 
 #: src/components/transactions/table/index.tsx:50
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:30
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:78
 msgid "Start Issue"
-msgstr ""
+msgstr "Iniciar problema"
 
 #: src/views/explorer/components/governance/index.tsx:76
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:65
 msgid "Status:"
-msgstr ""
+msgstr "Estado:"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:46
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:77
 msgid "Stay patient while the transaction is in progress & don't close this window to avoid issues finding your way back here."
-msgstr ""
+msgstr "Mantente paciente mientras la transacción está en curso y no cierres esta ventana para evitar problemas encontrando tu camino de vuelta aquí."
 
 #: src/components/layout/header/components/app-navigation.tsx:128
 msgid "Stay up to date in long form"
-msgstr ""
+msgstr "Mantente al día en forma larga"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:81
 msgid "Still have questions? Come talk to us in the Reserve Discord server. We’d be happy to help! You can also"
-msgstr ""
+msgstr "¿Todavía tienes preguntas? Ven a hablar con nosotros en el servidor de Reserva de Discord. ¡Estaríamos encantados de ayudar! También puedes"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:78
 msgid "stRSR payout fraction 0.0"
-msgstr ""
+msgstr "fracción de pago de stRSR 0.0"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:23
 msgid "stRSR Token"
-msgstr ""
+msgstr "Token de stRSR"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:95
 msgid "Submit proposal on-chain"
-msgstr ""
+msgstr "Enviar propuesta en cadena"
 
 #: src/views/yield-dtf/overview/components/charts/supply-chart.tsx:85
 msgid "Supply"
-msgstr ""
+msgstr "Suministro"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:20
 msgid "Surplus below minimum trade"
-msgstr ""
+msgstr "Excedente por debajo de la operación mínima"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:19
 msgid "Symbol"
-msgstr ""
+msgstr "Símbolo"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:105
 msgid "Target:"
-msgstr ""
+msgstr "Target:"
 
 #: src/components/tables/ListedTokensTable.tsx:53
 #: src/views/explorer/components/tokens/index.tsx:172
 #: src/views/tokens/components/UnlistedTokensTable.tsx:95
 msgid "Target(s)"
-msgstr ""
+msgstr "Target(s)"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/TraderEmissions.tsx:156
 msgid "The amount of assets selected affects the gas price, this asset may not be worth claiming yet."
-msgstr ""
+msgstr "La cantidad de activos seleccionados afecta al precio del gas, es posible que este activo no merezca la pena reclamar todavía."
 
 #: src/components/account/index.tsx:48
 msgid "The configured network \"{currentChain}\" is different from the wallet selected network \"{chainId}\"\". Change your network in the connected wallet."
-msgstr ""
+msgstr "La red configurada \"{currentChain}\" es diferente de la red seleccionada \"{chainId}\"\". Cambie su red en la cartera conectada."
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:39
 msgid "The creation of new RToken designs is permissionless. If you are the inventive type and have ideas for what assets should be in the basket, what a good governance looks like, or anything novel that could work within the realms of the protocol, please consider putting those ideas into practice or sharing them with the community."
-msgstr ""
+msgstr "La creación de nuevos diseños RToken no tiene permiso. Si usted es el tipo de inventiva y tiene ideas sobre cómo deberían estar los activos en la canasta, cómo se ve un buen gobierno. o cualquier novedad que pueda funcionar dentro de los reinos del protocolo, por favor considere poner esas ideas en práctica o compartirlas con la comunidad."
 
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:157
 msgid "The diversity factor determines the amount of emergency collateral that will be deployed to the RToken basket in the case of a default."
-msgstr ""
+msgstr "El factor de diversidad determina la cantidad de garantía de emergencia que se desplegará en la cesta de RToken en caso de un valor predeterminado."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:75
 msgid "The dutch auction length is how many seconds long falling-price dutch auctions should be. A longer period will result in less slippage due to better price granularity, and a shorter period will result in more slippage."
-msgstr ""
+msgstr "La longitud de las subastas de los dúos es cuántos segundos debe ser la larga subasta de los dúos que caen en caída. Un período más largo resultará en menos deslizamientos debido a una mejor granularidad del precio, y un período más corto resultará en más deslizamiento."
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:52
 msgid "The fraction of RSR stake that should be permitted to withdraw without a refresh. When cumulative withdrawals (or a single withdrawal) exceed this fraction, gas must be paid to refresh all assets."
-msgstr ""
+msgstr "La fracción de la apuesta RSR que debe permitirse la retirada sin refrescar. Cuando los retiros acumulados (o un solo retiro) excedan esta fracción, se debe pagar el gas para actualizar todos los activos."
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:98
 msgid "The guardian has the ability to reject proposals even if they pass. Should be assigned to a multisig or EOA that can be trusted to act as a backstop. It is acceptable if it is relatively slow to act. Only one guardian address should be defined."
-msgstr ""
+msgstr "El guardián tiene la capacidad de rechazar las propuestas aunque se aprueben. Debe asignarse a un multifirma o EOA que se puede confiar para que actúe como un backstop. Es aceptable si es relativamente lento a la hora de actuar. Sólo debe definirse una dirección guardiana."
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:51
 msgid "The mandate describes what goals its governors should try to achieve. By briefly explaining the RToken's purpose and what the RToken is intended to do, it provides common ground for the governors to decide upon priorities and how to weigh tradeoffs."
-msgstr ""
+msgstr "El mandato describe los objetivos que sus gobernadores deben intentar alcanzar. Explicando brevemente el propósito de RToken y qué pretende hacer el RToken proporciona un terreno común para que los gobernadores decidan sobre las prioridades y cómo sopesar las compensaciones."
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:89
 msgid "The minimum amount of time after a proposal passes before it can be executed."
-msgstr ""
+msgstr "La cantidad mínima de tiempo después de que una propuesta pase antes de que pueda ser ejecutada."
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:102
 msgid "The minimum percentage of stRSR ownership on an RToken to be able to create a proposal."
-msgstr ""
+msgstr "El porcentaje mínimo de propiedad de stRSR en un RToken para poder crear una propuesta."
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:115
 msgid "The minimum percentage of stRSR voter participation (either For or Abstain) on a proposal before it can be passed."
-msgstr ""
+msgstr "El porcentaje mínimo de participación del votante de stRSR (ya sea A o Abstain) sobre una propuesta antes de que pueda ser aprobada."
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:97
 msgid "The pauser(s) can put the RToken in two states which can be either true or false (no set duration):"
-msgstr ""
+msgstr "El pausuario(s) puede poner el RToken en dos estados que pueden ser verdaderos o falsos (sin duración de establecimiento):"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:98
 msgid "The Reserve Project"
-msgstr ""
+msgstr "El Proyecto de Reserva"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:17
 msgid "The Reserve Protocol makes a few different types of trades"
-msgstr ""
+msgstr "El Protocolo de Reserva realiza algunos tipos diferentes de operaciones"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:50
 msgid "The token supply is not enough for changing the primary basket safely, contact the Reserve team for recommendations."
-msgstr ""
+msgstr "El suministro de tokens no es suficiente para cambiar la cesta primaria de forma segura, póngase en contacto con el equipo de Reserva para obtener recomendaciones."
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:78
 msgid "The top level decision maker, typically a decentralized governance smart contract, responsible for setting or updating all RToken parameter values, RToken baskets, etc. - The RToken OWNER has the power to:\n"
@@ -2388,63 +2388,68 @@ msgid "The top level decision maker, typically a decentralized governance smart 
 "          freeze and unfreeze the system\n"
 "          set governance parameters\n"
 "          upgrade system contracts"
-msgstr ""
+msgstr "La toma de decisiones de alto nivel, normalmente un contrato inteligente de gobierno descentralizado, responsable de configurar o actualizar todos los valores de los parámetros RToken, cestas RToken, etc. - El PROPIETARIO de RToken tiene el poder para:\n"
+"          otorgar y revocar roles a cualquier cuenta de Ethereum\n"
+"          pausar y pausar el sistema\n"
+"          congelar y desbloquear el sistema\n"
+"          establecer parámetros de gobernanza\n"
+"          actualizar contratos del sistema"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:47
 msgid "The warmup period is how many seconds should pass after the basket regained the SOUND status before an RToken can be issued and/or a trade can be opened."
-msgstr ""
+msgstr "El período de warmup es cuántos segundos debe pasar después de que la cesta recuperó el estado de SOUND antes de que se pueda emitir un RToken y/o abrir un intercambio."
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:112
 msgid "There's two freezing roles that put the system in the same state for different durations:"
-msgstr ""
+msgstr "Hay dos roles de congelación que ponen el sistema en el mismo estado durante diferentes duraciones:"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:36
 msgid "This address already holds this role"
-msgstr ""
+msgstr "Esta dirección ya tiene este rol"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:112
 msgid "This App"
-msgstr ""
+msgstr "Esta App"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:115
 msgid "This app is an open source project developed and maintained by ABC Labs to interact with the Reserve Protocol and various DTFs deployed with the protocol."
-msgstr ""
+msgstr "Esta aplicación es un proyecto de código abierto desarrollado y mantenido por ABC Labs para interactuar con el Protocolo de Reserva y varios DTFs desplegados con el protocolo."
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:32
 msgid "This asset is already (being) registered"
-msgstr ""
+msgstr "Este activo ya está registrado (ser)"
 
 #: src/components/field/index.tsx:33
 msgid "This field is required"
-msgstr ""
+msgstr "Este campo es obligatorio"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:57
 msgid "This is the target collateral basket at the onset of an RToken that defines which collateral needs to be deposited for issuances. The prime basket is directly set by governance, and only changes through successful governance proposals."
-msgstr ""
+msgstr "Esta es la cesta de garantía objetivo al comienzo de un RToken que define qué garantía debe depositarse para las emisiones. La canasta principal es directamente establecida por la gobernanza, y sólo cambia a través de propuestas de gobernanza exitosas."
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:28
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:21
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:30
 msgid "Ticker"
-msgstr ""
+msgstr "Tecla"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:32
 msgid "Ticker - symbol eg. USD+"
-msgstr ""
+msgstr "Ticker - símbolo ej. USD+"
 
 #: src/components/transactions/table/index.tsx:87
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:104
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:145
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:62
 msgid "Timelock address"
-msgstr ""
+msgstr "Dirección de timelock"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:53
 msgid "Timelock Address"
-msgstr ""
+msgstr "Dirección del Timelock"
 
 #: src/components/tables/ListedTokensTable.tsx:27
 #: src/views/explorer/components/governance/index.tsx:38
@@ -2452,484 +2457,484 @@ msgstr ""
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:46
 #: src/views/tokens/components/UnlistedTokensTable.tsx:67
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:194
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:10
 msgid "Token details"
-msgstr ""
+msgstr "Detalles del token"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:13
 msgid "Token Details"
-msgstr ""
+msgstr "Detalles del token"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:162
 msgid "Token exposure"
-msgstr ""
+msgstr "Exposición del token"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:19
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:20
 msgid "Token name"
-msgstr ""
+msgstr "Nombre del token"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:22
 msgid "Token name - the name of the RToken eg. Savings Dollar"
-msgstr ""
+msgstr "Nombre del token - el nombre del token por ejemplo. Dólar de ahorros"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:24
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:26
 msgid "Token name required"
-msgstr ""
+msgstr "Nombre del token requerido"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:33
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:35
 msgid "Token ticker is required"
-msgstr ""
+msgstr "El token es requerido"
 
 #: src/views/explorer/components/filters/TokenFilter.tsx:36
 msgid "Tokens"
-msgstr ""
+msgstr "Tokens"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:110
 msgid "Tokens to match trade"
-msgstr ""
+msgstr "Tokens para emparejar intercambio"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:141
 msgid "Top voting addresses"
-msgstr ""
+msgstr "Direcciones más votadas"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:81
 msgid "Total % to arbitrary address"
-msgstr ""
+msgstr "Total % a la dirección arbitraria"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:176
 msgid "Total initial RToken scale including all targets. If your RToken only has one target unit this will be the same as the basket scale input."
-msgstr ""
+msgstr "Escala total inicial de Token incluyendo todos los objetivos. Si su Token solo tiene una unidad de objetivo, este será el mismo que la entrada de escala de la cesta."
 
 #: src/views/yield-dtf/overview/components/hero/token-stats.tsx:32
 msgid "Total Market Cap"
-msgstr ""
+msgstr "Gorra total del mercado"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:54
 msgid "Total RSR staked"
-msgstr ""
+msgstr "Total RSR apostado"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:23
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:34
 msgid "Trader contract address"
-msgstr ""
+msgstr "Dirección del contrato de compra-venta"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:24
 msgid "Trader contract for batch trades."
-msgstr ""
+msgstr "Contrato de compra-venta para operaciones por lotes."
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:35
 msgid "Trader contract for Dutch trades."
-msgstr ""
+msgstr "Contrato de compra-venta para operaciones holandesas."
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:18
 msgid "Trader implementations"
-msgstr ""
+msgstr "Implementaciones del Trader"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:32
 msgid "Trading delay"
-msgstr ""
+msgstr "Retraso comercial"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:33
 msgid "Trading delay - how many seconds should pass after the basket has been changed, before a rebalancing trade is opened. Why does this matter? To avoid losses due to poor liquidity."
-msgstr ""
+msgstr "Retraso en el comercio - cuántos segundos deben pasar después de que la cesta haya sido cambiada, antes de que se abra un nuevo equilibrio comercial. ¿Por qué es importante?, para evitar pérdidas debido a la falta de liquidez."
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:31
 msgid "Trading delay (s)"
-msgstr ""
+msgstr "Retraso (s) de comercio"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:48
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:49
 msgid "Transaction 1"
-msgstr ""
+msgstr "Transacción 1"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:64
 msgid "Transaction 2"
-msgstr ""
+msgstr "Transacción 2"
 
 #: src/hooks/useWatchTransaction.ts:54
 msgid "Transaction confirmed"
-msgstr ""
+msgstr "Transacción confirmada"
 
 #: src/components/transaction-modal/index.tsx:140
 msgid "Transaction failed"
-msgstr ""
+msgstr "Transacción fallida"
 
 #: src/hooks/useWatchTransaction.ts:71
 msgid "Transaction reverted"
-msgstr ""
+msgstr "Transacción revertida"
 
 #: src/components/transaction-modal/transaction-confirmed-modal.tsx:32
 #: src/components/transaction-modal/TransactionConfirmedModal.tsx:28
 msgid "Transaction signed!"
-msgstr ""
+msgstr "¡Transacción firmada!"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:43
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:74
 msgid "Transaction submitted"
-msgstr ""
+msgstr "Transacción enviada"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:165
 #: src/views/explorer/components/transactions/index.tsx:38
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:220
 msgid "Transactions"
-msgstr ""
+msgstr "Transacciones"
 
 #: src/components/transactions/table/index.tsx:47
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:27
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:75
 msgid "Transfer"
-msgstr ""
+msgstr "Transferir"
 
 #: src/components/layout/header/components/app-navigation.tsx:104
 msgid "Transfer DTFs across chains"
-msgstr ""
+msgstr "Transferir DTFs a través de cadenas"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:71
 msgid "Trigger an Auction"
-msgstr ""
+msgstr "Activa una subasta"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/MeltingBox.tsx:49
 msgid "Trigger melt"
-msgstr ""
+msgstr "Fundición"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:16
 msgid "Trigger Unstake"
-msgstr ""
+msgstr "Desactivar estaca"
 
 #: src/views/yield-dtf/issuance/components/zapV2/ZapToggle.tsx:23
 msgid "Turn on Zaps to mint using 1 asset"
-msgstr ""
+msgstr "Activar Zaps para acuñar usando 1 activo"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:44
 msgid "Tutorial video"
-msgstr ""
+msgstr "Video Tutorial"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:170
 msgid "TVL"
-msgstr ""
+msgstr "TVL"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:49
 msgid "Tx 1"
-msgstr ""
+msgstr "Tx 1"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:53
 msgid "Tx 2"
-msgstr ""
+msgstr "Tx 2"
 
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:175
 msgid "Tx Hash"
-msgstr ""
+msgstr "Hash Tx"
 
 #: src/components/ui/transaction-button.tsx:140
 #: src/components/ui/transaction-button.tsx:200
 msgid "Tx in process..."
-msgstr ""
+msgstr "Tx en proceso..."
 
 #: src/views/explorer/components/filters/TransactionTypeFilter.tsx:35
 msgid "Tx Type"
-msgstr ""
+msgstr "Tipo Tx"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:123
 msgid "Tx1. RToken Deploy"
-msgstr ""
+msgstr "Tx1. RToken Deploy"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:120
 msgid "Tx2. Governance"
-msgstr ""
+msgstr "Tx2. Gobierno"
 
 #: src/components/tables/ListedTokensTable.tsx:45
 #: src/views/tokens/components/UnlistedTokensTable.tsx:88
 msgid "Txs"
-msgstr ""
+msgstr "Txs"
 
 #: src/components/transactions/table/index.tsx:66
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:68
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:96
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: src/views/yield-dtf/overview/components/backing/platform-exposure.tsx:58
 msgid "Underlying Platform Exposure"
-msgstr ""
+msgstr "Exposición de plataforma subyacente"
 
 #: src/views/index-dtf/settings/components/index-settings-governance-token.tsx:25
 msgid "Underlying Token"
-msgstr ""
+msgstr "Token subyacente"
 
 #: src/views/yield-dtf/overview/components/backing/token-exposure.tsx:90
 msgid "Underlying Token Exposure"
-msgstr ""
+msgstr "Exposición de fichas subyacentes"
 
 #: src/components/layout/header/components/app-navigation.tsx:134
 msgid "Understand the project and protocols"
-msgstr ""
+msgstr "Mantener el proyecto y protocolos"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:103
 msgid "Unfreeze"
-msgstr ""
+msgstr "Descongelar"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RecollaterizationAlert.tsx:24
 msgid "Unknown amount of recollateralization auctions left to run"
-msgstr ""
+msgstr "Cantidad desconocida de subastas de recuperación por ejecutar"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:43
 msgid "Unpausing"
-msgstr ""
+msgstr "Unpausing"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterEdit.tsx:59
 msgid "Unregister"
-msgstr ""
+msgstr "Darse de baja"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:38
 msgid "Unregister Assets"
-msgstr ""
+msgstr "Quitar registro de contenidos"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedUnregisterPreview.tsx:29
 msgid "Unregistering assets"
-msgstr ""
+msgstr "Desregistrando activos"
 
 #: src/components/transactions/table/index.tsx:54
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:34
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:82
 msgid "Unstake"
-msgstr ""
+msgstr "Desestacionar"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:38
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:86
 msgid "Unstake Cancelled"
-msgstr ""
+msgstr "Quitar apuesta cancelada"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-button.tsx:35
 msgid "Unstake RSR"
-msgstr ""
+msgstr "Desmarcar RSR"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:22
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:73
 msgid "Unstaking Delay"
-msgstr ""
+msgstr "Retraso de Desapostar"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:65
 msgid "Unstaking delay - number of seconds that all RSR unstaking must be delayed in order to account for stakers trying to frontrun defaults and needs to be longer than \"governance\" for proper incentives for basket changes."
-msgstr ""
+msgstr "Retraso indiferente - número de segundos que todos los RSR desapuestan deben ser retrasados para tener en cuenta a los interesados que intentan adelantarse a los valores predeterminados y deben ser más largos que la \"gobernanza\" para los incentivos adecuados para los cambios en la cesta."
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:63
 msgid "Unstaking Delay (s)"
-msgstr ""
+msgstr "Quitando demora (s)"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:55
 msgid "Unstaking delay:"
-msgstr ""
+msgstr "Retraso de desapuesta:"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:37
 msgid "Unstaking RSR"
-msgstr ""
+msgstr "Desempacando RSR"
 
 #: src/components/account/index.tsx:44
 msgid "Unsupported"
-msgstr ""
+msgstr "No soportado"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapTypeToggle.tsx:29
 msgid "Unwrap collaterals"
-msgstr ""
+msgstr "Desenvolver colaterales"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgrades.tsx:141
 msgid "Upgrade contract implementations to a newer version. This is usually performed for a protocol update or bugfix."
-msgstr ""
+msgstr "Actualizar implementaciones de contrato a una versión más reciente. Esto se realiza normalmente para una actualización de protocolo o corrección de errores."
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgrades.tsx:126
 msgid "Upgrade contracts"
-msgstr ""
+msgstr "Mejorar contratos"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:94
 msgid "USD Value"
-msgstr ""
+msgstr "Valor USD"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:135
 msgid "Use a custom plugin contract address"
-msgstr ""
+msgstr "Usar una dirección de contrato de plugin personalizada"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:48
 msgid "Use the Alexios governor format?"
-msgstr ""
+msgstr "¿Usar el formato del gobernador Alexios?"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:139
 msgid "User Tracking"
-msgstr ""
+msgstr "Seguimiento de usuario"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:120
 msgid "Validating..."
-msgstr ""
+msgstr "Validando..."
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:69
 msgid "Verifying allowance..."
-msgstr ""
+msgstr "Verificando permiso..."
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:91
 msgid "Verifying transaction..."
-msgstr ""
+msgstr "Verificando transacción..."
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:64
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:46
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: src/views/yield-dtf/settings/components/roles-view.tsx:60
 msgid "View"
-msgstr ""
+msgstr "Ver"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:31
 msgid "View All"
-msgstr ""
+msgstr "Ver todo"
 
 #: src/views/discover/components/yield/discover-yield-dtf.tsx:14
 msgid "View All, including unlisted"
-msgstr ""
+msgstr "Ver todo, incluyendo no listados"
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:131
 #: src/views/yield-dtf/staking/components/unstake/confirm-unstake-button.tsx:89
 msgid "View in explorer"
-msgstr ""
+msgstr "Ver en explorador"
 
 #: src/components/transaction-modal/transaction-confirmed-modal.tsx:41
 #: src/components/transaction-modal/TransactionConfirmedModal.tsx:37
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:88
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:74
 msgid "View on"
-msgstr ""
+msgstr "Ver en"
 
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:63
 msgid "View on Etherscan"
-msgstr ""
+msgstr "Ver en Etherscan"
 
 #: src/views/tokens/components/UnlistedTokensTable.tsx:91
 msgid "Volume (all time)"
-msgstr ""
+msgstr "Volumen (todo el tiempo)"
 
 #: src/components/tables/ListedTokensTable.tsx:49
 msgid "Volume (last 7d)"
-msgstr ""
+msgstr "Volumen (último 7d)"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:63
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:148
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:129
 msgid "Vote"
-msgstr ""
+msgstr "Votaciones"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-vote-button.tsx:60
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVote.tsx:170
 msgid "Vote on-chain"
-msgstr ""
+msgstr "Votar en cadena"
 
 #: src/views/index-dtf/governance/components/governance-stats.tsx:79
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:132
 msgid "Vote Supply"
-msgstr ""
+msgstr "VOTACIONES"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:111
 msgid "Vote weight"
-msgstr ""
+msgstr "Peso del voto"
 
 #: src/views/index-dtf/settings/components/index-settings-governance-token.tsx:18
 msgid "Vote-Lock DAO Token"
-msgstr ""
+msgstr "Ficha DAO de bloqueo de voto"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:107
 msgid "Votes"
-msgstr ""
+msgstr "Votos"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:79
 msgid "Votes against"
-msgstr ""
+msgstr "Votos en contra"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:68
 msgid "Votes for"
-msgstr ""
+msgstr "Votos para"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:97
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:83
 msgid "Voting"
-msgstr ""
+msgstr "Votaciones"
 
 #: src/views/index-dtf/governance/components/governance-stats.tsx:84
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:142
 msgid "Voting Addresses"
-msgstr ""
+msgstr "Direcciones de votación"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:60
 msgid "Voting Delay"
-msgstr ""
+msgstr "Retraso de votación"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:60
 msgid "Voting on the RToken you are staked on requires you to delegate your vote to yourself or another Eth address."
-msgstr ""
+msgstr "Votar sobre el RToken en el que estás apostado requiere que deleges tu voto a ti mismo o a otra dirección de Et."
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:65
 #: src/views/yield-dtf/settings/components/governance-info.tsx:42
 msgid "Voting Period"
-msgstr ""
+msgstr "Período de voto"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:83
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:103
 msgid "Voting power"
-msgstr ""
+msgstr "Poder de votación"
 
 #: src/views/yield-dtf/staking/components/stake/delegate-stake.tsx:28
 msgid "Voting power delegation"
-msgstr ""
+msgstr "Delegación del poder de votación"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:81
 msgid "Voting Quorum"
-msgstr ""
+msgstr "Quórum votante"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RecollaterizationAlert.tsx:29
 msgid "Wait to trigger revenue auctions until after recollateralization has finished."
-msgstr ""
+msgstr "Espere a activar subastas de ingresos hasta que haya finalizado la recuperación."
 
 #: src/views/explorer/components/transactions/Filters.tsx:16
 msgid "Wallet"
-msgstr ""
+msgstr "Cartera"
 
 #: src/views/portfolio/components/Portfolio.tsx:135
 msgid "Wallet staked RSR + RToken Value"
-msgstr ""
+msgstr "Monedero apostado RSR + Valor RToken"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:45
 msgid "Warmup period (s)"
-msgstr ""
+msgstr "Periodo de Warmup (s)"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:63
 msgid "Watch an intro to RTokens"
-msgstr ""
+msgstr "Ver una introducción a RTokens"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:39
 msgid "Welcome to Reserve — a platform for creating, exploring, and interacting with Decentralized Token Folios (“DTFs”). A DTF is the generic name given to any onchain asset-backed index. DTFs can be created on Reserve’s Yield Protocol or Index Protocol permissionlessly, by any person or entity."
-msgstr ""
+msgstr "Bienvenido a Reserve — una plataforma para crear, explorar e interactuar con Folios Token Descentralizados (“DTFs”). Un DTF es el nombre genérico dado a cualquier índice respaldado por activos de onchain. Los DTFs pueden ser creados sin permiso por cualquier persona o entidad en el Protocolo de Yield de la Reserva o el Protocolo de Index."
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:38
 msgid "What is Reserve Governor Alexios?"
-msgstr ""
+msgstr "¿Qué es el Gobernador de Reserva Alexios?"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:14
 msgid "When staking RSR, you are putting your RSR at risk in the case of a collateral default in exchange for 1) the rights to govern the RToken and 2) for a portion of the revenue generated by the collateral. The revenue sent to the staked RSR pool will be distributed amongst RSR stakers proportionally to their stake in the pool."
-msgstr ""
+msgstr "Al apostar RSR, está poniendo su RSR en riesgo en el caso de un incumplimiento de garantía a cambio de 1) los derechos de gobernar el RToken y 2) para una parte de los ingresos generados por el garantía. Los ingresos enviados al fondo de RSR se distribuirán entre los actores de RSR proporcionalmente a su participación en el billete."
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:26
 msgid "When you stake your RSR, you will receive a stRSR receipt token which represents your ownership in the staked RSR contract. As revenue is distributed, the receipt token will be redeemable for an increasing amount of RSR. If there is a default scenario where the staked RSR is slashed, then the receipt token will be redeemable for a decreased amount of RSR."
-msgstr ""
+msgstr "Cuando apuestes tu RSR, recibirás una ficha de recibo de stRSR que representa tu propiedad en el contrato RSR apuestado. A medida que se distribuyan los ingresos, el token de recibo será canjeable por una cantidad cada vez mayor de RSR. Si hay un escenario por defecto en el que el RSR apostado es recortado, entonces el token de recibo será redimible por una cantidad decreciente de RSR."
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:39
 msgid "When you unstake your stRSR, there will be a delay (defined by governance). This is to eliminate game theory scenarios that would make the backstop RSR staked pool less effective because people would continually be incentivized to unstake and restake."
-msgstr ""
+msgstr "Cuando no estés en tu stRSR, habrá un retraso (definido por la gobernanza). Esto es para eliminar escenarios teóricos de juegos que harían que el fondo de apoyo RSR apostado menos efectivo porque la gente estaría continuamente vized para no estar."
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:48
 msgid "Whether you’re an economist looking to improve the fiat standard, a DeFi entrepreneur seeking to fill a gap in the market, or simply an innovator with a wild idea, Reserve makes it easy to launch your own asset-backed index."
-msgstr ""
+msgstr "Ya sea que sea un economista que busque mejorar el estándar fiat, un empresario DeFi que busca llenar un vacío en el mercado, o simplemente un innovador con una idea salvaje, Reserva facilita el lanzamiento de su propio índice respaldado por activos."
 
 #: src/components/transactions/table/index.tsx:55
 #: src/components/transactions/table/index.tsx:57
@@ -2939,86 +2944,86 @@ msgstr ""
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:85
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:78
 msgid "Withdraw"
-msgstr ""
+msgstr "Retirar"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:32
 msgid "Withdraw RSR"
-msgstr ""
+msgstr "Retirar RSR"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:24
 msgid "Withdrawal leak"
-msgstr ""
+msgstr "Retirar fugas"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:50
 msgid "Withdrawal leak (%)"
-msgstr ""
+msgstr "Retiro de fuga (%)"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:48
 msgid "Worst price"
-msgstr ""
+msgstr "Peor precio"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapTypeToggle.tsx:20
 msgid "Wrap collaterals"
-msgstr ""
+msgstr "Ajustar colaterales"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:42
 msgid "Wrap/Unwrap collateral"
-msgstr ""
+msgstr "Envolver / Desenvolver colateral"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapSidebarHeader.tsx:14
 msgid "Wrap/Unwrap Tokens"
-msgstr ""
+msgstr "Wrap/Unwrap Tokens"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:23
 msgid "Wrapping collateral tokens"
-msgstr ""
+msgstr "Envoltura de fichas colaterales"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:119
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: src/components/layout/header/components/app-navigation.tsx:108
 msgid "Yield DTF Creator"
-msgstr ""
+msgstr "Creador de DTF Yield"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:67
 msgid "Yield DTFs (created on the Reserve Yield Protocol) feature built-in overcollateralization — a defense mechanism that helps protect stability if any backing assets default."
-msgstr ""
+msgstr "Los DTFs Yield (creados en el Protocolo de Yield de la Reserva) cuentan con un exceso de colateralización incorporado — un mecanismo de defensa que ayuda a proteger la estabilidad si se predetermina algún activo de respaldo."
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:130
 msgid "You can leave your RToken paused and come back to setting up governance later."
-msgstr ""
+msgstr "Puedes dejar tu RToken pausado y volver a configurar la gobernanza más adelante."
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:31
 msgid "You receive:"
-msgstr ""
+msgstr "Recibes:"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:49
 msgid "You submit the transaction configuring your RToken design"
-msgstr ""
+msgstr "Usted envía la transacción configurando su diseño RToken"
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:34
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:25
 msgid "You use:"
-msgstr ""
+msgstr "Usted:"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:137
 msgid "You will be the temporary owner until governance is deployed in transaction 2."
-msgstr ""
+msgstr "Usted será el propietario temporal hasta que la gobernanza sea desplegada en la transacción 2."
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:41
 msgid "You'll receive:"
-msgstr ""
+msgstr "Recibirás:"
 
 #: src/views/portfolio/components/Portfolio.tsx:152
 msgid "Your RTokens"
-msgstr ""
+msgstr "Tus RTokens"
 
 #: src/views/yield-dtf/staking/components/stake-position.tsx:29
 msgid "Your stake position"
-msgstr ""
+msgstr "Tu posición de la apuesta"
 
 #: src/views/portfolio/components/Portfolio.tsx:158
 msgid "Your staked RSR"
-msgstr ""
+msgstr "Tu RSR apostado"
 
