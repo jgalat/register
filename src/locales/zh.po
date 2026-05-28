@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh\n"
 "Project-Id-Version: reserve-register\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-05-28 14:04\n"
+"PO-Revision-Date: 2026-05-28 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -20,39 +20,39 @@ msgstr ""
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:54
 msgid " auctioned"
-msgstr ""
+msgstr " 已拍卖的"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/redeem/index.tsx:37
 msgid "- Redeem {0}"
-msgstr ""
+msgstr "- Redeem {0}"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:65
 msgid "(in their Github repository)"
-msgstr ""
+msgstr "(在他们的 Github 仓库中)"
 
 #. placeholder {0}: !!holders ? `Mint ${formatCurrency(holders, 1)}% Est. APY` : 'Mint'
 #. placeholder {0}: CHAIN_TAGS[chainId]
 #: src/views/yield-dtf/deploy/components/TokenParameters.tsx:42
 #: src/views/yield-dtf/overview/components/hero/overview-actions.tsx:123
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #. placeholder {1}: currentPrice === 'USD' ? 'Price' : 'Exchange Rate'
 #: src/views/yield-dtf/overview/components/charts/price-chart.tsx:132
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/overview/components/charts/apy-chart.tsx:294
 msgid "{0} APY"
-msgstr ""
+msgstr "{0} APY"
 
 #. placeholder {0}: settleable?.length ?? 0
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:74
 msgid "{0} auctions"
-msgstr ""
+msgstr "{0} 拍卖活动"
 
 #. placeholder {0}: expanded ? '-' : '+'
 #: src/views/yield-dtf/overview/components/hero/token-mandate.tsx:25
@@ -83,545 +83,545 @@ msgstr ""
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:101
 msgid "% Acceptable"
-msgstr ""
+msgstr "% 可接受"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:85
 msgid "% Revenue share"
-msgstr ""
+msgstr "% 收入份额"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:125
 msgid "% Revenue to RSR Stakers"
-msgstr ""
+msgstr "%收入给RSR Stakers"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:116
 msgid "% Revenue to RToken Holders"
-msgstr ""
+msgstr "RToken 持有人的收入"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:30
 msgid "% to external address"
-msgstr ""
+msgstr "%到外部地址"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:116
 msgid "+ Mint {0}"
-msgstr ""
+msgstr "+ Mint {0}"
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:33
 msgid "15 params"
-msgstr ""
+msgstr "15 params"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:45
 msgid "3.4.0 Upgrade spells"
-msgstr ""
+msgstr "3.4.0 升级拼写"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:34
 msgid "A Brief DTF Introduction"
-msgstr ""
+msgstr "简要DTF 介绍"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:56
 msgid "A good explainer for how Gnosis auctions work can be found"
-msgstr ""
+msgstr "如何找到分析拍卖的一个很好的解释"
 
 #: src/utils/index.ts:127
 msgid "A year ago"
-msgstr ""
+msgstr "一年前"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:129
 msgid "ABC Labs requires additional information beyond what is available on the blockchain to give users relevant data to make informed decisions. As a user, please evaluate any new DTF carefully before holding, staking RSR, or vote locking tokens on them."
-msgstr ""
+msgstr "ABC Labs 要求的额外信息超出区块链上的可用信息，以便给用户相关的数据来做出知情的决定。 作为用户，请在持有、发布RSR或投票锁定令牌之前仔细评估任何新的DTF。"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:142
 msgid "ABC Labs uses industry standard anonymized analytics tools to understand usage and improve the user experience. ABC Labs does not collect any information about users or their financial activity."
-msgstr ""
+msgstr "ABC Labs使用行业标准匿名分析工具来了解使用情况并改进用户体验。 ABC实验室不收集任何关于用户或其财务活动的信息。"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:99
 msgid "Above minimum trade volume"
-msgstr ""
+msgstr "高于最低交易量"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:58
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:90
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:55
 msgid "Abstain"
-msgstr ""
+msgstr "阿斯斯坦文"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:144
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:22
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:130
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:163
 msgid "Add new address"
-msgstr ""
+msgstr "添加新地址"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:165
 msgid "Add to backup basket"
-msgstr ""
+msgstr "添加到备份篮子"
 
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:122
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:210
 msgid "Add to basket"
-msgstr ""
+msgstr "添加到收藏夹"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:163
 msgid "Add to primary basket"
-msgstr ""
+msgstr "添加到主收藏夹"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:26
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:89
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:30
 msgid "Advanced config:"
-msgstr ""
+msgstr "高级配置："
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:57
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:54
 msgid "Against"
-msgstr ""
+msgstr "反对的"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:39
 msgid "Alexios is standard token-voting adopted from Compound Governor Bravo, with adjustments accounting for RSR being staked across multiple RTokens."
-msgstr ""
+msgstr "Alexios是从Compound Governor Bravo采用的标准令牌投票，RTokens多个RTokens进行了RSR的调整核算。"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:126
 msgid "All time"
-msgstr ""
+msgstr "全部时间"
 
 #: src/views/tokens/Tokens.tsx:24
 msgid "All unlisted RTokens"
-msgstr ""
+msgstr "所有未列出的 RTokens"
 
 #: src/components/transactions/table/index.tsx:77
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:76
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:39
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:108
 msgid "Amount"
-msgstr ""
+msgstr "金额"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:92
 msgid "Annualized TVL Fee"
-msgstr ""
+msgstr "年度TVL费用"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:74
 msgid "Anyone can click the button above to check and trigger an auction for any revenue that has accrued or for rebalances that need to happen. Please note that for RTokens with many collateral types in the basket, this may be an expensive transaction to execute."
-msgstr ""
+msgstr "任何人都可以点击上面的按钮来检查和触发拍卖所产生的任何收入或需要重新平衡的情况。 请注意，对于在篮子中具有许多抵押类型的 RTokens ，这可能是一笔昂贵的交易来执行。"
 
 #: src/components/transaction-modal/ApprovalStatus.tsx:29
 msgid "Approve in wallet"
-msgstr ""
+msgstr "在钱包中批准"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:96
 msgid "As RSR"
-msgstr ""
+msgstr "作为RSR"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:89
 msgid "As RToken"
-msgstr ""
+msgstr "为 RToken"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:22
 msgid "Asset Registry"
-msgstr ""
+msgstr "资产注册表"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:59
 msgid "Auction Launcher"
-msgstr ""
+msgstr "拍卖启动器"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/AvailableRevenueAuctions.tsx:37
 msgid "Auctionable revenue"
-msgstr ""
+msgstr "可动用收入"
 
 #: src/components/layout/navigation/index.tsx:79
 #: src/components/layout/navigation/TokenNavigation.tsx:180
 #: src/views/index-dtf/components/navigation/index.tsx:130
 #: src/views/yield-dtf/auctions/auctions-sidebar/index.tsx:16
 msgid "Auctions"
-msgstr ""
+msgstr "拍卖方式"
 
 #: src/views/yield-dtf/issuance/components/balances/index.tsx:17
 msgid "Available collateral"
-msgstr ""
+msgstr "可用的抵押项"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:38
 msgid "Back to Governance"
-msgstr ""
+msgstr "回到治理"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:43
 msgid "Back to settings"
-msgstr ""
+msgstr "返回设置"
 
 #: src/views/yield-dtf/overview/components/backing/backing-overview.tsx:77
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:85
 msgid "Backing"
-msgstr ""
+msgstr "正在备份"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:162
 #: src/views/yield-dtf/overview/components/backing/index.tsx:85
 msgid "Backing & Risk"
-msgstr ""
+msgstr "包裹与风险"
 
 #: src/views/discover/components/yield/components/MobileCollateralInfo.tsx:28
 #: src/views/discover/components/yield/components/TokenStats.tsx:58
 msgid "Backing + Overcollaterization:"
-msgstr ""
+msgstr "打包 + 过度担保："
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:83
 msgid "Backing + Staked"
-msgstr ""
+msgstr "打包 + 被封禁"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:47
 msgid "Backing buffer"
-msgstr ""
+msgstr "备份缓冲"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:89
 msgid "Backing buffer - percentage value that describes how much additional collateral tokens to keep in the BackingManager before forwarding tokens to the RevenueTraders. The RevenueTraders here refers to the RToken and RSR traders. Why this matters? It allows collateral tokens to be periodically converted into the RToken, which is a more efficient form of revenue production than trading each individual collateral for the desired RToken. It also provides a buffer to prevent RSR seizure after trading slippage. For more info on the BackingManager and Trader types see the \"Revenue distribution to RToken holders\" and \"Summary of revenue distribution\" in our documentation."
-msgstr ""
+msgstr "BackingManager在将代币转发给RevenueTrader之前需要保留多少额外的抵押代币的百分比值。 此处的复核交易商是指RToken 和 RSR 交易商。 为什么这很重要？ 它允许定期将抵押代币转换成RToken。 它是一种比所需RToken的每个单独抵押品交易更有效的创收形式。 它还提供了一个缓冲区，以防止交易幻灯片后扣押RSR。 关于BackingManager 和交易类型的更多信息，请参阅我们文档中的“RToken 持有人收入分配”和“收入分配摘要”。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:87
 msgid "Backing buffer (%)"
-msgstr ""
+msgstr "正在打包缓冲区(%)"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:198
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:16
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:14
 msgid "Backing config"
-msgstr ""
+msgstr "打包配置"
 
 #: src/views/yield-dtf/deploy/components/BackingManager.tsx:14
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:23
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:17
 msgid "Backing Manager"
-msgstr ""
+msgstr "备份管理器"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:15
 msgid "Backing Parameters"
-msgstr ""
+msgstr "备份参数"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:115
 msgid "Backup basket"
-msgstr ""
+msgstr "备份篮子"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:79
 msgid "Backup configuration tracks primary basket changes to update its values. This may not be desired on a proposal, you can choose to propose new changes."
-msgstr ""
+msgstr "备份配置跟踪主要篮子更改以更新其值。在一个建议中可能不需要这么做，您可以选择提出新的更改。"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:22
 msgid "Backups"
-msgstr ""
+msgstr "备份"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:74
 msgid "Balance: "
-msgstr ""
+msgstr "余额： "
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:19
 #: src/views/yield-dtf/deploy/components/TokenParameters.tsx:123
 msgid "Basics"
-msgstr ""
+msgstr "基础知识"
 
 #: src/components/rtoken-setup/basket/UnitBasket.tsx:107
 #: src/views/yield-dtf/settings/components/basket-info.tsx:21
 msgid "Basket"
-msgstr ""
+msgstr "篮子"
 
 #: src/views/explorer/components/tokens/index.tsx:160
 msgid "Basket APY"
-msgstr ""
+msgstr "Basket APY"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:120
 msgid "Basket Governance"
-msgstr ""
+msgstr "篮子治理"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:18
 msgid "Basket Handler"
-msgstr ""
+msgstr "篮子处理器"
 
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:89
 msgid "Basket is not ready"
-msgstr ""
+msgstr "篮子尚未准备好"
 
 #: src/components/rtoken-setup/basket/UnitBasket.tsx:128
 msgid "Basket scale for this unit of account. This is used to initially calculate how much of each token is required for minting."
-msgstr ""
+msgstr "这个账户单位的篮子比例。它用于最初计算每个代币的多少是挖掘所需的。"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:19
 msgid "Basket warmup period"
-msgstr ""
+msgstr "篮子变暖周期"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:37
 msgid "Batch auction length"
-msgstr ""
+msgstr "批量拍卖长度"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:61
 msgid "Batch Auction length - defines how long Gnosis EasyAuction auctions should be. Gnosis EasyAuction is a platform enabling fair price discovery for tokens through the use of batch auctions."
-msgstr ""
+msgstr "批量拍卖长度 - 定义耐心拍卖的时间长度。 EasyAuction 是一个能够通过分批拍卖为代币进行公平价格发现的平台。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:59
 msgid "Batch Auction length (s)"
-msgstr ""
+msgstr "批量拍卖长度 (s)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:22
 msgid "Batch trade"
-msgstr ""
+msgstr "批量交易"
 
 #: src/views/tokens/Tokens.tsx:27
 msgid "Be aware that anyone can create an RToken that ends up on this list. We don't apply any standards beyond what can be done with the Reserve Protocol."
-msgstr ""
+msgstr "请注意，任何人都可以创建最终出现在这个列表上的RToken。 除了能够对《储备议定书》采取的措施外，我们不适用任何标准。"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:33
 msgid "Begin governance setup"
-msgstr ""
+msgstr "开始管理设置"
 
 #. placeholder {0}: formatCurrency(Number(amount))
 #. placeholder {1}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:96
 msgid "Begin minting {0} {1}"
-msgstr ""
+msgstr "开始挖掘 {0} {1}"
 
 #. placeholder {0}: formatCurrency(Number(amount))
 #. placeholder {1}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:99
 msgid "Begin redemption of {0} {1}"
-msgstr ""
+msgstr "开始赎回 {0} {1}"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:122
 msgid "Below minimum trade volume"
-msgstr ""
+msgstr "低于最低交易量"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:35
 msgid "Bought"
-msgstr ""
+msgstr "已购买"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:68
 msgid "Brand Manager"
-msgstr ""
+msgstr "品牌管理器"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:21
 msgid "Broker"
-msgstr ""
+msgstr "经纪人"
 
 #: src/views/discover/components/yield/components/CompareTokensTitle.tsx:34
 msgid "Browse RTokens"
-msgstr ""
+msgstr "浏览RTokens"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:35
 msgid "Buying"
-msgstr ""
+msgstr "正在购买"
 
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:39
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: src/components/transactions/table/index.tsx:52
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:32
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:80
 msgid "Cancel Issue"
-msgstr ""
+msgstr "取消问题"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-cancel-button.tsx:135
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalCancel.tsx:48
 msgid "Cancel proposal"
-msgstr ""
+msgstr "取消提案"
 
 #: src/views/yield-dtf/staking/components/withdraw/cooldown-unstake.tsx:70
 msgid "Cancel unstake"
-msgstr ""
+msgstr "取消密钥断开"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:77
 msgid "Cast Spell 1"
-msgstr ""
+msgstr "铸造拼写1"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:88
 msgid "Cast Spell 2"
-msgstr ""
+msgstr "铸造拼写2"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:32
 msgid "Casting 3.4.0 upgrade spell"
-msgstr ""
+msgstr "连铸3.4.0 升级拼写"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:113
 msgid "Chain"
-msgstr ""
+msgstr "链条"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:104
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:116
 msgid "Change"
-msgstr ""
+msgstr "更改"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:76
 msgid "Change backup basket"
-msgstr ""
+msgstr "更改备份篮子"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:113
 msgid "Change distribution"
-msgstr ""
+msgstr "更改分布"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:120
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:141
 msgid "Change diversity factor"
-msgstr ""
+msgstr "更改多样性因素"
 
 #: src/views/yield-dtf/governance/views/proposal/components/PreviewBox.tsx:36
 msgid "Change in:"
-msgstr ""
+msgstr "更改于："
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:46
 msgid "Change primary basket"
-msgstr ""
+msgstr "更改主收藏夹"
 
 #: src/views/yield-dtf/auctions/components/AuctionsHeader.tsx:43
 msgid "Check for auctions"
-msgstr ""
+msgstr "拍卖检查"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:51
 msgid "Choose between our Alexios Governor and anything between one-person rule to arbitrary DAO structure under your defined Ethereum address."
-msgstr ""
+msgstr "在我们的Alexios省长与您定义的Etherum地址下的任意DAO结构之间进行选择。"
 
 #: src/views/yield-dtf/issuance/components/redeem/RedeemNonceModal.tsx:41
 msgid "Choose Redemption Basket"
-msgstr ""
+msgstr "选择兑换篮子"
 
 #: src/components/transactions/table/index.tsx:51
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:31
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:79
 msgid "Claim"
-msgstr ""
+msgstr "Claim"
 
 #. placeholder {0}: formatCurrency(claimAmount)
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:78
 msgid "Claim ${0}"
-msgstr ""
+msgstr "Claim ${0}"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimAllRewardsButton.tsx:43
 msgid "Claim rewards across all traders"
-msgstr ""
+msgstr "所有交易者领取奖励"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/index.tsx:19
 msgid "Claimable emissions"
-msgstr ""
+msgstr "可索赔的排放"
 
 #: src/views/yield-dtf/issuance/components/issue/CollateralDistribution.tsx:37
 msgid "Collateral distribution"
-msgstr ""
+msgstr "次级分配"
 
 #: src/views/yield-dtf/overview/components/backing/collateral-exposure.tsx:216
 msgid "Collateral Exposure"
-msgstr ""
+msgstr "次级曝光"
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:116
 msgid "Collateral Plugins"
-msgstr ""
+msgstr "抵押插件"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:33
 msgid "Collateral token"
-msgstr ""
+msgstr "抵押令牌"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:141
 msgid "Collateral(s)"
-msgstr ""
+msgstr "担保品（s）"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:34
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:37
 msgid "Community Discord"
-msgstr ""
+msgstr "社区Discord"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:22
 msgid "Compare RTokens"
-msgstr ""
+msgstr "比较RTokens"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:57
 msgid "Configure your vote"
-msgstr ""
+msgstr "配置您的投票"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalOverview.tsx:39
 msgid "Confirm & prepare proposal"
-msgstr ""
+msgstr "确认并准备提案"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:121
 msgid "Confirm & Submit"
-msgstr ""
+msgstr "确认并提交"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalOverview.tsx:28
 msgid "Confirm changes made"
-msgstr ""
+msgstr "确认已做的更改"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:38
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:38
 msgid "Confirm delegate"
-msgstr ""
+msgstr "确认授权"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:149
 msgid "Confirming..."
-msgstr ""
+msgstr "确认..."
 
 #: src/components/account/index.tsx:95
 msgid "Connect"
-msgstr ""
+msgstr "连接"
 
 #: src/components/ui/transaction-button.tsx:57
 #: src/components/ui/transaction.tsx:44
 msgid "Connect Wallet"
-msgstr ""
+msgstr "连接钱包"
 
 #: src/views/yield-dtf/staking/components/stake/delegate-stake.tsx:45
 msgid "Connect your wallet"
-msgstr ""
+msgstr "连接你的钱包"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:201
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:17
 msgid "Contract Addresses"
-msgstr ""
+msgstr "合同地址"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgradesPreview.tsx:34
 msgid "Contract upgrades"
-msgstr ""
+msgstr "合同升级"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalDetailNavigation.tsx:6
 msgid "Contracts"
-msgstr ""
+msgstr "合同"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:111
 msgid "Controls changes to the basket of an Index DTF"
-msgstr ""
+msgstr "控制指数篮子的变化"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:113
 msgid "Controls fees, voting parameters, and anything other than basket changes for an Index DTF"
-msgstr ""
+msgstr "控制费用、投票参数和除篮子变化之外的任何其它索引 DTF"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:114
 msgid "Controls settings of the vlDAO including vote lock duration and approving revenue tokens"
-msgstr ""
+msgstr "控制 vlDAO 的设置，包括投票锁定时间和批准收入令牌"
 
 #: src/components/ui/copy-value.tsx:56
 #: src/components/ui/copy.tsx:20
 msgid "Copied to clipboard!"
-msgstr ""
+msgstr "已复制到剪贴板！"
 
 #: src/components/ui/copy-value.tsx:55
 #: src/components/ui/copy.tsx:19
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "复制到剪贴板"
 
 #: src/components/layout/header/components/app-navigation.tsx:114
 msgid "Create a new overcollateralized Yield DTF"
-msgstr ""
+msgstr "创建一个新的超后的 Yield DTF"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:17
 msgid "Create a new Yield DTF"
-msgstr ""
+msgstr "创建新的 Yield DTF"
 
 #: src/components/layout/header/components/app-navigation.tsx:81
 msgid "Create New DTF"
-msgstr ""
+msgstr "创建新的 DTF"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:191
 msgid "Create proposal"
-msgstr ""
+msgstr "创建提案"
 
 #: src/views/explorer/components/governance/index.tsx:70
 msgid "Created At"
-msgstr ""
+msgstr "创建于"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:107
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:136
@@ -631,383 +631,383 @@ msgstr ""
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:77
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:87
 msgid "Current"
-msgstr ""
+msgstr "当前的"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:109
 msgid "Current holder"
-msgstr ""
+msgstr "当前持有者"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:99
 msgid "Current status:"
-msgstr ""
+msgstr "当前状态："
 
 #: src/components/rtoken-setup/token/TokenConfiguration.tsx:42
 msgid "Customize"
-msgstr ""
+msgstr "自定义"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:123
 msgid "DAO Governance"
-msgstr ""
+msgstr "DAO 治理"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:50
 msgid "Decimals"
-msgstr ""
+msgstr "小数"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:56
 msgid "Default delay"
-msgstr ""
+msgstr "默认延迟"
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:44
 msgid "DeFi protocols oftentimes have incentives for liquidity that are paid in their token or a combination of tokens. By providing liquidity for trading or lending or other activities on these protocols, you can earn rewards that are sometimes quite high! Note that there are always risks (smart contract risks, impermanent loss risks, etc), in providing liquidity on these protocols so please make sure you understand things before blindly diving in."
-msgstr ""
+msgstr "Defi 协议常常具有以其代币或组合代币支付的流动性奖励。 通过为这些协议的交易或借贷或其他活动提供流动资金，您可以获得有时相当高的奖励！ 注意总是存在风险(聪明的合同风险、非永久性的损失风险等)， 在为这些协议提供流动资金时，请确保您在盲目的潜入之前了解情况。"
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:20
 msgid "DeFi yield opportunities for DTFs in Aerodrome, Convex, Beefy, Yearn & Others"
-msgstr ""
+msgstr "Aerodrome、 Convex、 Beefify、 Yearn 和其他人DFi 减产机会"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:169
 msgid "Define what portion of the revenue goes to the RToken holders versus RSR stakers. It can also be configured to send a portion of the revenue of an RToken to any arbitrary Ethereum address (wallet or smart contract).<0/><1/>"
-msgstr ""
+msgstr "定义RToken持有人相对于RSR stakers的收入部分。 它也可以配置为 RToken 的一部分收入到任意的 Etherum 地址 (钱包或智能合约)。<0/><1/>"
 
 #. placeholder {0}: timebased ? 'hours' : 'blocks'
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:73
 msgid "Delay (in number of {0}) since the proposal starts until voting ends."
-msgstr ""
+msgstr "自建议开始到投票结束后延迟(数量为 {0})。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:32
 msgid "Delay in seconds"
-msgstr ""
+msgstr "延迟秒数"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:64
 msgid "Delay in Seconds"
-msgstr ""
+msgstr "延迟秒数"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:71
 msgid "Delegate"
-msgstr ""
+msgstr "代表"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:42
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:42
 msgid "Delegate to"
-msgstr ""
+msgstr "委派到"
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:35
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:35
 msgid "Delegate votes"
-msgstr ""
+msgstr "委派投票"
 
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:23
 msgid "Delegate voting power"
-msgstr ""
+msgstr "授权投票权"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-vote-button.tsx:19
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVote.tsx:151
 msgid "Delegate voting power for future votes"
-msgstr ""
+msgstr "授权未来投票权"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:87
 msgid "Delegated to self"
-msgstr ""
+msgstr "委托给自己"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:90
 msgid "Delegated to: "
-msgstr ""
+msgstr "委派给： "
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:97
 msgid "Deploy Governance"
-msgstr ""
+msgstr "部署治理"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:144
 msgid "Deploy RToken"
-msgstr ""
+msgstr "部署 RToken"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:43
 msgid "Deploy transaction submitted"
-msgstr ""
+msgstr "部署事务已提交"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:36
 msgid "Deploy your own RToken"
-msgstr ""
+msgstr "部署您自己的 RToken"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:38
 msgid "Deployer"
-msgstr ""
+msgstr "部署器"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:37
 msgid "Deployer Share"
-msgstr ""
+msgstr "部署者分享"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:20
 msgid "Deploying through this UI doesn't require deep technical knowledge as long as you don't need novel collateral plugins for your baskets. However, we encourage you to talk to someone proficient in the protocol and read the docs to learn more before confirming any transactions."
-msgstr ""
+msgstr "只要您不需要篮子中新的附带插件，通过此界面部署不需要深入的技术知识。 然而，我们鼓励您与精通协议的人交谈，阅读文档以了解更多信息，然后确认任何交易。"
 
 #: src/components/transactions/table/index.tsx:56
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:36
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:84
 msgid "Deposit"
-msgstr ""
+msgstr "存款"
 
 #: src/views/explorer/components/governance/index.tsx:49
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:68
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: src/components/layout/navigation/index.tsx:83
 #: src/components/layout/navigation/TokenNavigation.tsx:190
 #: src/views/index-dtf/components/navigation/index.tsx:135
 msgid "Details + Roles"
-msgstr ""
+msgstr "详细信息 + 角色"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:71
 msgid "Discard"
-msgstr ""
+msgstr "放弃..."
 
 #: src/components/layout/header/components/app-navigation.tsx:57
 msgid "Discover DTFs"
-msgstr ""
+msgstr "发现 DTF"
 
 #: src/components/layout/header/components/app-navigation.tsx:140
 msgid "Discussions of ecosystem ideas"
-msgstr ""
+msgstr "关于生态系统设想的讨论"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:112
 #: src/components/rtoken-setup/components/RolesEdit.tsx:51
 msgid "Dismiss"
-msgstr ""
+msgstr "关闭"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/wrapping/DisplayMode.tsx:19
 msgid "Display only {0} related collaterals"
-msgstr ""
+msgstr "仅显示 {0} 相关的抵押项"
 
 #: src/views/index-dtf/settings/components/distribute-fees.tsx:47
 msgid "Distribute Fees"
-msgstr ""
+msgstr "散布费用"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:147
 msgid "Distributed revenue does not add up to 100%"
-msgstr ""
+msgstr "分配的收入不会增加到100%"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:25
 msgid "Distributor"
-msgstr ""
+msgstr "发行商"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:26
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:128
 msgid "Diversity factor"
-msgstr ""
+msgstr "多样性因素"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:30
 msgid "Diversity Factor"
-msgstr ""
+msgstr "多样性因子"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:205
 msgid "Documentation"
-msgstr ""
+msgstr "文件"
 
 #: src/components/layout/header/components/app-navigation.tsx:88
 msgid "DTF Explorer"
-msgstr ""
+msgstr "DTF 浏览器"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:56
 msgid "DTFs live on blockchain networks including Ethereum, Base, Binance Smart Chain, enabling worldwide transactions within seconds. Each DTF is 100% backed by other assets on the same blockchain. Users can redeem their DTF tokens for the underlying backing assets at any time without anyone else’s involvement."
-msgstr ""
+msgstr "DTFs 生活在区块链网络上，包括Etherum, Base, Binance Smart Chain, 以便能够在几秒钟内进行全球交易。 每个DTF 100%由同一个区块链上的其他资产支持。 用户可以在没有任何其他人参与的情况下随时为基础背后的背后资产兑换DTF代币。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:23
 #: src/components/rtoken-setup/token/OtherForm.tsx:37
 msgid "Duration in seconds"
-msgstr ""
+msgstr "持续时间（秒）"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:60
 #: src/components/rtoken-setup/token/BackingForm.tsx:74
 msgid "Duration in Seconds"
-msgstr ""
+msgstr "持续时间（秒）"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:42
 msgid "Dutch auction length"
-msgstr ""
+msgstr "荷兰拍卖长度"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:73
 msgid "Dutch Auction length (s)"
-msgstr ""
+msgstr "荷兰拍卖长度 (s)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:33
 msgid "Dutch trade"
-msgstr ""
+msgstr "荷兰贸易"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:39
 msgid "Each target unit of your primary basket will have defined emergency collateral to replace with in case of default."
-msgstr ""
+msgstr "您的主要篮子中的每个目标单位将有定义的紧急抵押品，在发生默认情况下替换。"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:48
 msgid "Each type of trade can currently happen in only one way; the protocol launches a Gnosis EasyAuction. The Reserve Protocol is designed to make it easy to add other trading methods, but no other methods are currently supported."
-msgstr ""
+msgstr "每一种贸易目前只能以一种方式进行；协议启动了一种EasyAuction预报。 储备协议旨在方便添加其他交易方法，但目前不支持其他方法。"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:163
 msgid "Earn"
-msgstr ""
+msgstr "收入"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:117
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:196
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:21
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:21
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:12
 msgid "Emergency basket"
-msgstr ""
+msgstr "紧急篮子"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:16
 msgid "Emergency Collateral"
-msgstr ""
+msgstr "紧急担保"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:36
 msgid "Empty backup basket"
-msgstr ""
+msgstr "清空备份篮子"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:54
 msgid "Empty Basket"
-msgstr ""
+msgstr "清空篮子"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:52
 msgid "Ended at"
-msgstr ""
+msgstr "结束于"
 
 #: src/views/yield-dtf/auctions/batch/components/FinalizedAuctions.tsx:19
 #: src/views/yield-dtf/auctions/dutch/components/EndedDutchAuctions.tsx:19
 msgid "Ended auctions"
-msgstr ""
+msgstr "已结束的拍卖活动"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:52
 msgid "Ends at"
-msgstr ""
+msgstr "结束于"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:44
 msgid "Ensure that the asset(s) you are unregistering do not have pending revenue that can be"
-msgstr ""
+msgstr "请确保您未注册的资产不会有待处理的收入"
 
 #: src/views/discover/components/yield/components/TokenActions.tsx:67
 msgid "Est. APY"
-msgstr ""
+msgstr "Est. APY"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:105
 msgid "Est. APY:"
-msgstr ""
+msgstr "Est. APY:"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:61
 msgid "Est. Staking APY"
-msgstr ""
+msgstr "Est. Staking APY"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:168
 msgid "Estimated basket APY"
-msgstr ""
+msgstr "估计篮子"
 
 #: src/views/yield-dtf/staking/components/gas-estimate.tsx:18
 msgid "Estimated gas cost"
-msgstr ""
+msgstr "估计气体成本"
 
 #: src/components/transaction-modal/EstimatedGasInfo.tsx:14
 #: src/components/ui/transaction-button.tsx:39
 msgid "Estimated gas cost:"
-msgstr ""
+msgstr "估计气体成本："
 
 #: src/views/index-dtf/governance/components/delegate-modal.tsx:49
 #: src/views/yield-dtf/governance/components/DelegateModal.tsx:49
 msgid "ETH address"
-msgstr ""
+msgstr "ETH 地址"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:48
 msgid "Executable code"
-msgstr ""
+msgstr "可执行代码"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-execute-button.tsx:40
 #: src/views/index-dtf/governance/views/proposal/components/proposal-execute-button.tsx:64
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalExecute.tsx:30
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalExecute.tsx:42
 msgid "Execute proposal"
-msgstr ""
+msgstr "执行提案"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:86
 #: src/views/yield-dtf/settings/components/governance-info.tsx:50
 msgid "Execution Delay"
-msgstr ""
+msgstr "执行延迟"
 
 #: src/components/rtoken-setup/components/BackButton.tsx:28
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:45
 msgid "Exit Deployer"
-msgstr ""
+msgstr "退出部署"
 
 #: src/views/discover/components/yield/discover-yield-dtf.tsx:20
 msgid "Explore"
-msgstr ""
+msgstr "浏览"
 
 #. placeholder {0}: rToken?.symbol ?? ''
 #: src/views/yield-dtf/overview/components/rtoken-earn.tsx:39
 msgid "Explore yield opportunities for {0}"
-msgstr ""
+msgstr "探索 {0}的产量机会"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:88
 msgid "Extra collateral to keep"
-msgstr ""
+msgstr "要保留的额外抵押项"
 
 #: src/views/explorer/components/tokens/index.tsx:190
 msgid "Featured RTokens"
-msgstr ""
+msgstr "精选RTokens"
 
 #: src/components/layout/header/components/app-navigation.tsx:120
 msgid "Feedback"
-msgstr ""
+msgstr "反馈"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:86
 msgid "Fees & Revenue Distribution"
-msgstr ""
+msgstr "收费和收入分配"
 
 #: src/components/layout/header/components/app-navigation.tsx:122
 msgid "File issues or upvote existing ones"
-msgstr ""
+msgstr "文件问题或投票已有问题"
 
 #: src/views/yield-dtf/auctions/dutch/components/AuctionTimeIndicators.tsx:32
 msgid "Final price in:"
-msgstr ""
+msgstr "最终价格："
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:32
 msgid "Fixed Platform Share"
-msgstr ""
+msgstr "固定平台共享"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:56
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:53
 msgid "For"
-msgstr ""
+msgstr "为"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:98
 msgid "Freeze State"
-msgstr ""
+msgstr "冻结状态"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:108
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:151
 msgid "From"
-msgstr ""
+msgstr "来自"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:100
 msgid "Frozen"
-msgstr ""
+msgstr "Frozen"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:70
 msgid "Full exposure view"
-msgstr ""
+msgstr "完整曝光视图"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:24
 msgid "Furnace"
-msgstr ""
+msgstr "转炉类"
 
 #: src/components/layout/header/components/app-navigation.tsx:94
 msgid "Get an overview of everything going on"
-msgstr ""
+msgstr "获取正在进行的一切活动的概述"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:50
 msgid "Go to the RToken Deployer"
-msgstr ""
+msgstr "转到RToken 部署器"
 
 #: src/components/layout/navigation/index.tsx:80
 #: src/components/layout/navigation/TokenNavigation.tsx:185
@@ -1018,174 +1018,174 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:18
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:16
 msgid "Governance"
-msgstr ""
+msgstr "治理"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:29
 msgid "Governance Details"
-msgstr ""
+msgstr "治理细节"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:162
 msgid "Governance format"
-msgstr ""
+msgstr "A. 治理格式"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:192
 msgid "Governance forum"
-msgstr ""
+msgstr "治理论坛"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:65
 msgid "Governance gets deployed & your RToken is now usable (if unpaused)"
-msgstr ""
+msgstr "管理已部署，您的 RToken 现在可用(如果未暂停)"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:51
 msgid "Governance parameters"
-msgstr ""
+msgstr "治理参数"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRolesPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/RolesProposal.tsx:42
 msgid "Governance roles"
-msgstr ""
+msgstr "治理作用"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:43
 msgid "Governance Share"
-msgstr ""
+msgstr "施政分享"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:70
 msgid "Governor address"
-msgstr ""
+msgstr "调节地址"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:46
 msgid "Governor Address"
-msgstr ""
+msgstr "管理员地址"
 
 #: src/views/yield-dtf/overview/components/hero/token-mandate.tsx:41
 msgid "Governor mandate"
-msgstr ""
+msgstr "总督的任务"
 
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:50
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:180
 msgid "Guardian"
-msgstr ""
+msgstr "守卫者"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:96
 msgid "Guardian address"
-msgstr ""
+msgstr "守卫者地址"
 
 #: src/components/transactions/table/index.tsx:91
 msgid "Hash"
-msgstr ""
+msgstr "哈希"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:164
 #: src/views/yield-dtf/overview/components/historical-metrics.tsx:13
 msgid "Historical metrics"
-msgstr ""
+msgstr "历史指标"
 
 #: src/views/explorer/components/tokens/index.tsx:164
 msgid "Holders APY"
-msgstr ""
+msgstr "持有者 APY"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:122
 msgid "If a DTF is listed on this app, it doesn't mean that ABC Labs endorses the safety or risk levels of the DTF or that ABC Labs was involved in the creation of or is in anyway responsible for the DTF."
-msgstr ""
+msgstr "如果在此应用上列出了DTF, 这并不意味着ABC实验室认可DTF的安全或风险水平，或者说ABC实验室参与了DTF的创建，或者在任何情况下都对DTF负责。"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:44
 msgid "If your token is paused and you have the correct role, you can unpause it here."
-msgstr ""
+msgstr "如果您的令牌已暂停且您有正确的角色，您可以在这里取消暂停。"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:49
 msgid "Immediate"
-msgstr ""
+msgstr "即时的"
 
 #: src/views/yield-dtf/staking/components/withdraw/index.tsx:16
 msgid "In Withdraw Process"
-msgstr ""
+msgstr "在提取过程中"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:25
 msgid "Including off-chain in-app transactions of RToken in the Reserve App."
-msgstr ""
+msgstr "包括RToken在后备应用中的非链内交易。"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:121
 msgid "Initial RToken state after deployment"
-msgstr ""
+msgstr "部署后初始RToken状态"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:55
 msgid "Input delay"
-msgstr ""
+msgstr "输入延迟"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:87
 msgid "Input delay in hours"
-msgstr ""
+msgstr "按小时输入延迟"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:104
 msgid "Input plugin address (not ERC-20 address)"
-msgstr ""
+msgstr "输入插件地址 (不是 ERC-20 地址)"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:101
 msgid "Input proposal threshold"
-msgstr ""
+msgstr "输入提案阈值"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:54
 msgid "Input proposal title"
-msgstr ""
+msgstr "输入提案标题"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:114
 msgid "Input quorum percent"
-msgstr ""
+msgstr "输入法定人数百分比"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:62
 msgid "Input RFC link"
-msgstr ""
+msgstr "Input RFC link"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:127
 msgid "Input RSR stakers revenue distribution"
-msgstr ""
+msgstr "输入RSR stakers 收入分配"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:97
 msgid "Input the guardian ethereum address"
-msgstr ""
+msgstr "请输入监护人的电子信箱地址"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:77
 msgid "Input the owner ethereum address"
-msgstr ""
+msgstr "输入所有者的电子信箱地址"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:29
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:31
 msgid "Input ticker"
-msgstr ""
+msgstr "输入貼圖"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:118
 msgid "Input token holders revenue distribution"
-msgstr ""
+msgstr "输入令牌持有者收入分配"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:20
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:21
 msgid "Input token name"
-msgstr ""
+msgstr "Input token name"
 
 #: src/views/tokens/components/TableFilters.tsx:25
 msgid "Input token name or symbol"
-msgstr ""
+msgstr "输入令牌名称或符号"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:71
 msgid "Input voting period"
-msgstr ""
+msgstr "输入投票期"
 
 #: src/views/explorer/components/transactions/Filters.tsx:22
 msgid "Input wallet"
-msgstr ""
+msgstr "Input wallet"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:51
 msgid "Input withdrawal leak %"
-msgstr ""
+msgstr "输入提款泄出 %"
 
 #: src/views/discover/components/yield/components/CompareTokensTitle.tsx:37
 msgid "Inspect collateral backing, mint, stake, redeem & explore additional earn opportunities across DeFi"
-msgstr ""
+msgstr "在整个Defi 中检查附属背包、心灵、兴趣、赎回和探索额外的赚取机会"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:161
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:18
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:15
 msgid "Intro"
-msgstr ""
+msgstr "简介"
 
 #: src/components/rtoken-setup/atoms.ts:137
 msgid "Invalid ({targetUnit}) backup diversity factor"
@@ -1203,188 +1203,188 @@ msgstr ""
 #: src/components/rtoken-setup/components/RolesEdit.tsx:38
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:51
 msgid "Invalid address"
-msgstr ""
+msgstr "无效地址"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:34
 msgid "Invalid asset"
-msgstr ""
+msgstr "Invalid asset"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:81
 msgid "Invalid collateral"
-msgstr ""
+msgstr "无效的抵押项"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:149
 msgid "Invalid destination address"
-msgstr ""
+msgstr "无效的目标地址"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:90
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:106
 msgid "Invalid ethereum address"
-msgstr ""
+msgstr "无效的etherum地址"
 
 #: src/components/field/index.tsx:37
 msgid "Invalid maximum range"
-msgstr ""
+msgstr "无效的最大范围"
 
 #: src/components/field/index.tsx:39
 msgid "Invalid minimum range "
-msgstr ""
+msgstr "无效的最小范围 "
 
 #: src/components/field/index.tsx:35
 msgid "Invalid number"
-msgstr ""
+msgstr "无效的号码"
 
 #: src/components/field/index.tsx:41
 msgid "Invalid value"
-msgstr ""
+msgstr "无效的值"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:128
 msgid "Issuance amount - allows the issuer to limit the amount of RTokens issued per hour. This matters in the event of an exploit where an attacker tries to issue more RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be issued."
-msgstr ""
+msgstr "发行金额 - 允许发行商限制每小时发行RTokens的数量。 当攻击者试图发行更多RToken时，这个问题很重要。 这将为有暂停或冻结权限的用户购买时间，以减少可以发行的 RTokens 数量。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:115
 msgid "Issuance rate - allows the issuer to limit the amount of RTokens issued per hour based on a percentage of the current RToken market cap. This matters in the event of an exploit where an attacker tries to issue more RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be issued."
-msgstr ""
+msgstr "发行率 - 允许发行商根据当前RToken市场上限的百分比限制每小时发行RTokens的金额。 当攻击者试图发行更多RToken时，这个问题很重要。 这将为有暂停或冻结权限的用户购买时间，以减少可以发行的 RTokens 数量。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:126
 #: src/components/rtoken-setup/token/BackingForm.tsx:127
 #: src/views/yield-dtf/settings/components/backing-info.tsx:61
 msgid "Issuance throttle amount"
-msgstr ""
+msgstr "发行温度金额"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:55
 msgid "Issuance throttle rate"
-msgstr ""
+msgstr "发行温度率"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:114
 msgid "Issuance throttle Rate"
-msgstr ""
+msgstr "发行温度率"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:113
 msgid "Issuance throttle rate (%)"
-msgstr ""
+msgstr "发行节流速率(%)"
 
 #: src/components/transactions/table/index.tsx:49
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:29
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:77
 msgid "Issue"
-msgstr ""
+msgstr "问题"
 
 #: src/components/layout/header/components/app-navigation.tsx:146
 msgid "Join the conversation or ask questions"
-msgstr ""
+msgstr "加入对话或提出问题"
 
 #: src/views/yield-dtf/settings/components/setting-item.tsx:60
 msgid "Loading..."
-msgstr ""
+msgstr "加载中..."
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:67
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:71
 msgid "Long Freeze"
-msgstr ""
+msgstr "长冻机"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:18
 msgid "Long freeze duration"
-msgstr ""
+msgstr "长冻结持续时间"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:38
 msgid "Long freeze duration - freeze an RToken's system for a longer period of time. A long-freezer has 6 charges before losing the ability to freeze any more"
-msgstr ""
+msgstr "长期冻结——将RToken的系统冻结更长时间。 长冻机在失去冻结能力之前有6个罪名："
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:36
 msgid "Long freeze duration (s)"
-msgstr ""
+msgstr "长冻结期限"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:132
 msgid "Made your own collateral?"
-msgstr ""
+msgstr "您自己的担保品吗？"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:16
 msgid "Main"
-msgstr ""
+msgstr "主要的"
 
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:23
 msgid "Make proposed changes to the backing basket, emergency collateral, governance params, etc. Changes in multiple areas can be batched into a single proposal although to make voting on issues simpler it may make sense to separate things if unrelated."
-msgstr ""
+msgstr "对后备篮子、紧急担保、治理条款等提出修改建议。 对多个领域的改动可以分成一个单一的提案，尽管为了使对问题的表决变得更加简单，如果不相关的话，将事情分开也许是有意义的。"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:37
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:32
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:49
 #: src/views/yield-dtf/settings/components/basic-info.tsx:20
 msgid "Mandate"
-msgstr ""
+msgstr "Mandate"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:45
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:58
 msgid "Mandate cannot be longer than 256 characters"
-msgstr ""
+msgstr "任务不能超过 256 个字符"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:42
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:55
 msgid "Mandate is required"
-msgstr ""
+msgstr "任务是必需的"
 
 #: src/views/discover/components/yield/components/TokenStats.tsx:26
 msgid "Market cap:"
-msgstr ""
+msgstr "市场上限："
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:51
 msgid "Max trade slippage"
-msgstr ""
+msgstr "最大交易滑块"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:102
 msgid "Max trade slippage — maximum deviation from oracle prices that any trade can clear at. Why this matters? Acts as a form of slippage protection."
-msgstr ""
+msgstr "最大贸易滑块 — 最大偏离任何贸易都能清除的果园价格。为什么这很重要？作为一种滑块保护形式。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:100
 msgid "Max trade slippage (%)"
-msgstr ""
+msgstr "最大交易幻灯片(%)"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:104
 msgid "Maximum trade for RToken"
-msgstr ""
+msgstr "RToken 最大交易量"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:105
 msgid "Maximum trade volume - maximum sized trade for any trade involving RToken, in terms of the unit of account eg. USD."
-msgstr ""
+msgstr "最大交易量――任何涉及RToken的贸易的最大规模交易，计算单位为美元等。"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:24
 msgid "Mechanics"
-msgstr ""
+msgstr "机械师"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:46
 msgid "Meditate peacefully on the stability of a future asset backed reserve currency while your RToken deploys 🧘‍♂️"
-msgstr ""
+msgstr "在您的 RToken 部署:man_in_lotus_position时，和平地获得未来资产支持的储备货币的稳定性："
 
 #: src/components/transactions/table/index.tsx:48
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:28
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:76
 msgid "Melt"
-msgstr ""
+msgstr "熔化"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/MeltingBox.tsx:39
 msgid "Melting"
-msgstr ""
+msgstr "熔化"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:91
 msgid "Minimum trade in USD terms"
-msgstr ""
+msgstr "美元最低交易额"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:117
 msgid "Minimum trade size"
-msgstr ""
+msgstr "最小交易量"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:30
 msgid "Minimum trade volume"
-msgstr ""
+msgstr "最低交易量"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:92
 msgid "Minimum trade volume - minimum sized trade that can be performed, in terms of the unit of account eg. USD."
-msgstr ""
+msgstr "最低贸易量――可进行的最低规模交易，按记账单位计算，例如美元。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:90
 msgid "Minimum trade volume ($)"
-msgstr ""
+msgstr "最低交易量 ($)"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:170
 #: src/components/transactions/table/index.tsx:45
@@ -1392,61 +1392,61 @@ msgstr ""
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:96
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:73
 msgid "Mint"
-msgstr ""
+msgstr "分钟数"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:144
 msgid "Mint - Global throttle"
-msgstr ""
+msgstr "Mint - 全局流管"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/issue/ConfirmIssuance.tsx:101
 msgid "Mint {0}"
-msgstr ""
+msgstr "Mint {0}"
 
 #: src/components/layout/navigation/index.tsx:77
 #: src/views/index-dtf/components/navigation/index.tsx:120
 msgid "Mint + Redeem"
-msgstr ""
+msgstr "Mint + 兑换机"
 
 #: src/views/yield-dtf/issuance/components/issue/IssueInput.tsx:16
 msgid "Mint amount"
-msgstr ""
+msgstr "最小金额"
 
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:112
 msgid "Mint disabled"
-msgstr ""
+msgstr "Mint 已禁用"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:145
 msgid "Mintable now"
-msgstr ""
+msgstr "现在轻松的"
 
 #: src/views/index-dtf/settings/components/index-settings-fees.tsx:103
 msgid "Minting Fee"
-msgstr ""
+msgstr "挖掘费用"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:16
 msgid "Minting requires a deposit of the defined collateral tokens in equal value amounts to the RToken smart contracts."
-msgstr ""
+msgstr "Mining 需要 RToken 智能合约等值的定义抵押代币存款。"
 
 #: src/views/yield-dtf/issuance/components/issue/Issue.tsx:114
 msgid "Missing collateral"
-msgstr ""
+msgstr "缺少抵押项"
 
 #: src/components/tables/ListedTokensTable.tsx:41
 #: src/views/explorer/components/tokens/index.tsx:152
 #: src/views/tokens/components/UnlistedTokensTable.tsx:84
 msgid "Mkt Cap"
-msgstr ""
+msgstr "Mkt Cap"
 
 #: src/utils/index.ts:129
 msgid "mth"
-msgstr ""
+msgstr "毫秒"
 
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:15
 #: src/views/yield-dtf/settings/components/basic-info.tsx:15
 #: src/views/yield-dtf/settings/components/governance-info.tsx:30
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: src/components/account/index.tsx:38
 #: src/components/tables/ListedTokensTable.tsx:59
@@ -1454,247 +1454,247 @@ msgstr ""
 #: src/views/tokens/components/TableFilters.tsx:41
 #: src/views/tokens/components/UnlistedTokensTable.tsx:109
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: src/views/explorer/components/filters/ChainFilter.tsx:22
 msgid "Networks"
-msgstr ""
+msgstr "网络"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBackupPreview.tsx:90
 msgid "New backup configuration"
-msgstr ""
+msgstr "新建备份配置"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:39
 msgid "New primary basket"
-msgstr ""
+msgstr "新建主收藏夹"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:28
 msgid "Next steps"
-msgstr ""
+msgstr "今后的步骤"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/Revenue.tsx:37
 msgid "No actionable revenue available"
-msgstr ""
+msgstr "没有可用的可用收入"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterEdit.tsx:34
 msgid "No assets to unregister..."
-msgstr ""
+msgstr "没有要取消注册的资产..."
 
 #: src/components/charts/area/AreaChart.tsx:132
 msgid "No data"
-msgstr ""
+msgstr "无数据"
 
 #: src/components/rtoken-setup/basket/BackupBasket.tsx:85
 msgid "No emergency collateral for target"
-msgstr ""
+msgstr "目标没有紧急抵押项"
 
 #: src/views/yield-dtf/settings/components/emergency-collateral-info.tsx:57
 msgid "No emergency collateral for this target unit"
-msgstr ""
+msgstr "这个目标单位没有紧急抵押项"
 
 #: src/views/yield-dtf/auctions/components/EndedAuctionsSkeleton.tsx:7
 msgid "No ended auctions"
-msgstr ""
+msgstr "没有结束的拍卖活动"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:95
 msgid "No holders for this role..."
-msgstr ""
+msgstr "没有此角色的拥有者..."
 
 #: src/components/rtoken-setup/basket/CollateralModal.tsx:150
 msgid "No plugins available"
-msgstr ""
+msgstr "没有可用的插件"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:199
 msgid "No proposals created..."
-msgstr ""
+msgstr "没有创建提案..."
 
 #: src/components/transactions/table/index.tsx:152
 msgid "No transactions"
-msgstr ""
+msgstr "无交易"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:148
 msgid "No voters at this moment..."
-msgstr ""
+msgstr "目前还没有选民..."
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-detail-votes.tsx:49
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:135
 msgid "No votes"
-msgstr ""
+msgstr "没有投票"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:122
 msgid "Non-Basket Governance"
-msgstr ""
+msgstr "非篮子治理"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgrade.tsx:66
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:22
 msgid "Not available"
-msgstr ""
+msgstr "不可用"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:100
 msgid "Not frozen"
-msgstr ""
+msgstr "未冻结的"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:127
 msgid "Not ready to set up governance?"
-msgstr ""
+msgstr "不准备好建立管理？"
 
 #: src/views/yield-dtf/auctions/batch/components/OngoingAuctions.tsx:19
 msgid "Ongoing auctions"
-msgstr ""
+msgstr "正在进行的拍卖活动"
 
 #: src/views/yield-dtf/auctions/dutch/components/OngoingDutchAuctions.tsx:13
 msgid "Ongoing dutch auctions"
-msgstr ""
+msgstr "正在进行的双轨拍卖活动"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:146
 msgid "Only the guardian address or governance will be able to unpause"
-msgstr ""
+msgstr "只有监护人地址或管理才能够取消暂停"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:24
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:199
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:17
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:15
 msgid "Other config"
-msgstr ""
+msgstr "其他配置"
 
 #: src/views/yield-dtf/deploy/components/OtherSetup.tsx:13
 msgid "Other parameters"
-msgstr ""
+msgstr "其他参数"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:11
 msgid "Other Parameters"
-msgstr ""
+msgstr "其他参数"
 
 #: src/views/yield-dtf/overview/components/backing/risks.tsx:109
 msgid "Other Risks"
-msgstr ""
+msgstr "其他风险"
 
 #: src/components/layout/navigation/index.tsx:76
 #: src/components/layout/navigation/TokenNavigation.tsx:158
 #: src/views/index-dtf/components/navigation/index.tsx:115
 msgid "Overview"
-msgstr ""
+msgstr "概览"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:174
 msgid "Owner"
-msgstr ""
+msgstr "所有者"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:76
 msgid "Owner address"
-msgstr ""
+msgstr "所有者地址"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:32
 msgid "Owner Address"
-msgstr ""
+msgstr "所有者地址"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:113
 msgid "Parameters"
-msgstr ""
+msgstr "参数"
 
 #: src/components/layout/header/components/app-navigation.tsx:76
 msgid "Participate & Earn"
-msgstr ""
+msgstr "参与和收入"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:127
 msgid "Pause status"
-msgstr ""
+msgstr "暂停状态"
 
 #: src/views/discover/components/yield/components/TokenStats.tsx:46
 msgid "Peg:"
-msgstr ""
+msgstr "宠物："
 
 #: src/views/yield-dtf/auctions/dutch/components/PendingToSettleAuctions.tsx:24
 msgid "Pending auctions to settle"
-msgstr ""
+msgstr "待结算拍卖项目"
 
 #: src/components/transaction-modal/index.tsx:154
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:25
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:25
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:57
 msgid "Pending, sign in wallet"
-msgstr ""
+msgstr "Pending，登录钱包"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:46
 msgid "Period in seconds"
-msgstr ""
+msgstr "周期（秒）"
 
 #: src/components/transactions/table/index.tsx:91
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:131
 msgid "Platform"
-msgstr ""
+msgstr "平台"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:178
 msgid "Platform exposure"
-msgstr ""
+msgstr "平台曝光"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:50
 msgid "Please carefully evaluate the RToken before choosing to stake your RSR here. If any of the various collaterals of this RToken default, then the staked RSR will be the first funds that get auctioned off to make up the difference for RToken holders."
-msgstr ""
+msgstr "请在选择您的 RToken 之前仔细评估您的RToken 如果此 RToken 的任何抵押品默认， 然后有名的RSR将成为首批被拍卖的资金，以弥补RToken持有人的差额。"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:24
 msgid "Please complete the required governance configuration to complete deployment."
-msgstr ""
+msgstr "请完成所需的治理配置以完成部署。"
 
 #: src/views/portfolio/components/Portfolio.tsx:123
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:74
 msgid "Please connect your wallet"
-msgstr ""
+msgstr "请连接你的钱包"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:52
 msgid "Please don't close this window to avoid issues finding your way back here."
-msgstr ""
+msgstr "请不要关闭此窗口以避免您在这里找到回来的问题。"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:149
 msgid "Please keep in mind that interactions with the Ethereum or Base blockchains are pseudonymous and publicly available."
-msgstr ""
+msgstr "请记住，与以太坊或基础区块链的互动是伪名和公开的。"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:22
 msgid "Please read more about how Register manage tokens on our repository"
-msgstr ""
+msgstr "请阅读更多关于注册如何管理我们仓库中的令牌的信息"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/ClaimFromTraderButton.tsx:72
 msgid "Please select an asset to claim"
-msgstr ""
+msgstr "请选择要申领的资产"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:28
 msgid "Please sign the transaction in your wallet to continue with the deployment process."
-msgstr ""
+msgstr "请在您的钱包中签名交易以继续部署过程。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:60
 msgid "Please sign the transaction in your wallet to continue with the governance process."
-msgstr ""
+msgstr "请在你的钱包中签名交易以继续管理过程。"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:28
 msgid "Please sign the transaction in your wallet to continue with the government configuration process."
-msgstr ""
+msgstr "请在你的钱包中签名交易以继续政府的配置过程。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:43
 msgid "Please wait while the simulation executes"
-msgstr ""
+msgstr "正在执行模拟，请稍等"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:62
 msgid "Pool"
-msgstr ""
+msgstr "池子"
 
 #: src/views/portfolio/components/Portfolio.tsx:114
 msgid "Portfolio"
-msgstr ""
+msgstr "投资组合"
 
 #: src/components/transaction-modal/index.tsx:154
 msgid "Preparing transaction"
-msgstr ""
+msgstr "准备交易"
 
 #: src/components/tables/ListedTokensTable.tsx:37
 #: src/views/explorer/components/tokens/index.tsx:148
 #: src/views/tokens/components/UnlistedTokensTable.tsx:80
 msgid "Price"
-msgstr ""
+msgstr "价格"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:195
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:20
@@ -1702,269 +1702,269 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:64
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:11
 msgid "Primary basket"
-msgstr ""
+msgstr "主要收藏夹"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:199
 #: src/views/yield-dtf/settings/components/basket-info.tsx:15
 msgid "Primary Basket"
-msgstr ""
+msgstr "主要篮子"
 
 #: src/components/rtoken-setup/atoms.ts:113
 msgid "Primary basket not defined"
-msgstr ""
+msgstr "未定义主收藏夹"
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:95
 msgid "Proceed in wallet"
-msgstr ""
+msgstr "继续在钱包"
 
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:76
 msgid "Processing..."
-msgstr ""
+msgstr "正在处理..."
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:102
 msgid "Project"
-msgstr ""
+msgstr "项目"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:86
 msgid "Proposal execution delay (hours)"
-msgstr ""
+msgstr "建议执行延迟 (小时)"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:70
 #: src/views/yield-dtf/settings/components/governance-info.tsx:54
 msgid "Proposal Threshold"
-msgstr ""
+msgstr "建议阈值"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:100
 msgid "Proposal Threshold (%)"
-msgstr ""
+msgstr "建议阈值(%)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:49
 msgid "Proposal Title"
-msgstr ""
+msgstr "建议标题"
 
 #: src/views/explorer/components/governance/index.tsx:97
 #: src/views/index-dtf/governance/components/governance-stats.tsx:74
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:122
 msgid "Proposals"
-msgstr ""
+msgstr "建议"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:130
 msgid "Proposals voted"
-msgstr ""
+msgstr "已表决的提案"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:20
 msgid "Propose changes to ${0}"
-msgstr ""
+msgstr "提议对 ${0} 的更改"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:55
 msgid "Propose how the basket should be distributed going forward. "
-msgstr ""
+msgstr "提出如何向前分发篮子的建议。 "
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:86
 msgid "Propose new backup configuration"
-msgstr ""
+msgstr "提议新的备份配置"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:66
 msgid "Propose new basket"
-msgstr ""
+msgstr "提出新收藏夹"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:92
 msgid "Proposed"
-msgstr ""
+msgstr "提议"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:107
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:93
 msgid "Proposed by"
-msgstr ""
+msgstr "提议者"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:51
 #: src/views/yield-dtf/governance/views/proposal/components/Intro.tsx:44
 msgid "Protocol Docs"
-msgstr ""
+msgstr "Protocol Docs"
 
 #: src/views/earn/views/defi/components/earn-heading.tsx:15
 msgid "Provide liquidity across DeFi & earn more with your DTFs"
-msgstr ""
+msgstr "在 DeFi 全局提供流动资金并使用您的 DTF 赚更多"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-queue-button.tsx:78
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalQueue.tsx:31
 msgid "Queue proposal"
-msgstr ""
+msgstr "队列提案"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:58
 msgid "Quorum"
-msgstr ""
+msgstr "Quorum"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:113
 msgid "Quorum (%)"
-msgstr ""
+msgstr "Quorum (%)"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:112
 msgid "Quorum?:"
-msgstr ""
+msgstr "Quorum?:"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:183
 msgid "Read more about revenue distribution"
-msgstr ""
+msgstr "阅读更多关于收入分配的信息"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:108
 msgid "Receiving eth address"
-msgstr ""
+msgstr "接收eth地址"
 
 #: src/views/yield-dtf/governance/components/ProposalList.tsx:183
 msgid "Recent proposals"
-msgstr ""
+msgstr "最近提出的建议"
 
 #: src/views/tokens/components/TableFilters.tsx:70
 msgid "Record limit"
-msgstr ""
+msgstr "记录限制"
 
 #: src/components/transactions/table/index.tsx:46
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:26
 #: src/views/yield-dtf/issuance/components/redeem/RedeemInput.tsx:15
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:74
 msgid "Redeem"
-msgstr ""
+msgstr "Redeem"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:164
 msgid "Redeem - Global throttle"
-msgstr ""
+msgstr "兑换-全局流水线"
 
 #. placeholder {0}: rToken?.symbol
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:95
 #: src/views/yield-dtf/issuance/components/redeem/ConfirmRedemption.tsx:96
 msgid "Redeem {0}"
-msgstr ""
+msgstr "Redeem {0}"
 
 #: src/views/yield-dtf/issuance/components/redeem/RedeemInput.tsx:16
 msgid "Redeem amount"
-msgstr ""
+msgstr "兑换金额"
 
 #: src/views/yield-dtf/issuance/components/issue/IssuanceInfo.tsx:165
 msgid "Redeemable now"
-msgstr ""
+msgstr "现在可赎回"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:154
 msgid "Redemption amount - allows the issuer to limit the amount of RTokens redeemed per hour. This matters in the event of an exploit where an attacker tries to redeem RTokens.This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be redeemed."
-msgstr ""
+msgstr "赎回金额 - 允许发行商限制每小时兑换RTokens的金额。 当攻击者试图兑换RTokens时这个问题很重要。 他为有暂停或冻结权限的用户购买时间，以减少可以兑换的 RTokens 数量。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:141
 msgid "Redemption rate - allows the issuer to limit the amount of RTokens redeemed per hour based on a percentage of the current RToken market cap. This matters in the event of an exploit where an attacker tries to redeem RTokens. This buys time for users with pause or freeze permissions to reduce the amount of RTokens that can be redeemed."
-msgstr ""
+msgstr "兑换率 - 允许发行商根据当前RToken市场上限的百分比限制每小时兑换RTokens的金额。 当攻击者试图兑换RTokens时这个问题很重要。 这将为有暂停或冻结权限的用户购买时间，以减少可以兑换的 RTokens 数量。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:152
 #: src/components/rtoken-setup/token/BackingForm.tsx:153
 #: src/views/yield-dtf/settings/components/backing-info.tsx:75
 msgid "Redemption throttle amount"
-msgstr ""
+msgstr "赎回流量量"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:69
 msgid "Redemption throttle rate"
-msgstr ""
+msgstr "赎金流速率"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:140
 msgid "Redemption throttle Rate"
-msgstr ""
+msgstr "赎回流速率"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:139
 msgid "Redemption throttle rate (%)"
-msgstr ""
+msgstr "兑换节点率(%)"
 
 #: src/views/index-dtf/deploy/steps/confirm-deploy/simple/index.tsx:54
 msgid "Refresh quote"
-msgstr ""
+msgstr "刷新引用"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterProposal.tsx:31
 msgid "Register Assets"
-msgstr ""
+msgstr "注册资产"
 
 #: src/views/tokens/Tokens.tsx:14
 msgid "Register listed RTokens"
-msgstr ""
+msgstr "注册列出的 RTokens"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:21
 msgid "Register Listing"
-msgstr ""
+msgstr "注册列表"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRegisterPreview.tsx:32
 msgid "Registering assets"
-msgstr ""
+msgstr "注册资产"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterProposal.tsx:41
 msgid "Registration of an asset plugin enables the RToken to price an underlying ERC20 token. Where an asset plugin for the underlying token already exists, the existing asset plugin is replaced with the new one."
-msgstr ""
+msgstr "资产插件的注册使RToken能够为一个底层的 ERC20 令牌定价。 当基础令牌的资源插件已经存在时，现有的资源插件将被新的资源插件所替换。"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:13
 msgid "Regular minting "
-msgstr ""
+msgstr "常规刻录 "
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:29
 msgid "Related Contracts"
-msgstr ""
+msgstr "相关合同"
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:121
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:45
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:22
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:130
 msgid "Remove"
-msgstr ""
+msgstr "删除"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:17
 msgid "Required setup:"
-msgstr ""
+msgstr "需要设置："
 
 #: src/views/yield-dtf/issuance/components/balances/CollateralBalance.tsx:53
 msgid "Required:"
-msgstr ""
+msgstr "必填："
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:101
 msgid "Reserve aims to help people around the world maintain their spending power by allowing anyone to create asset-backed currencies with tokenized assets on the Ethereum blockchain in customizable and novel ways."
-msgstr ""
+msgstr "储备金旨在通过允许任何人以可定制和新颖的方式在以太库姆区块链上使用象征性资产创建以支持资产的货币来帮助全世界人民保持其支出能力。"
 
 #: src/components/layout/header/components/app-navigation.tsx:126
 msgid "Reserve Blog"
-msgstr ""
+msgstr "预留博客"
 
 #: src/components/layout/header/components/app-navigation.tsx:98
 msgid "Reserve Bridge"
-msgstr ""
+msgstr "后备桥"
 
 #: src/components/layout/header/components/app-navigation.tsx:144
 msgid "Reserve Discord"
-msgstr ""
+msgstr "Reserve Discord"
 
 #: src/components/layout/header/components/app-navigation.tsx:132
 msgid "Reserve Docs"
-msgstr ""
+msgstr "后备文档"
 
 #: src/components/layout/header/components/app-navigation.tsx:138
 msgid "Reserve Forum"
-msgstr ""
+msgstr "后备论坛"
 
 #: src/views/yield-dtf/overview/components/backing/risks.tsx:38
 msgid "Reserve Protocol Smart-Contract Risk"
-msgstr ""
+msgstr "储备协议Smart合同风险"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:22
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:104
 msgid "Revenue distribution"
-msgstr ""
+msgstr "收入分配"
 
 #: src/components/rtoken-setup/token/RevenueSplit.tsx:109
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:14
 msgid "Revenue Distribution"
-msgstr ""
+msgstr "收入分配"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:197
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalNavigation.tsx:19
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:13
 msgid "Revenue share"
-msgstr ""
+msgstr "收入份额"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:108
 msgid "Revenue split"
-msgstr ""
+msgstr "收入拆分"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ItemPreview.tsx:50
 #: src/views/yield-dtf/governance/views/proposal/components/ListItemPreview.tsx:28
@@ -1972,32 +1972,32 @@ msgstr ""
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedBasketPreview.tsx:47
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedRevenueSplitPreview.tsx:140
 msgid "Revert"
-msgstr ""
+msgstr "恢复"
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:90
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:63
 msgid "Review stake"
-msgstr ""
+msgstr "评论主题"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:26
 msgid "Reward ratio"
-msgstr ""
+msgstr "奖励比率"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:79
 msgid "Reward ratio - amount of the current reward amount that should be handed out in a single block. The default corresponds to a half life of approximately 15 days."
-msgstr ""
+msgstr "奖励比率——应在单个区块中分配的当前奖励金额的金额。 缺省相当于大约15天的半衰期。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:77
 msgid "Reward ratio (decimals)"
-msgstr ""
+msgstr "奖励比率(小数)"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalForm.tsx:58
 msgid "RFC"
-msgstr ""
+msgstr "RFC"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:48
 msgid "Risk evaluation"
-msgstr ""
+msgstr "风险评估"
 
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:175
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:181
@@ -2005,325 +2005,325 @@ msgstr ""
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:69
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:82
 msgid "Role held by:"
-msgstr ""
+msgstr "所担任的角色："
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:68
 #: src/views/index-dtf/settings/components/index-settings-roles.tsx:37
 #: src/views/yield-dtf/settings/components/listing-info.tsx:47
 msgid "Roles"
-msgstr ""
+msgstr "角色"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:193
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:9
 #: src/views/yield-dtf/settings/components/rtoken-management.tsx:43
 msgid "Roles & Controls"
-msgstr ""
+msgstr "角色与控制"
 
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:24
 msgid "RSR available to withdraw"
-msgstr ""
+msgstr "RSR 可用来提款"
 
 #: src/views/yield-dtf/overview/components/charts/staking-chart.tsx:97
 msgid "RSR Staked"
-msgstr ""
+msgstr "RSR 已被关注"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:23
 msgid "RSR Stakers"
-msgstr ""
+msgstr "RSR 标记"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:20
 msgid "RSR Trader"
-msgstr ""
+msgstr "RSR 交易"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:22
 msgid "RToken Address"
-msgstr ""
+msgstr "RToken 地址"
 
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:50
 msgid "RToken Deployment Transaction succeeded"
-msgstr ""
+msgstr "RToken 部署交易成功"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:15
 msgid "RToken Details"
-msgstr ""
+msgstr "RToken 详细信息"
 
 #: src/views/yield-dtf/settings/components/revenue-split-info.tsx:17
 msgid "RToken holders"
-msgstr ""
+msgstr "RToken 所有者"
 
 #: src/views/yield-dtf/issuance/components/balances/index.tsx:40
 msgid "RToken in Wallet"
-msgstr ""
+msgstr "钱包中的 RToken"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:38
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:50
 msgid "RToken mandate"
-msgstr ""
+msgstr "RToken mandate"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:34
 msgid "RToken Maximum trade volume"
-msgstr ""
+msgstr "RToken 最大交易量"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:103
 msgid "RToken Maximum trade volume ($)"
-msgstr ""
+msgstr "RToken 最大交易量 ($)"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:19
 msgid "RToken Trader"
-msgstr ""
+msgstr "RToken 交易"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:140
 msgid "RToken will be fully functional"
-msgstr ""
+msgstr "RToken 将完全运行"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:137
 msgid "RToken will be left in pause state"
-msgstr ""
+msgstr "RToken 将处于暂停状态"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:91
 msgid "RToken will be ready to use after this TX if you choose to unpause."
-msgstr ""
+msgstr "如果您选择取消暂停，RToken将准备在此TX后使用。"
 
 #: src/views/yield-dtf/overview/components/backing/index.tsx:89
 msgid "RTokens are 100% backed by a diversified set of underlying collateral tokens..."
-msgstr ""
+msgstr "RTokens是100%的背后附属代币..."
 
 #: src/views/tokens/Tokens.tsx:17
 msgid "RTokens in this list is not an endorsement or audited by us. It's simply RTokens that have gone through our listing process and don't seem like clear scams."
-msgstr ""
+msgstr "此列表中的 Rokens 不是我们的认可或审核。 仅仅是RTokens，它已经经历了我们的列表过程，不像是清除故障。"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:120
 #: src/components/rtoken-setup/components/RolesEdit.tsx:48
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:47
 #: src/views/yield-dtf/staking/components/stake/edit-delegate.tsx:31
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: src/views/tokens/components/TableFilters.tsx:19
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: src/views/index-dtf/governance/views/propose/index.tsx:51
 msgid "Select proposal type"
-msgstr ""
+msgstr "选择提案类型"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:31
 msgid "Selling"
-msgstr ""
+msgstr "销售中"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:78
 msgid "Settle all"
-msgstr ""
+msgstr "全部解决"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/SettleableAuctions.tsx:71
 msgid "Settleable auctions"
-msgstr ""
+msgstr "可清算的拍卖方式"
 
 #: src/views/yield-dtf/settings/components/governance-prompt.tsx:21
 msgid "Setup Governance"
-msgstr ""
+msgstr "设置管理"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:41
 msgid "Shared externally"
-msgstr ""
+msgstr "外部共享"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:36
 msgid "Shared with RSR Stakers"
-msgstr ""
+msgstr "与RSR Stakers 共享"
 
 #: src/views/yield-dtf/overview/components/backing/revenue-split-overview.tsx:33
 msgid "Shared with RToken Holders"
-msgstr ""
+msgstr "与 RToken 控件人共享"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:36
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:39
 msgid "Short Freeze"
-msgstr ""
+msgstr "短速冻机"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:13
 msgid "Short freeze duration"
-msgstr ""
+msgstr "短冻结持续时间"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:22
 msgid "Short freeze duration (s)"
-msgstr ""
+msgstr "短期冻结期限 (s)"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:24
 msgid "Short freezers have the responsibility of freezing an RToken if anything dangerous or suspicious is happening. This is a one-shot freeze and the role will be revoked after a single use. This field determines how long the RToken will remain frozen until the freeze expires or is extended by another actor."
-msgstr ""
+msgstr "如果出现任何危险或可疑情况，短期冻结者有责任冻结RToken。 这是一次性的冻结，只需一次使用后将撤销该角色。 此字段决定RToken在冻结到期或由其他行为者延长之前将保持多长时间。"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ContractProposalDetails.tsx:105
 msgid "Signature"
-msgstr ""
+msgstr "签名"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:51
 msgid "Signing Tx 1"
-msgstr ""
+msgstr "签名 Tx 1"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:55
 msgid "Signing Tx 2"
-msgstr ""
+msgstr "签名 Tx 2"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:56
 msgid "Simulate proposal"
-msgstr ""
+msgstr "模拟提案"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:91
 msgid "Simulate Proposal"
-msgstr ""
+msgstr "模拟提案"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:32
 msgid "Simulation successful ✓"
-msgstr ""
+msgstr "仿真成功"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SimulateProposal.tsx:33
 msgid "Simulation unsuccessful ✘"
-msgstr ""
+msgstr "模拟失败的"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/UnavailableRevenueAuctions.tsx:128
 msgid "Small revenue auctions"
-msgstr ""
+msgstr "小规模的收入拍卖活动"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:34
 msgid "Snapshot Delay"
-msgstr ""
+msgstr "快照延迟"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:31
 msgid "Sold"
-msgstr ""
+msgstr "已销售"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:26
 msgid "Some collateral tokens from protocols like Aave and Convex differ technically from other collateral tokens. To ensure proper handling, they must be wrapped in a contract for effective monitoring. Once wrapped, the collateral remains the same but has a new interface for price and appreciation tracking."
-msgstr ""
+msgstr "Aave 和 Convex 等协议中的一些抵押代币在技术上与其他抵押代币不同。 为了确保妥善处理，必须将其包装成有效监测的合同。 一旦包装，抵押品保持不变，但有一个新接口用于价格和升值跟踪。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:37
 msgid "Spell 1"
-msgstr ""
+msgstr "Spell 1"
 
 #: src/views/yield-dtf/governance/views/proposal/components/SpellUpgradePreview.tsx:37
 msgid "Spell 2"
-msgstr ""
+msgstr "Spell 2"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:44
 msgid "St Token Ticker"
-msgstr ""
+msgstr "St 令牌Ticker"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:175
 #: src/components/transactions/table/index.tsx:53
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:33
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:81
 msgid "Stake"
-msgstr ""
+msgstr "拉克"
 
 #: src/components/layout/navigation/index.tsx:78
 msgid "Stake + Unstake"
-msgstr ""
+msgstr "棍子 + 取消利害关系"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:49
 msgid "Stake pool"
-msgstr ""
+msgstr "潜水池子"
 
 #: src/views/yield-dtf/overview/components/hero/token-stats.tsx:52
 msgid "Stake pool USD value:"
-msgstr ""
+msgstr "兴趣池美元值："
 
 #: src/views/yield-dtf/staking/components/stake/stake-button.tsx:30
 msgid "Stake RSR"
-msgstr ""
+msgstr "Stake RSR"
 
 #: src/views/tokens/components/UnlistedTokensTable.tsx:105
 msgid "Staked"
-msgstr ""
+msgstr "已关注"
 
 #: src/views/explorer/components/tokens/index.tsx:156
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-wrapper.tsx:105
 msgid "Staked RSR"
-msgstr ""
+msgstr "关注的 RSR"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:197
 msgid "Staked RSR Overcollateralisation"
-msgstr ""
+msgstr "Staked RSR 叠加层"
 
 #: src/views/explorer/components/tokens/index.tsx:168
 msgid "Stakers APY"
-msgstr ""
+msgstr "广告主"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:12
 msgid "Staking RSR"
-msgstr ""
+msgstr "Staking RSR"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:40
 msgid "Staking token"
-msgstr ""
+msgstr "Staking token"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:46
 msgid "Staking yield share ends"
-msgstr ""
+msgstr "预订产量共享结束"
 
 #: src/components/transactions/table/index.tsx:50
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:30
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:78
 msgid "Start Issue"
-msgstr ""
+msgstr "开始问题"
 
 #: src/views/explorer/components/governance/index.tsx:76
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:65
 msgid "Status:"
-msgstr ""
+msgstr "状态："
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:46
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:77
 msgid "Stay patient while the transaction is in progress & don't close this window to avoid issues finding your way back here."
-msgstr ""
+msgstr "在交易进行中时保持耐心，不要关闭此窗口以避免您在这里找到的问题。"
 
 #: src/components/layout/header/components/app-navigation.tsx:128
 msgid "Stay up to date in long form"
-msgstr ""
+msgstr "长形式保持最新状态"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:81
 msgid "Still have questions? Come talk to us in the Reserve Discord server. We’d be happy to help! You can also"
-msgstr ""
+msgstr "仍然有问题？快来到后备Discord服务器与我们谈话。我们很乐意帮忙！你也可以帮忙。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:78
 msgid "stRSR payout fraction 0.0"
-msgstr ""
+msgstr "stRSR 支付 0.0"
 
 #: src/views/yield-dtf/settings/components/contracts-info.tsx:23
 msgid "stRSR Token"
-msgstr ""
+msgstr "stRSR 令牌"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:95
 msgid "Submit proposal on-chain"
-msgstr ""
+msgstr "在链上提交提案"
 
 #: src/views/yield-dtf/overview/components/charts/supply-chart.tsx:85
 msgid "Supply"
-msgstr ""
+msgstr "供应"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:20
 msgid "Surplus below minimum trade"
-msgstr ""
+msgstr "低于最低交易量的剩余量"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:19
 msgid "Symbol"
-msgstr ""
+msgstr "符号"
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:105
 msgid "Target:"
-msgstr ""
+msgstr "Target:"
 
 #: src/components/tables/ListedTokensTable.tsx:53
 #: src/views/explorer/components/tokens/index.tsx:172
 #: src/views/tokens/components/UnlistedTokensTable.tsx:95
 msgid "Target(s)"
-msgstr ""
+msgstr "Target(s)"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/claim-rewards/components/TraderEmissions.tsx:156
 msgid "The amount of assets selected affects the gas price, this asset may not be worth claiming yet."
-msgstr ""
+msgstr "所选资产的数量影响气体价格，这一资产可能还不值得索取。"
 
 #: src/components/account/index.tsx:48
 msgid "The configured network \"{currentChain}\" is different from the wallet selected network \"{chainId}\"\". Change your network in the connected wallet."
@@ -2331,55 +2331,55 @@ msgstr ""
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:39
 msgid "The creation of new RToken designs is permissionless. If you are the inventive type and have ideas for what assets should be in the basket, what a good governance looks like, or anything novel that could work within the realms of the protocol, please consider putting those ideas into practice or sharing them with the community."
-msgstr ""
+msgstr "创建新的 RToken 设计是没有权限的。 如果你是发明型的，并且对什么资产应该是一篮子有想法，那么善政就看起来是什么样的。 请考虑将这些想法付诸实践或与社区分享这些想法。"
 
 #: src/components/rtoken-setup/basket/EmergencyCollateral.tsx:157
 msgid "The diversity factor determines the amount of emergency collateral that will be deployed to the RToken basket in the case of a default."
-msgstr ""
+msgstr "多样性系数决定了在默认情况下会部署到 RToken 篮子的紧急抵押品数量。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:75
 msgid "The dutch auction length is how many seconds long falling-price dutch auctions should be. A longer period will result in less slippage due to better price granularity, and a shorter period will result in more slippage."
-msgstr ""
+msgstr "拍卖时长度指的是多长降价拍卖本应达到多少秒。 较长的时间将使价格更加稀缺，从而减少滑坡，缩短时间将导致更多滑坡。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:52
 msgid "The fraction of RSR stake that should be permitted to withdraw without a refresh. When cumulative withdrawals (or a single withdrawal) exceed this fraction, gas must be paid to refresh all assets."
-msgstr ""
+msgstr "允许在不刷新的情况下提款的 RSR 股份的一小部分。 当累积提取(或一次提取)超过此分数时，必须支付气体才能刷新所有资产。"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:98
 msgid "The guardian has the ability to reject proposals even if they pass. Should be assigned to a multisig or EOA that can be trusted to act as a backstop. It is acceptable if it is relatively slow to act. Only one guardian address should be defined."
-msgstr ""
+msgstr "监护人即使通过建议，也有能力拒绝这些建议。 应该分配给多层或EOA，可以信任它作为支持。 如果行动相对缓慢，它是可以接受的，只能确定一个监护人的地址。"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:51
 msgid "The mandate describes what goals its governors should try to achieve. By briefly explaining the RToken's purpose and what the RToken is intended to do, it provides common ground for the governors to decide upon priorities and how to weigh tradeoffs."
-msgstr ""
+msgstr "任务规定描述了省长应努力实现的目标。 简要解释RToken的宗旨以及RToken打算做什么， 它为省长决定优先事项和如何权衡权衡权衡权衡提供了共同基础。"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:89
 msgid "The minimum amount of time after a proposal passes before it can be executed."
-msgstr ""
+msgstr "建议执行后的最短时间。"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:102
 msgid "The minimum percentage of stRSR ownership on an RToken to be able to create a proposal."
-msgstr ""
+msgstr "RToken创建建议书的最低标准持有者比例。"
 
 #: src/components/rtoken-setup/governance/GovernanceParameters.tsx:115
 msgid "The minimum percentage of stRSR voter participation (either For or Abstain) on a proposal before it can be passed."
-msgstr ""
+msgstr "在一项提案获得通过之前对该提案的最低限度参与标准(无论是为了还是为了弃权： )的选民参与百分比。"
 
 #: src/views/yield-dtf/settings/components/pause-manager.tsx:97
 msgid "The pauser(s) can put the RToken in two states which can be either true or false (no set duration):"
-msgstr ""
+msgstr "暂停者可以将RToken放入两个可能是真的或是虚假的(没有设定的持续时间)："
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:98
 msgid "The Reserve Project"
-msgstr ""
+msgstr "储备项目"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:17
 msgid "The Reserve Protocol makes a few different types of trades"
-msgstr ""
+msgstr "储备协议有几种不同的交易"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposalBasketSetup.tsx:50
 msgid "The token supply is not enough for changing the primary basket safely, contact the Reserve team for recommendations."
-msgstr ""
+msgstr "代币供应不足以安全地改变初级篮子，请联系储备团队寻求建议。"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:78
 msgid "The top level decision maker, typically a decentralized governance smart contract, responsible for setting or updating all RToken parameter values, RToken baskets, etc. - The RToken OWNER has the power to:\n"
@@ -2388,63 +2388,68 @@ msgid "The top level decision maker, typically a decentralized governance smart 
 "          freeze and unfreeze the system\n"
 "          set governance parameters\n"
 "          upgrade system contracts"
-msgstr ""
+msgstr "最高层决策者，通常是分散治理智能合同，负责设置或更新所有RToken参数值、RToken篮子等。 - RToken OWNER 有权：\n"
+"          授予并撤销任何Etherum账户的角色\n"
+"          暂停并取消系统暂停\n"
+"          冻结并解冻系统\n"
+"          设置管理参数\n"
+"          升级系统合同"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:47
 msgid "The warmup period is how many seconds should pass after the basket regained the SOUND status before an RToken can be issued and/or a trade can be opened."
-msgstr ""
+msgstr "升温时间是在篮子重新获得SOUND状态后，RToken才能发行和/或开启交易后多少秒。"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:112
 msgid "There's two freezing roles that put the system in the same state for different durations:"
-msgstr ""
+msgstr "有两种冻结角色使系统处于不同的状态："
 
 #: src/components/rtoken-setup/components/RolesEdit.tsx:36
 msgid "This address already holds this role"
-msgstr ""
+msgstr "此地址已经拥有此角色"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:112
 msgid "This App"
-msgstr ""
+msgstr "此应用"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:115
 msgid "This app is an open source project developed and maintained by ABC Labs to interact with the Reserve Protocol and various DTFs deployed with the protocol."
-msgstr ""
+msgstr "这个应用程序是一个由ABC Labs开发和维护的开放源码项目，用于与保留协议和协议中部署的各种DTF进行交互。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/RegisterEdit.tsx:32
 msgid "This asset is already (being) registered"
-msgstr ""
+msgstr "此资产已经注册 (正在)"
 
 #: src/components/field/index.tsx:33
 msgid "This field is required"
-msgstr ""
+msgstr "此字段是必填项"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:57
 msgid "This is the target collateral basket at the onset of an RToken that defines which collateral needs to be deposited for issuances. The prime basket is directly set by governance, and only changes through successful governance proposals."
-msgstr ""
+msgstr "这是RToken开始时的目标抵押品篮子，它规定了需要存入哪些抵押品以供签发。 主要的一揽子方案是由治理直接确定的，只有通过成功的治理建议才能改变。"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:28
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:21
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:30
 msgid "Ticker"
-msgstr ""
+msgstr "Ticker"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:32
 msgid "Ticker - symbol eg. USD+"
-msgstr ""
+msgstr "Ticker - 符号，例如USD+"
 
 #: src/components/transactions/table/index.tsx:87
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:104
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:145
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: src/views/yield-dtf/settings/components/governance-info.tsx:62
 msgid "Timelock address"
-msgstr ""
+msgstr "Timelock 地址"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:53
 msgid "Timelock Address"
-msgstr ""
+msgstr "Timelock 地址"
 
 #: src/components/tables/ListedTokensTable.tsx:27
 #: src/views/explorer/components/governance/index.tsx:38
@@ -2452,484 +2457,484 @@ msgstr ""
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:46
 #: src/views/tokens/components/UnlistedTokensTable.tsx:67
 msgid "Token"
-msgstr ""
+msgstr "令牌"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:194
 #: src/views/yield-dtf/settings/components/navigation-sidebar.tsx:10
 msgid "Token details"
-msgstr ""
+msgstr "令牌详细信息"
 
 #: src/views/yield-dtf/settings/components/basic-info.tsx:13
 msgid "Token Details"
-msgstr ""
+msgstr "令牌详细信息"
 
 #: src/views/yield-dtf/overview/components/collateral-pie-chart-tooltip.tsx:162
 msgid "Token exposure"
-msgstr ""
+msgstr "令牌曝光"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:19
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:20
 msgid "Token name"
-msgstr ""
+msgstr "代币名称"
 
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:22
 msgid "Token name - the name of the RToken eg. Savings Dollar"
-msgstr ""
+msgstr "令牌名称 - RToken 的名称 例如储蓄美元"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:24
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:26
 msgid "Token name required"
-msgstr ""
+msgstr "必须输入令牌名称"
 
 #: src/components/rtoken-setup/token/TokenForm.tsx:33
 #: src/views/yield-dtf/deploy/components/TokenForm.tsx:35
 msgid "Token ticker is required"
-msgstr ""
+msgstr "需要标记标记"
 
 #: src/views/explorer/components/filters/TokenFilter.tsx:36
 msgid "Tokens"
-msgstr ""
+msgstr "令牌"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RevenueAuctionItem.tsx:110
 msgid "Tokens to match trade"
-msgstr ""
+msgstr "匹配交易的令牌"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:141
 msgid "Top voting addresses"
-msgstr ""
+msgstr "最热门投票地址"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:81
 msgid "Total % to arbitrary address"
-msgstr ""
+msgstr "总% 到任意地址"
 
 #: src/components/rtoken-setup/basket/PrimaryBasket.tsx:176
 msgid "Total initial RToken scale including all targets. If your RToken only has one target unit this will be the same as the basket scale input."
-msgstr ""
+msgstr "包括所有目标在内的初始RToken总比例。如果您的 RToken 仅有一个目标单位，那么这将与篮子比例的输入相同。"
 
 #: src/views/yield-dtf/overview/components/hero/token-stats.tsx:32
 msgid "Total Market Cap"
-msgstr ""
+msgstr "总市场帽子"
 
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:54
 msgid "Total RSR staked"
-msgstr ""
+msgstr "RS 总订阅量"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:23
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:34
 msgid "Trader contract address"
-msgstr ""
+msgstr "交易合同地址"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:24
 msgid "Trader contract for batch trades."
-msgstr ""
+msgstr "批量交易的交易合同。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:35
 msgid "Trader contract for Dutch trades."
-msgstr ""
+msgstr "荷兰贸易贸易商合同。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/TraderImplementationProposal.tsx:18
 msgid "Trader implementations"
-msgstr ""
+msgstr "交易实现程序"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:32
 msgid "Trading delay"
-msgstr ""
+msgstr "交易延迟"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:33
 msgid "Trading delay - how many seconds should pass after the basket has been changed, before a rebalancing trade is opened. Why does this matter? To avoid losses due to poor liquidity."
-msgstr ""
+msgstr "交易延时 - 在重新平衡贸易之前需要多少秒钟。 为什么这么重要？ 为了避免因流动性差而造成的损失。"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:31
 msgid "Trading delay (s)"
-msgstr ""
+msgstr "交易延迟 (s)"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:48
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:49
 msgid "Transaction 1"
-msgstr ""
+msgstr "交易 1"
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:64
 msgid "Transaction 2"
-msgstr ""
+msgstr "交易 2"
 
 #: src/hooks/useWatchTransaction.ts:54
 msgid "Transaction confirmed"
-msgstr ""
+msgstr "交易已确认"
 
 #: src/components/transaction-modal/index.tsx:140
 msgid "Transaction failed"
-msgstr ""
+msgstr "交易失败"
 
 #: src/hooks/useWatchTransaction.ts:71
 msgid "Transaction reverted"
-msgstr ""
+msgstr "交易已恢复"
 
 #: src/components/transaction-modal/transaction-confirmed-modal.tsx:32
 #: src/components/transaction-modal/TransactionConfirmedModal.tsx:28
 msgid "Transaction signed!"
-msgstr ""
+msgstr "交易已签署！"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:43
 #: src/views/yield-dtf/governance/views/proposal/components/ConfirmProposalOverview.tsx:74
 msgid "Transaction submitted"
-msgstr ""
+msgstr "交易已提交"
 
 #: src/components/layout/navigation/TokenNavigation.tsx:165
 #: src/views/explorer/components/transactions/index.tsx:38
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:220
 msgid "Transactions"
-msgstr ""
+msgstr "交易记录"
 
 #: src/components/transactions/table/index.tsx:47
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:27
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:75
 msgid "Transfer"
-msgstr ""
+msgstr "转移"
 
 #: src/components/layout/header/components/app-navigation.tsx:104
 msgid "Transfer DTFs across chains"
-msgstr ""
+msgstr "将DTFs 跨链转移"
 
 #: src/views/yield-dtf/auctions/components/About.tsx:71
 msgid "Trigger an Auction"
-msgstr ""
+msgstr "触发一个拍卖方式"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/MeltingBox.tsx:49
 msgid "Trigger melt"
-msgstr ""
+msgstr "触发熔化"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:16
 msgid "Trigger Unstake"
-msgstr ""
+msgstr "触发器取消利害关系"
 
 #: src/views/yield-dtf/issuance/components/zapV2/ZapToggle.tsx:23
 msgid "Turn on Zaps to mint using 1 asset"
-msgstr ""
+msgstr "打开Zaps 使用1个素材"
 
 #: src/views/yield-dtf/deploy/components/Intro.tsx:44
 msgid "Tutorial video"
-msgstr ""
+msgstr "教程视频"
 
 #: src/views/earn/hooks/useEarnTableColumns.tsx:170
 msgid "TVL"
-msgstr ""
+msgstr "TVL"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:49
 msgid "Tx 1"
-msgstr ""
+msgstr "Tx 1"
 
 #: src/views/yield-dtf/deploy/components/NavigationSidebar.tsx:53
 msgid "Tx 2"
-msgstr ""
+msgstr "Tx 2"
 
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:175
 msgid "Tx Hash"
-msgstr ""
+msgstr "Tx 哈希"
 
 #: src/components/ui/transaction-button.tsx:140
 #: src/components/ui/transaction-button.tsx:200
 msgid "Tx in process..."
-msgstr ""
+msgstr "Tx 正在处理中..."
 
 #: src/views/explorer/components/filters/TransactionTypeFilter.tsx:35
 msgid "Tx Type"
-msgstr ""
+msgstr "Tx 类型"
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:123
 msgid "Tx1. RToken Deploy"
-msgstr ""
+msgstr "Tx1. RToken Deploy"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:120
 msgid "Tx2. Governance"
-msgstr ""
+msgstr "Tx2. 治理"
 
 #: src/components/tables/ListedTokensTable.tsx:45
 #: src/views/tokens/components/UnlistedTokensTable.tsx:88
 msgid "Txs"
-msgstr ""
+msgstr "Txs"
 
 #: src/components/transactions/table/index.tsx:66
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:68
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:96
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: src/views/yield-dtf/overview/components/backing/platform-exposure.tsx:58
 msgid "Underlying Platform Exposure"
-msgstr ""
+msgstr "基础平台曝光"
 
 #: src/views/index-dtf/settings/components/index-settings-governance-token.tsx:25
 msgid "Underlying Token"
-msgstr ""
+msgstr "底部令牌"
 
 #: src/views/yield-dtf/overview/components/backing/token-exposure.tsx:90
 msgid "Underlying Token Exposure"
-msgstr ""
+msgstr "基础令牌曝光"
 
 #: src/components/layout/header/components/app-navigation.tsx:134
 msgid "Understand the project and protocols"
-msgstr ""
+msgstr "了解项目和协议"
 
 #: src/views/yield-dtf/settings/components/freeze-manager.tsx:103
 msgid "Unfreeze"
-msgstr ""
+msgstr "解冻的"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RecollaterizationAlert.tsx:24
 msgid "Unknown amount of recollateralization auctions left to run"
-msgstr ""
+msgstr "有待运行的重新收回拍卖数量未知"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:43
 msgid "Unpausing"
-msgstr ""
+msgstr "Unpausing"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterEdit.tsx:59
 msgid "Unregister"
-msgstr ""
+msgstr "取消注册"
 
 #: src/views/yield-dtf/governance/views/proposal/components/UnregisterProposal.tsx:38
 msgid "Unregister Assets"
-msgstr ""
+msgstr "取消注册资产"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ProposedUnregisterPreview.tsx:29
 msgid "Unregistering assets"
-msgstr ""
+msgstr "取消注册资产"
 
 #: src/components/transactions/table/index.tsx:54
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:34
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:82
 msgid "Unstake"
-msgstr ""
+msgstr "取消利害关系"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:38
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:86
 msgid "Unstake Cancelled"
-msgstr ""
+msgstr "取消订阅已取消"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-button.tsx:35
 msgid "Unstake RSR"
-msgstr ""
+msgstr "取消订阅RSR"
 
 #: src/views/yield-dtf/settings/components/other-info.tsx:22
 #: src/views/yield-dtf/staking/components/overview/staking-stats.tsx:73
 msgid "Unstaking Delay"
-msgstr ""
+msgstr "卸载延迟"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:65
 msgid "Unstaking delay - number of seconds that all RSR unstaking must be delayed in order to account for stakers trying to frontrun defaults and needs to be longer than \"governance\" for proper incentives for basket changes."
-msgstr ""
+msgstr "打开延迟-所有RS 取消标记必须延迟的秒数才能为试图前台默认状态的标记计数，并且需要长于“管理”才能为篮子更改提供适当的奖励。"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:63
 msgid "Unstaking Delay (s)"
-msgstr ""
+msgstr "取消延迟(s)"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:55
 msgid "Unstaking delay:"
-msgstr ""
+msgstr "取消挂起延迟："
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:37
 msgid "Unstaking RSR"
-msgstr ""
+msgstr "正在取消RSR"
 
 #: src/components/account/index.tsx:44
 msgid "Unsupported"
-msgstr ""
+msgstr "不支持"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapTypeToggle.tsx:29
 msgid "Unwrap collaterals"
-msgstr ""
+msgstr "卸载担保物"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgrades.tsx:141
 msgid "Upgrade contract implementations to a newer version. This is usually performed for a protocol update or bugfix."
-msgstr ""
+msgstr "将合同实现升级为较新版本。这通常用于协议更新或bugfix。"
 
 #: src/views/yield-dtf/governance/views/proposal/components/ContractUpgrades.tsx:126
 msgid "Upgrade contracts"
-msgstr ""
+msgstr "升级合同"
 
 #: src/views/explorer/components/transactions/useTransactionColumns.tsx:94
 msgid "USD Value"
-msgstr ""
+msgstr "美元价值"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:135
 msgid "Use a custom plugin contract address"
-msgstr ""
+msgstr "使用自定义插件合同地址"
 
 #: src/components/rtoken-setup/governance/GovernanceSetup.tsx:48
 msgid "Use the Alexios governor format?"
-msgstr ""
+msgstr "使用 Alexios 调节器格式？"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:139
 msgid "User Tracking"
-msgstr ""
+msgstr "用户跟踪"
 
 #: src/components/rtoken-setup/basket/CustomCollateral.tsx:120
 msgid "Validating..."
-msgstr ""
+msgstr "正在验证..."
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:69
 msgid "Verifying allowance..."
-msgstr ""
+msgstr "正在验证津贴..."
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:91
 msgid "Verifying transaction..."
-msgstr ""
+msgstr "正在验证交易..."
 
 #: src/components/rtoken-setup/basket/PluginItem.tsx:64
 #: src/views/index-dtf/settings/components/index-settings-basic.tsx:46
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: src/views/yield-dtf/settings/components/roles-view.tsx:60
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 #: src/views/discover/components/yield/components/TokenList.tsx:31
 msgid "View All"
-msgstr ""
+msgstr "查看全部"
 
 #: src/views/discover/components/yield/discover-yield-dtf.tsx:14
 msgid "View All, including unlisted"
-msgstr ""
+msgstr "查看所有，包括未列出的"
 
 #: src/views/yield-dtf/staking/components/stake/confirm-stake-button.tsx:131
 #: src/views/yield-dtf/staking/components/unstake/confirm-unstake-button.tsx:89
 msgid "View in explorer"
-msgstr ""
+msgstr "在浏览器中查看"
 
 #: src/components/transaction-modal/transaction-confirmed-modal.tsx:41
 #: src/components/transaction-modal/TransactionConfirmedModal.tsx:37
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:88
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:74
 msgid "View on"
-msgstr ""
+msgstr "查看于"
 
 #: src/views/yield-dtf/deploy/components/TransactionDivider.tsx:63
 msgid "View on Etherscan"
-msgstr ""
+msgstr "在以太扫描上查看"
 
 #: src/views/tokens/components/UnlistedTokensTable.tsx:91
 msgid "Volume (all time)"
-msgstr ""
+msgstr "卷(所有时间)"
 
 #: src/components/tables/ListedTokensTable.tsx:49
 msgid "Volume (last 7d)"
-msgstr ""
+msgstr "卷(最后7d)"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:63
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:148
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:129
 msgid "Vote"
-msgstr ""
+msgstr "投票"
 
 #: src/views/index-dtf/governance/views/proposal/components/proposal-vote-button.tsx:60
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVote.tsx:170
 msgid "Vote on-chain"
-msgstr ""
+msgstr "在链上投票"
 
 #: src/views/index-dtf/governance/components/governance-stats.tsx:79
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:132
 msgid "Vote Supply"
-msgstr ""
+msgstr "投票提供"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:111
 msgid "Vote weight"
-msgstr ""
+msgstr "投票权重"
 
 #: src/views/index-dtf/settings/components/index-settings-governance-token.tsx:18
 msgid "Vote-Lock DAO Token"
-msgstr ""
+msgstr "选票锁定 DAO 令牌"
 
 #: src/views/yield-dtf/governance/components/TopVoters.tsx:107
 msgid "Votes"
-msgstr ""
+msgstr "所得票数"
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:79
 msgid "Votes against"
-msgstr ""
+msgstr "所得票反对："
 
 #: src/views/yield-dtf/governance/views/proposal-detail/components/ProposalVotes.tsx:68
 msgid "Votes for"
-msgstr ""
+msgstr "所得票数"
 
 #: src/views/index-dtf/governance/views/proposal/components/vote-modal.tsx:97
 #: src/views/yield-dtf/governance/views/proposal-detail/components/VoteModal.tsx:83
 msgid "Voting"
-msgstr ""
+msgstr "表 决"
 
 #: src/views/index-dtf/governance/components/governance-stats.tsx:84
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:142
 msgid "Voting Addresses"
-msgstr ""
+msgstr "投票地址"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:60
 msgid "Voting Delay"
-msgstr ""
+msgstr "投票延迟"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:60
 msgid "Voting on the RToken you are staked on requires you to delegate your vote to yourself or another Eth address."
-msgstr ""
+msgstr "您在 RToken 上的投票需要您将您的投票委托给自己或另一个Eth 地址。"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:65
 #: src/views/yield-dtf/settings/components/governance-info.tsx:42
 msgid "Voting Period"
-msgstr ""
+msgstr "投票期"
 
 #: src/views/yield-dtf/governance/components/AccountVotes.tsx:83
 #: src/views/yield-dtf/governance/components/GovernanceOverview.tsx:103
 msgid "Voting power"
-msgstr ""
+msgstr "表 决 权"
 
 #: src/views/yield-dtf/staking/components/stake/delegate-stake.tsx:28
 msgid "Voting power delegation"
-msgstr ""
+msgstr "投票权授权"
 
 #: src/views/index-dtf/settings/components/index-settings-governance.tsx:81
 msgid "Voting Quorum"
-msgstr ""
+msgstr "表 决 法定人数"
 
 #: src/views/yield-dtf/auctions/auctions-sidebar/RecollaterizationAlert.tsx:29
 msgid "Wait to trigger revenue auctions until after recollateralization has finished."
-msgstr ""
+msgstr "等到重新担保结束后才能启动收入拍卖。"
 
 #: src/views/explorer/components/transactions/Filters.tsx:16
 msgid "Wallet"
-msgstr ""
+msgstr "钱包"
 
 #: src/views/portfolio/components/Portfolio.tsx:135
 msgid "Wallet staked RSR + RToken Value"
-msgstr ""
+msgstr "钱包staked RSR + RToken 值"
 
 #: src/components/rtoken-setup/token/BackingForm.tsx:45
 msgid "Warmup period (s)"
-msgstr ""
+msgstr "唤醒期 (s)"
 
 #: src/views/discover/components/yield/components/DeployHero.tsx:63
 msgid "Watch an intro to RTokens"
-msgstr ""
+msgstr "观看介绍到 RTokens"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:39
 msgid "Welcome to Reserve — a platform for creating, exploring, and interacting with Decentralized Token Folios (“DTFs”). A DTF is the generic name given to any onchain asset-backed index. DTFs can be created on Reserve’s Yield Protocol or Index Protocol permissionlessly, by any person or entity."
-msgstr ""
+msgstr "欢迎来到储备——一个创建、探索和与分散令牌Folios（“DTFs”）互动的平台。 DTF 是给任何在线资产支持索引的通用名称。 任何人或实体都可以在Reserve's Yield协议或索引协议上无需创建DTF。"
 
 #: src/views/yield-dtf/settings/components/listing-info.tsx:38
 msgid "What is Reserve Governor Alexios?"
-msgstr ""
+msgstr "什么是Reserve Governor Alexios？"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:14
 msgid "When staking RSR, you are putting your RSR at risk in the case of a collateral default in exchange for 1) the rights to govern the RToken and 2) for a portion of the revenue generated by the collateral. The revenue sent to the staked RSR pool will be distributed amongst RSR stakers proportionally to their stake in the pool."
-msgstr ""
+msgstr "staking RSR 在抵押违约的情况下，您正在将您的 RSR 置于风险中，以换取(1) 管理RToken 和 (2) 部分抵押品产生的收入的权利。 汇入有利害关系的RSR池的收入将按其在这个池中的股份按比例分配给RSR利益攸关者。"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:26
 msgid "When you stake your RSR, you will receive a stRSR receipt token which represents your ownership in the staked RSR contract. As revenue is distributed, the receipt token will be redeemable for an increasing amount of RSR. If there is a default scenario where the staked RSR is slashed, then the receipt token will be redeemable for a decreased amount of RSR."
-msgstr ""
+msgstr "当你关注你的 RSR 时，你将收到一个stRSR 收据标记，表示你在staked RSR 合同中的所有权。 随着收入的分配，收据令将可兑现越来越多的RR。 如果缺省情景中缺省的 RSR ，则收据令牌可以兑现减少的RR。"
 
 #: src/views/yield-dtf/staking/components/overview/about.tsx:39
 msgid "When you unstake your stRSR, there will be a delay (defined by governance). This is to eliminate game theory scenarios that would make the backstop RSR staked pool less effective because people would continually be incentivized to unstake and restake."
-msgstr ""
+msgstr "当你取消了你的stRSR时，将会出现延迟(由管理定义)。 这是为了消除游戏理论假设，这种假设假设情况会使得后台RS 混凝土变得不那么有效，因为人们会不断地受到激励以摆脱和重述的激励。"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:48
 msgid "Whether you’re an economist looking to improve the fiat standard, a DeFi entrepreneur seeking to fill a gap in the market, or simply an innovator with a wild idea, Reserve makes it easy to launch your own asset-backed index."
-msgstr ""
+msgstr "您是否是寻求改进纤维标准的经济学家，一位Defi 企业家试图填补市场中的一个缺口。 或者只是一个有野生概念的创新者，保留地使您很容易启动您自己的资产支持索引。"
 
 #: src/components/transactions/table/index.tsx:55
 #: src/components/transactions/table/index.tsx:57
@@ -2939,86 +2944,86 @@ msgstr ""
 #: src/views/yield-dtf/overview/components/rtoken-transactions.tsx:85
 #: src/views/yield-dtf/staking/components/withdraw/available-unstake.tsx:78
 msgid "Withdraw"
-msgstr ""
+msgstr "取款"
 
 #: src/views/yield-dtf/staking/components/unstake-delay.tsx:32
 msgid "Withdraw RSR"
-msgstr ""
+msgstr "取出 RSR"
 
 #: src/views/yield-dtf/settings/components/backing-info.tsx:24
 msgid "Withdrawal leak"
-msgstr ""
+msgstr "取出渗出"
 
 #: src/components/rtoken-setup/token/OtherForm.tsx:50
 msgid "Withdrawal leak (%)"
-msgstr ""
+msgstr "提款泄漏(%)"
 
 #: src/views/yield-dtf/auctions/components/useColumns.tsx:48
 msgid "Worst price"
-msgstr ""
+msgstr "最坏价格"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapTypeToggle.tsx:20
 msgid "Wrap collaterals"
-msgstr ""
+msgstr "折叠担保物"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:42
 msgid "Wrap/Unwrap collateral"
-msgstr ""
+msgstr "包装/卸料抵押物"
 
 #: src/views/yield-dtf/issuance/components/wrapping/WrapSidebarHeader.tsx:14
 msgid "Wrap/Unwrap Tokens"
-msgstr ""
+msgstr "Wrap/Unwrap Tokens"
 
 #: src/views/yield-dtf/issuance/components/about/index.tsx:23
 msgid "Wrapping collateral tokens"
-msgstr ""
+msgstr "包装附带令牌"
 
 #: src/components/rtoken-setup/token/ExternalRevenueSplit.tsx:119
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: src/components/layout/header/components/app-navigation.tsx:108
 msgid "Yield DTF Creator"
-msgstr ""
+msgstr "Yield DTF 创建者"
 
 #: src/views/discover/components/yield/components/RegisterAbout.tsx:67
 msgid "Yield DTFs (created on the Reserve Yield Protocol) feature built-in overcollateralization — a defense mechanism that helps protect stability if any backing assets default."
-msgstr ""
+msgstr "Yield DTF (在后备Yield 协议上创建) 具有内置的超额担保功能——一种防御机制，在任何支持资产缺省的情况下帮助保护稳定。"
 
 #: src/views/yield-dtf/deploy/components/GovernanceOverview.tsx:130
 msgid "You can leave your RToken paused and come back to setting up governance later."
-msgstr ""
+msgstr "您可以让您的 RToken 暂停，稍后再回来设置治理。"
 
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:31
 msgid "You receive:"
-msgstr ""
+msgstr "您收到："
 
 #: src/views/yield-dtf/deploy/components/RTokenSetup.tsx:49
 msgid "You submit the transaction configuring your RToken design"
-msgstr ""
+msgstr "您提交了配置您的 RToken 设计的交易"
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:34
 #: src/views/yield-dtf/staking/components/unstake/unstake-modal.tsx:25
 msgid "You use:"
-msgstr ""
+msgstr "您使用了："
 
 #: src/views/yield-dtf/deploy/components/DeployOverview.tsx:137
 msgid "You will be the temporary owner until governance is deployed in transaction 2."
-msgstr ""
+msgstr "您将是临时所有者，直到在交易2中部署治理。"
 
 #: src/views/yield-dtf/staking/components/stake/stake-modal.tsx:41
 msgid "You'll receive:"
-msgstr ""
+msgstr "您将收到："
 
 #: src/views/portfolio/components/Portfolio.tsx:152
 msgid "Your RTokens"
-msgstr ""
+msgstr "你的RTokens"
 
 #: src/views/yield-dtf/staking/components/stake-position.tsx:29
 msgid "Your stake position"
-msgstr ""
+msgstr "您的利益攸关位置"
 
 #: src/views/portfolio/components/Portfolio.tsx:158
 msgid "Your staked RSR"
-msgstr ""
+msgstr "您的收藏RSR"
 
